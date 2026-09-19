@@ -1,0 +1,135 @@
+import { readFile, writeFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
+
+const root = resolve(import.meta.dirname, '..');
+const sourcePath = resolve(root, 'README.md');
+const englishPath = resolve(root, 'README.en.md');
+const source = await readFile(englishPath, 'utf8').catch(() => readFile(sourcePath, 'utf8'));
+
+function replaceAll(text, pairs) {
+  return pairs.reduce((result, [from, to]) => result.replaceAll(from, to), text);
+}
+
+const english = replaceAll(source, [
+  ['Cases-544', 'Cases-541'],
+  ['500+ Reverse-Engineered Cases', '541 Reverse-Engineered Cases'],
+  ['Browse all 544 cases by gallery part and category.', 'Browse all 541 cases by gallery part and category.'],
+  ['  <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>', '  <a href="./README.md">Korean</a> | <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>'],
+]);
+
+const koreanPairs = [
+  ['Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 541 Reverse-Engineered Cases, 20+ Industrial Templates', '프롬프트를 코드처럼 | GPT-Image2 산업용 프롬프트 엔진과 템플릿 라이브러리, 541개 역설계 사례, 20개 이상 산업용 템플릿'],
+  ['alt="GPT-Image2 Prompt System"', 'alt="GPT-Image2 프롬프트 시스템"'],
+  ['alt="Cases"', 'alt="사례"'],
+  ['  <a href="./README.md">Korean</a> | <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>', '  <strong>Korean</strong> | <a href="./README.en.md">English</a> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>'],
+  ['## 🌐 Visual Website', '## 🌐 비주얼 웹사이트'],
+  ['Use the live site at [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) to browse the gallery as a product experience: open large previews, copy full prompts, filter by style or scenario, test generation after Google sign-in, and jump back to the source case on GitHub.', '라이브 사이트 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/)에서는 제품형 갤러리 경험을 제공합니다. 큰 미리보기 열기, 전체 프롬프트 복사, 스타일·장면 필터링, Google 로그인 후 생성 테스트, GitHub 원본 사례로 이동을 지원합니다.'],
+  ['alt="GPT-Image2 Gallery website preview"', 'alt="GPT-Image2 갤러리 웹사이트 미리보기"'],
+  ['## Community 交流群', '## 커뮤니티'],
+  ['## Community', '## 커뮤니티'],
+  ['Join the GPT-Image2 discussion group to exchange prompts, workflows, and creative ideas with other users. Visit the [community page](https://gpt-image2.canghe.ai/community) to join.', 'GPT-Image2 커뮤니티에서 다른 사용자와 프롬프트, 워크플로, 창작 아이디어를 나누세요. [커뮤니티 페이지](https://gpt-image2.canghe.ai/community)에서 참여 방법을 확인할 수 있습니다.'],
+  ['Follow the WeChat official account **苍何** or scan the QR code below to receive project updates, new cases, and practical tutorials.', '위챗(WeChat) 공식 계정 **창허(苍何)**를 팔로우하거나 아래 QR 코드를 스캔하면 프로젝트 업데이트, 새 사례, 실용적인 튜토리얼을 받아볼 수 있습니다.'],
+  ['Follow the WeChat official account **Canghe (苍何)** or scan the QR code below to receive project updates, new cases, and practical tutorials.', '위챗(WeChat) 공식 계정 **창허(苍何)**를 팔로우하거나 아래 QR 코드를 스캔하면 프로젝트 업데이트, 새 사례, 실용적인 튜토리얼을 받아볼 수 있습니다.'],
+  ['alt="苍何 WeChat official account QR code and search card"', 'alt="창허(苍何) 위챗 공식 계정 QR 코드와 검색 카드"'],
+  ['alt="Canghe (苍何) WeChat official account QR code and search card"', 'alt="창허(苍何) 위챗 공식 계정 QR 코드와 검색 카드"'],
+  ['## ❤️ Sponsors', '## ❤️ 스폰서'],
+  ['> [Want to appear here?](data/images/sponsors/wechat-personal.jpg) Support the project through GitHub Sponsors, or search 苍何 on WeChat and send your product name plus a short sponsorship note.', '> [이곳에 소개되고 싶으신가요?](data/images/sponsors/wechat-personal.jpg) GitHub Sponsors로 프로젝트를 후원하거나 위챗(WeChat)에서 창허(苍何)를 검색해 제품명과 짧은 후원 설명을 보내 주세요.'],
+  ['> [Want to appear here?](data/images/sponsors/wechat-personal.jpg) Support the project through GitHub Sponsors, or search Canghe (苍何) on WeChat and send your product name plus a short sponsorship note.', '> [이곳에 소개되고 싶으신가요?](data/images/sponsors/wechat-personal.jpg) GitHub Sponsors로 프로젝트를 후원하거나 위챗(WeChat)에서 창허(苍何)를 검색해 제품명과 짧은 후원 설명을 보내 주세요.'],
+  ['| Sponsor | Description |', '| 스폰서 | 설명 |'],
+  ['Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image & video generation — GPT-Image-2 from `$0.006/image`, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — [sign up here](https://apimart.ai/register?aff=oQgzUQ) to get started.', 'APIMart의 프로젝트 후원에 감사드립니다. APIMart는 AI 이미지·동영상 생성을 위한 저비용 API 플랫폼입니다. GPT-Image-2는 이미지당 `$0.006`부터 이용할 수 있고, 1달러로 160장 이상 생성할 수 있습니다. 이미지와 동영상을 하나의 비동기 API로 처리하며, 작업 제출·ID 수신·폴링 또는 콜백으로 결과 수신을 지원합니다. 수만 장을 배치 처리해도 시간 초과를 줄이고, 코드를 바꾸지 않고 모델을 전환할 수 있습니다. 월정액 없는 사용량 기반 과금이며 [여기에서 가입](https://apimart.ai/register?aff=oQgzUQ)할 수 있습니다.'],
+  ['Thanks to hiapi for sponsoring this project! hiapi is an AI image & video generation API platform — GPT-Image-2 (text-to-image, image edit, 1K–4K) alongside video models like Seedance, Kling and Wan, all through one unified async API: submit a task, get a `task_id`, fetch results by polling or callback, batch without timeouts, switch models without code changes. Every result is stored on hiapi\'s own CDN with **persistent storage**, so your image/video URLs stay available long-term and can be fetched anytime — no rushing to download and back them up yourself. Native Remote MCP and Agent Skills plug straight into Claude Code & Cursor. Chinese UI & docs, WeChat Pay, pay-as-you-go with no monthly fee — new users get $1 free credit (~50 images). [Sign up here](https://www.hiapi.ai/en/register?aff=DzuH&utm_source=github&utm_medium=sponsor&utm_campaign=awesome-gpt-image-2).', 'hiapi의 프로젝트 후원에 감사드립니다. hiapi는 GPT-Image-2(텍스트-이미지, 이미지 편집, 1K–4K)와 Seedance, Kling, Wan 등의 동영상 모델을 단일 비동기 API로 제공하는 이미지·동영상 생성 플랫폼입니다. 작업 제출 후 `task_id`를 받고 폴링 또는 콜백으로 결과를 가져오며, 코드 변경 없이 모델을 전환할 수 있습니다. 모든 결과는 hiapi 자체 CDN의 **영구 스토리지**에 저장되어 이미지·동영상 URL을 장기적으로 사용할 수 있습니다. Remote MCP와 Agent Skills를 Claude Code·Cursor에 바로 연결할 수 있습니다. 중국어 UI·문서와 위챗 결제를 지원하며, 월정액 없는 사용량 기반 과금입니다. 신규 사용자는 $1 무료 크레딧(약 50장)을 받습니다. [여기에서 가입](https://www.hiapi.ai/en/register?aff=DzuH&utm_source=github&utm_medium=sponsor&utm_campaign=awesome-gpt-image-2)하세요.'],
+  ['Thanks to PackyCode for sponsoring this project! PackyCode is a stable, high-performance API relay provider for Claude Code, Codex, Gemini, and more. Automatic failover, smart routing, and unlimited concurrency help turn AI coding into a reliable productivity tool. [Register here](https://www.packyapi.ai/register?aff=CV0c) to get started.', 'PackyCode의 프로젝트 후원에 감사드립니다. PackyCode는 Claude Code, Codex, Gemini 등을 위한 안정적인 고성능 API 중계 제공업체입니다. 자동 장애 조치, 스마트 라우팅, 무제한 동시 실행으로 AI 코딩을 신뢰할 수 있는 생산성 도구로 만듭니다. [여기에서 가입](https://www.packyapi.ai/register?aff=CV0c)하세요.'],
+  ['Project sponsor. PPToken provides API relay and key distribution for ChatGPT, Claude, Gemini, and other mainstream AI models, with low-latency access, high availability, pay-as-you-go billing, and flexible subscription plans.', '프로젝트 스폰서입니다. PPToken은 ChatGPT, Claude, Gemini 등 주요 AI 모델을 위한 API 중계와 키 배포를 제공하며, 낮은 지연 시간, 높은 가용성, 사용량 기반 과금, 유연한 구독을 지원합니다.'],
+  ['## ⚡️ Project Vision', '## ⚡️ 프로젝트 비전'],
+  ['After GPT-Image2 became widely available, AI image generation moved from "can it make an image?" to "can it make stable, controllable, reusable images?" This project turns scattered community examples into Prompt-as-Code assets that are easier for agents and automation workflows to reuse.', 'GPT-Image2가 널리 제공된 뒤 AI 이미지 생성의 질문은 “이미지를 만들 수 있는가?”에서 “안정적이고 제어 가능하며 재사용 가능한 이미지를 만들 수 있는가?”로 바뀌었습니다. 이 프로젝트는 흩어진 커뮤니티 사례를 Agent와 자동화 워크플로에서 재사용하기 쉬운 Prompt-as-Code 자산으로 바꿉니다.'],
+  ['The core goal is simple: compress prose-style prompts into structured protocols. When you need batch generation, template systems, or production workflows, this structure is more valuable than a pile of isolated examples.', '핵심 목표는 단순합니다. 산문형 프롬프트를 구조화된 프로토콜로 압축하는 것입니다. 배치 생성, 템플릿 시스템, 프로덕션 워크플로가 필요할 때 이 구조는 고립된 사례를 쌓아 두는 것보다 훨씬 가치가 있습니다.'],
+  ['- 🧱 Atomic schema: split subjects, lighting, materials, layout, and visual details into composable parts', '- 🧱 원자적 스키마: 피사체, 조명, 소재, 레이아웃, 시각적 세부 사항을 조합 가능한 부분으로 분리'],
+  ['- ⚙️ Workflow friendly: designed for agents, scripts, and automation systems', '- ⚙️ 워크플로 친화적: Agent, 스크립트, 자동화 시스템을 위해 설계'],
+  ['- 🧬 Structured control: improve controllability for layout, copy, and information hierarchy', '- 🧬 구조화된 제어: 레이아웃, 카피, 정보 계층의 제어 가능성 향상'],
+  ['## 📖 Quick Links', '## 📖 빠른 링크'],
+  ['[Full case gallery]', '[전체 사례 갤러리]'],
+  ['[Gallery Part 1: cases 1-165]', '[갤러리 Part 1: 사례 1–165]'],
+  ['[Gallery Part 2: cases 166-544]', '[갤러리 Part 2: 사례 166–544]'],
+  ['[Industrial prompt templates and pitfalls guide]', '[산업용 프롬프트 템플릿과 실수 방지 가이드]'],
+  ['[Agent skill: GPT-Image2 Style Library]', '[Agent 스킬: GPT-Image2 스타일 라이브러리]'],
+  ['[Full disclaimer]', '[전체 고지]'],
+  ['## 🗂️ Category Overview', '## 🗂️ 분류 개요'],
+  ['Start with the case album to find a visual direction, then open the prompt template categories to turn that direction into reusable structure.', '사례 앨범에서 원하는 시각 방향을 찾은 다음, 프롬프트 템플릿 분류를 열어 재사용 가능한 구조로 만드세요.'],
+  ['### 🖼️ Case Album', '### 🖼️ 사례 앨범'],
+  ['### 🧩 Prompt Template Categories', '### 🧩 프롬프트 템플릿 분류'],
+  ['The prompt body remains in the original template document for now. This homepage only adds an English navigation layer.', '프롬프트 본문은 원본 템플릿 문서에 그대로 둡니다. 이 홈 페이지는 한국어 탐색 경로를 제공합니다.'],
+  ['## 🤖 Agent Skill', '## 🤖 Agent 스킬'],
+  ['This repository includes an agent skill for choosing GPT-Image2 styles, templates, categories, and scene tags from the same data used by the website.', '이 저장소에는 웹사이트와 같은 데이터를 사용해 GPT-Image2 스타일, 템플릿, 분류, 장면 태그를 선택하는 Agent 스킬이 포함되어 있습니다.'],
+  ['Package links:', '패키지 링크:'],
+  ['alt="City life system map generated with the GPT-Image2 style library skill"', 'alt="GPT-Image2 스타일 라이브러리 스킬로 생성한 도시 생명 시스템 지도"'],
+  ['Example output from a city-life-system-map request using the style library skill.', '스타일 라이브러리 스킬로 도시 생명 시스템 지도를 요청해 만든 예시 결과입니다.'],
+  ['### Quick Install for Agent Skills', '### Agent 스킬 빠른 설치'],
+  ['Recommended for Claude Code, Codex, Cursor, and other tools supported by [`skills`](https://www.npmjs.com/package/skills):', '[`skills`](https://www.npmjs.com/package/skills)가 지원하는 Claude Code, Codex, Cursor 등의 도구에 권장합니다.'],
+  ['Install to every supported local agent:', '지원하는 모든 로컬 Agent에 설치:'],
+  ['### Claude Code Plugin Marketplace', '### Claude Code 플러그인 마켓플레이스'],
+  ['Run these commands inside Claude Code:', 'Claude Code 안에서 다음 명령을 실행하세요.'],
+  ['### npm CLI', '### npm CLI'],
+  ['If you prefer npm, install the CLI and then sync the skill into local agent folders:', 'npm을 선호한다면 CLI를 설치한 뒤 스킬을 로컬 Agent 폴더와 동기화하세요.'],
+  ['You can also run it without a global install:', '전역 설치 없이도 실행할 수 있습니다.'],
+  ['Install from GitHub Packages:', 'GitHub Packages에서 설치:'],
+  ['`install all` writes the skill to the common local folders used by Codex and Claude Code, including `~/.codex/skills`, `~/.claude/skills`, and `~/.agents/skills`. Restart the agent session after installing.', '`install all`은 `~/.codex/skills`, `~/.claude/skills`, `~/.agents/skills`를 포함해 Codex와 Claude Code가 쓰는 일반적인 로컬 폴더에 스킬을 작성합니다. 설치 후 Agent 세션을 다시 시작하세요.'],
+  ['Use it with a request like:', '다음과 같이 요청해 사용할 수 있습니다.'],
+  ['Use gpt-image-2-style-library to create an infographic prompt about Codex.', 'gpt-image-2-style-library를 사용해 Codex에 관한 인포그래픽 프롬프트를 만들어 줘.'],
+  ['For local source development:', '로컬 소스 개발용:'],
+  ['The skill source lives at [`agents/skills/gpt-image-2-style-library`](agents/skills/gpt-image-2-style-library/SKILL.md). Its generated reference comes from [`data/style-library.json`](data/style-library.json), so the website and Agent workflow share one style library.', '스킬 원본은 [`agents/skills/gpt-image-2-style-library`](agents/skills/gpt-image-2-style-library/SKILL.md)에 있습니다. 생성된 참조 문서는 [`data/style-library.json`](data/style-library.json)에서 나오므로 웹사이트와 Agent 워크플로가 하나의 스타일 라이브러리를 공유합니다.'],
+  ['## 🔐 Website Auth & Generation', '## 🔐 웹사이트 인증 및 생성'],
+  ['The visual site supports direct APIMart generation with a personal browser-only API key. Without a personal key, signed-in users continue through Supabase Auth, platform credits, and the server-side APIMart key.', '비주얼 사이트는 개인 브라우저 전용 API 키를 이용한 APIMart 직접 생성을 지원합니다. 개인 키가 없으면 로그인한 사용자는 Supabase Auth, 플랫폼 크레딧, 서버 측 APIMart 키를 통해 계속 진행합니다.'],
+  ['Required Vercel environment variables:', '필수 Vercel 환경 변수:'],
+  ['Setup checklist:', '설정 확인 목록:'],
+  ['## 🖼️ Featured Cases', '## 🖼️ 주요 사례'],
+  ['### Canghe Original Tests', '### 창허(苍何) 오리지널 실험'],
+  ['### Latest Community Additions', '### 최신 커뮤니티 추가 사례'],
+  ['Only the latest collection and import run is shown here. Older imports stay in the full gallery.', '여기에는 최신 수집 및 가져오기 실행만 표시합니다. 이전 가져오기 사례는 전체 갤러리에 남아 있습니다.'],
+  ['## 🧩 Template Entry', '## 🧩 템플릿 입구'],
+  ['## 🚀 How To Use This Repository', '## 🚀 이 저장소 사용 방법'],
+  ['## 📄 Notes & Disclaimer', '## 📄 참고 및 고지'],
+  ['## Acknowledgements & Sources', '## 감사와 출처'],
+  ['## Disclaimer', '## 고지'],
+  ['## Star History', '## Star 추이'],
+  ['## 📜 License', '## 📜 라이선스'],
+  ['This project is open source under the [MIT License](LICENSE). You can use, modify, distribute, and build on it freely while preserving the license notice.', '이 프로젝트는 [MIT License](LICENSE)로 공개됩니다. 라이선스 고지를 유지한다면 자유롭게 사용, 수정, 배포, 확장할 수 있습니다.'],
+];
+
+let korean = replaceAll(english, koreanPairs);
+
+const globalPairs = [
+  ['UI & Interfaces', 'UI 및 인터페이스'],
+  ['Charts & Infographics', '차트 및 정보 시각화'],
+  ['Posters & Typography', '포스터 및 타이포그래피'],
+  ['Products & E-commerce', '상품 및 전자상거래'],
+  ['Brand & Logos', '브랜드 및 로고'],
+  ['Architecture & Spaces', '건축 및 공간'],
+  ['Photography & Realism', '사진 및 사실적 표현'],
+  ['Illustration & Art', '일러스트 및 예술'],
+  ['Characters & People', '인물 및 캐릭터'],
+  ['Scenes & Storytelling', '장면 및 서사'],
+  ['History & Classical Chinese Themes', '역사 및 고전 중국 소재'],
+  ['Documents & Publishing', '문서 및 출판물'],
+  ['Other Use Cases', '기타 활용 사례'],
+  ['View Cases', '사례 보기'],
+  ['View Case', '사례 보기'],
+  ['View full case', '전체 사례 보기'],
+  ['View Prompts', '프롬프트 보기'],
+  ['73 cases', '사례 73개'],
+  ['53 cases', '사례 53개'],
+  ['90 cases', '사례 90개'],
+  ['42 cases', '사례 42개'],
+  ['27 cases', '사례 27개'],
+  ['12 cases', '사례 12개'],
+  ['78 cases', '사례 78개'],
+  ['59 cases', '사례 59개'],
+  ['31 cases', '사례 31개'],
+  ['21 cases', '사례 21개'],
+  ['16 cases', '사례 16개'],
+  ['11 cases', '사례 11개'],
+  ['28 cases', '사례 28개'],
+];
+korean = replaceAll(korean, globalPairs);
+
+await writeFile(englishPath, english, 'utf8');
+await writeFile(sourcePath, korean, 'utf8');

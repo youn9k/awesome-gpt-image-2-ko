@@ -63,7 +63,7 @@ export default async function handler(req, res) {
       bizContent: {
         out_trade_no: orderId,
         refund_amount: formatAlipayAmount(refundAmountCents),
-        refund_reason: '管理员全额退款',
+        refund_reason: '관리자 전액 환불',
         out_request_no: requestNo
       }
     }, { validateSign: true });

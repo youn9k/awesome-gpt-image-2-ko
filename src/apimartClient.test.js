@@ -63,7 +63,7 @@ test('pending tasks persist without an API key and expired results are removed',
 
 test('personal submission sends the fixed APIMart schema directly', async () => {
   const calls = [];
-  const result = await submitPersonalGeneration('draw a fox', 'personal-key', 'zh', async (url, options) => {
+  const result = await submitPersonalGeneration('draw a fox', 'personal-key', 'ko', async (url, options) => {
     calls.push({ url, options, body: JSON.parse(options.body) });
     return new Response(JSON.stringify({ data: { task_id: 'task_abcdefgh' } }), {
       status: 200,
@@ -79,7 +79,7 @@ test('personal submission sends the fixed APIMart schema directly', async () => 
     n: 1,
     size: '1:1',
     resolution: '1k',
-    language: 'zh'
+    language: 'ko'
   });
 });
 

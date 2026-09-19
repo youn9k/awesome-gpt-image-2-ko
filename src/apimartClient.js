@@ -128,7 +128,7 @@ export async function fetchPersonalTask(taskId, apiKey, language, fetchImpl = fe
     error.code = error.message;
     throw error;
   }
-  const query = new URLSearchParams({ language: language === 'zh' ? 'zh' : 'en' });
+  const query = new URLSearchParams({ language: language === 'ko' ? 'ko' : 'en' });
   const response = await fetchImpl(`${APIMART_API_BASE_URL}/v1/tasks/${encodeURIComponent(taskId)}?${query}`, {
     method: 'GET',
     headers: {
@@ -175,7 +175,7 @@ export async function fetchPlatformTask(taskId, accessToken, language, fetchImpl
     error.code = error.message;
     throw error;
   }
-  const query = new URLSearchParams({ taskId, language: language === 'zh' ? 'zh' : 'en' });
+  const query = new URLSearchParams({ taskId, language: language === 'ko' ? 'ko' : 'en' });
   const response = await fetchImpl(`/api/generation/status?${query}`, {
     method: 'GET',
     headers: {

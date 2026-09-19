@@ -3,31 +3,31 @@
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
   "templateDocument": "docs/templates.md",
   "tagLabels": {
-    "Art": { "en": "Art", "zh": "艺术" },
-    "Campaign": { "en": "Campaign", "zh": "商业 Campaign" },
-    "Chart": { "en": "Chart", "zh": "图表" },
-    "Classical": { "en": "Classical", "zh": "古典" },
-    "Creative": { "en": "Creative", "zh": "创意" },
-    "Dashboard": { "en": "Dashboard", "zh": "仪表盘" },
-    "Document": { "en": "Document", "zh": "文档" },
-    "Education": { "en": "Education", "zh": "教育" },
-    "Identity": { "en": "Identity", "zh": "身份系统" },
-    "Interior": { "en": "Interior", "zh": "室内" },
-    "Layout": { "en": "Layout", "zh": "版式" },
-    "Lens": { "en": "Lens", "zh": "镜头" },
-    "Logo": { "en": "Logo", "zh": "Logo" },
-    "Map": { "en": "Map", "zh": "地图" },
-    "Packaging": { "en": "Packaging", "zh": "包装" },
-    "Pose": { "en": "Pose", "zh": "动作" },
-    "Publishing": { "en": "Publishing", "zh": "出版" },
-    "R&D": { "en": "R&D", "zh": "研发" },
-    "Scene": { "en": "Scene", "zh": "场景" },
-    "Screenshot": { "en": "Screenshot", "zh": "截图" },
-    "Scroll": { "en": "Scroll", "zh": "长卷" },
-    "Special": { "en": "Special", "zh": "特殊输出" },
-    "Storyboard": { "en": "Storyboard", "zh": "分镜" },
-    "Style": { "en": "Style", "zh": "风格" },
-    "Typography": { "en": "Typography", "zh": "字体" }
+    "Art": { "en": "Art", "ko": "예술" },
+    "Campaign": { "en": "Campaign", "ko": "캠페인" },
+    "Chart": { "en": "Chart", "ko": "차트" },
+    "Classical": { "en": "Classical", "ko": "고전" },
+    "Creative": { "en": "Creative", "ko": "창의" },
+    "Dashboard": { "en": "Dashboard", "ko": "대시보드" },
+    "Document": { "en": "Document", "ko": "문서" },
+    "Education": { "en": "Education", "ko": "교육" },
+    "Identity": { "en": "Identity", "ko": "아이덴티티" },
+    "Interior": { "en": "Interior", "ko": "실내" },
+    "Layout": { "en": "Layout", "ko": "레이아웃" },
+    "Lens": { "en": "Lens", "ko": "렌즈" },
+    "Logo": { "en": "Logo", "ko": "로고" },
+    "Map": { "en": "Map", "ko": "지도" },
+    "Packaging": { "en": "Packaging", "ko": "패키징" },
+    "Pose": { "en": "Pose", "ko": "포즈" },
+    "Publishing": { "en": "Publishing", "ko": "출판" },
+    "R&D": { "en": "R&D", "ko": "연구·개발" },
+    "Scene": { "en": "Scene", "ko": "장면" },
+    "Screenshot": { "en": "Screenshot", "ko": "스크린샷" },
+    "Scroll": { "en": "Scroll", "ko": "두루마리" },
+    "Special": { "en": "Special", "ko": "특수 출력" },
+    "Storyboard": { "en": "Storyboard", "ko": "스토리보드" },
+    "Style": { "en": "Style", "ko": "스타일" },
+    "Typography": { "en": "Typography", "ko": "타이포그래피" }
   },
   "categories": [
     {
@@ -36,10 +36,10 @@
       "anchor": "cat-ui",
       "templateAnchor": "tpl-ui",
       "cover": "/images/category-covers/ui.jpg",
-      "title": { "en": "UI & Interfaces", "zh": "UI 与界面" },
+      "title": { "en": "UI & Interfaces", "ko": "UI와 인터페이스" },
       "description": {
         "en": "Apps, websites, dashboards, social screenshots, and product interfaces.",
-        "zh": "App、网页、仪表盘、社媒截图与产品界面。"
+        "ko": "앱, 웹사이트, 대시보드, 소셜 스크린샷, 제품 인터페이스입니다."
       }
     },
     {
@@ -48,10 +48,10 @@
       "anchor": "cat-infographic",
       "templateAnchor": "tpl-infographic",
       "cover": "/images/category-covers/infographic.jpg",
-      "title": { "en": "Charts & Infographics", "zh": "图表与信息可视化" },
+      "title": { "en": "Charts & Infographics", "ko": "차트와 인포그래픽" },
       "description": {
         "en": "Infographics, knowledge maps, technical explainers, and structured diagrams.",
-        "zh": "信息图、知识图谱、技术解释与结构化图解。"
+        "ko": "인포그래픽, 지식 지도, 기술 설명, 구조화된 다이어그램입니다."
       }
     },
     {
@@ -60,10 +60,10 @@
       "anchor": "cat-poster",
       "templateAnchor": "tpl-poster",
       "cover": "/images/category-covers/poster.jpg",
-      "title": { "en": "Posters & Typography", "zh": "海报与排版" },
+      "title": { "en": "Posters & Typography", "ko": "포스터와 타이포그래피" },
       "description": {
         "en": "Event posters, covers, type-driven visuals, and strong layout compositions.",
-        "zh": "活动海报、封面、字体视觉和强排版画面。"
+        "ko": "행사 포스터, 표지, 타이포그래피 중심 비주얼, 강한 레이아웃 구성입니다."
       }
     },
     {
@@ -72,10 +72,10 @@
       "anchor": "cat-product",
       "templateAnchor": "tpl-product",
       "cover": "/images/category-covers/product.jpg",
-      "title": { "en": "Products & E-commerce", "zh": "商品与电商" },
+      "title": { "en": "Products & E-commerce", "ko": "제품과 이커머스" },
       "description": {
         "en": "Product shots, detail pages, packaging, selling points, and ads.",
-        "zh": "商品图、详情页、包装卖点和商业广告。"
+        "ko": "제품 사진, 상세 페이지, 패키징, 핵심 판매 포인트, 광고입니다."
       }
     },
     {
@@ -84,10 +84,10 @@
       "anchor": "cat-brand",
       "templateAnchor": "tpl-brand",
       "cover": "/images/category-covers/brand.jpg",
-      "title": { "en": "Brand & Logos", "zh": "品牌与标志" },
+      "title": { "en": "Brand & Logos", "ko": "브랜드와 로고" },
       "description": {
         "en": "Logos, identity systems, brand touchpoints, and campaign visuals.",
-        "zh": "Logo、VI、品牌触点和 Campaign 视觉系统。"
+        "ko": "로고, 비주얼 아이덴티티, 브랜드 접점, 캠페인 비주얼 시스템입니다."
       }
     },
     {
@@ -96,10 +96,10 @@
       "anchor": "cat-architecture",
       "templateAnchor": "tpl-architecture",
       "cover": "/images/category-covers/architecture.jpg",
-      "title": { "en": "Architecture & Spaces", "zh": "建筑与空间" },
+      "title": { "en": "Architecture & Spaces", "ko": "건축과 공간" },
       "description": {
         "en": "Architecture renders, interiors, city maps, and spatial concepts.",
-        "zh": "建筑表现、室内空间、城市地图和空间概念。"
+        "ko": "건축 렌더링, 실내 공간, 도시 지도, 공간 콘셉트입니다."
       }
     },
     {
@@ -108,10 +108,10 @@
       "anchor": "cat-photo",
       "templateAnchor": "tpl-photo",
       "cover": "/images/category-covers/photo.jpg",
-      "title": { "en": "Photography & Realism", "zh": "摄影与写实" },
+      "title": { "en": "Photography & Realism", "ko": "사진과 사실성" },
       "description": {
         "en": "Portraits, phone photography, film texture, and commercial photography.",
-        "zh": "人像、手机纪实、胶片质感和商业摄影。"
+        "ko": "인물 사진, 휴대폰 다큐멘터리 사진, 필름 질감, 상업 사진입니다."
       }
     },
     {
@@ -120,10 +120,10 @@
       "anchor": "cat-illustration",
       "templateAnchor": "tpl-illustration",
       "cover": "/images/category-covers/illustration.jpg",
-      "title": { "en": "Illustration & Art", "zh": "插画与艺术" },
+      "title": { "en": "Illustration & Art", "ko": "일러스트레이션과 예술" },
       "description": {
         "en": "Illustration, art styles, material experiments, and decorative images.",
-        "zh": "插画、艺术风格、材质实验和装饰画面。"
+        "ko": "일러스트레이션, 예술 스타일, 재질 실험, 장식 이미지입니다."
       }
     },
     {
@@ -132,10 +132,10 @@
       "anchor": "cat-character",
       "templateAnchor": "tpl-character",
       "cover": "/images/category-covers/character.jpg",
-      "title": { "en": "Characters & People", "zh": "人物与角色" },
+      "title": { "en": "Characters & People", "ko": "인물과 캐릭터" },
       "description": {
         "en": "Character design, pose references, cards, and 3D toys.",
-        "zh": "角色设定、动作参考、卡牌和 3D 玩具。"
+        "ko": "캐릭터 설정, 포즈 참조, 카드, 3D 장난감입니다."
       }
     },
     {
@@ -144,10 +144,10 @@
       "anchor": "cat-scene",
       "templateAnchor": "tpl-scene",
       "cover": "/images/category-covers/scene.jpg",
-      "title": { "en": "Scenes & Storytelling", "zh": "场景与叙事" },
+      "title": { "en": "Scenes & Storytelling", "ko": "장면과 스토리텔링" },
       "description": {
         "en": "Storyboards, narrative scenes, livestream frames, and worldbuilding.",
-        "zh": "分镜、故事场景、直播画面和世界观叙事。"
+        "ko": "스토리보드, 이야기 장면, 라이브 방송 프레임, 세계관 서사입니다."
       }
     },
     {
@@ -156,10 +156,10 @@
       "anchor": "cat-history",
       "templateAnchor": "tpl-history",
       "cover": "/images/category-covers/history.jpg",
-      "title": { "en": "History & Classical Themes", "zh": "历史与古风题材" },
+      "title": { "en": "History & Classical Themes", "ko": "역사와 고전 주제" },
       "description": {
         "en": "Classical scrolls, historical figures, traditional themes, and poetry visuals.",
-        "zh": "古风长卷、历史人物、传统题材和诗词画面。"
+        "ko": "고전 두루마리, 역사 인물, 전통 주제, 시를 활용한 이미지입니다."
       }
     },
     {
@@ -168,10 +168,10 @@
       "anchor": "cat-document",
       "templateAnchor": "tpl-document",
       "cover": "/images/category-covers/document.jpg",
-      "title": { "en": "Documents & Publishing", "zh": "文档与出版物" },
+      "title": { "en": "Documents & Publishing", "ko": "문서와 출판" },
       "description": {
         "en": "White papers, manuals, encyclopedic plates, and publishing layouts.",
-        "zh": "白皮书、手册、百科图鉴和出版页设计。"
+        "ko": "백서, 매뉴얼, 백과 도판, 출판 페이지 디자인입니다."
       }
     },
     {
@@ -180,55 +180,55 @@
       "anchor": "cat-other",
       "templateAnchor": "tpl-other",
       "cover": "/images/category-covers/other.jpg",
-      "title": { "en": "Other Use Cases", "zh": "其他应用场景" },
+      "title": { "en": "Other Use Cases", "ko": "기타 활용 사례" },
       "description": {
         "en": "Creative experiments, special tasks, mixed workflows, and practical cases.",
-        "zh": "创意实验、特殊任务、混合玩法和实用场景。"
+        "ko": "창의 실험, 특수 작업, 혼합 워크플로, 실용 사례입니다."
       }
     }
   ],
   "styles": [
-    { "id": "3d", "value": "3D", "title": { "en": "3D", "zh": "3D" }, "keywords": ["3d", "toy", "render", "玩具"] },
-    { "id": "architecture", "value": "Architecture", "title": { "en": "Architecture", "zh": "建筑" }, "keywords": [] },
-    { "id": "brand", "value": "Brand", "title": { "en": "Brand", "zh": "品牌" }, "keywords": ["brand", "logo", "identity", "品牌", "标志"] },
-    { "id": "character", "value": "Character", "title": { "en": "Character", "zh": "角色" }, "keywords": ["character", "avatar", "pose", "角色", "人物"] },
-    { "id": "characters", "value": "Characters", "title": { "en": "Characters", "zh": "人物" }, "keywords": [] },
-    { "id": "charts", "value": "Charts", "title": { "en": "Charts", "zh": "图表" }, "keywords": [] },
-    { "id": "classical", "value": "Classical", "title": { "en": "Classical", "zh": "古典" }, "keywords": ["classical", "dynasty", "history", "古风", "历史"] },
-    { "id": "documents", "value": "Documents", "title": { "en": "Documents", "zh": "文档" }, "keywords": [] },
-    { "id": "history", "value": "History", "title": { "en": "History", "zh": "历史" }, "keywords": [] },
-    { "id": "illustration", "value": "Illustration", "title": { "en": "Illustration", "zh": "插画" }, "keywords": ["illustration", "painting", "watercolor", "插画", "绘画"] },
-    { "id": "infographic", "value": "Infographic", "title": { "en": "Infographic", "zh": "信息图" }, "keywords": ["infographic", "diagram", "信息图", "图解"] },
-    { "id": "other", "value": "Other Use Cases", "title": { "en": "Other Use Cases", "zh": "其他应用场景" }, "keywords": [] },
-    { "id": "photography", "value": "Photography", "title": { "en": "Photography", "zh": "摄影" }, "keywords": [] },
-    { "id": "poster", "value": "Poster", "title": { "en": "Poster", "zh": "海报" }, "keywords": ["poster", "cover", "typography", "海报", "封面"] },
-    { "id": "product", "value": "Product", "title": { "en": "Product", "zh": "商品" }, "keywords": ["product", "packaging", "商品", "包装"] },
-    { "id": "products", "value": "Products", "title": { "en": "Products", "zh": "商品" }, "keywords": [] },
-    { "id": "realistic", "value": "Realistic", "title": { "en": "Realistic", "zh": "写实" }, "keywords": ["photo", "realistic", "camera", "写真", "写实"] },
-    { "id": "scenes", "value": "Scenes", "title": { "en": "Scenes", "zh": "场景" }, "keywords": [] },
-    { "id": "ui", "value": "UI", "title": { "en": "UI", "zh": "界面" }, "keywords": ["ui", "interface", "dashboard", "界面", "截图"] }
+    { "id": "3d", "value": "3D", "title": { "en": "3D", "ko": "3D" }, "keywords": ["3d", "toy", "render", "玩具"] },
+    { "id": "architecture", "value": "Architecture", "title": { "en": "Architecture", "ko": "건축" }, "keywords": [] },
+    { "id": "brand", "value": "Brand", "title": { "en": "Brand", "ko": "브랜드" }, "keywords": ["brand", "logo", "identity", "品牌", "标志"] },
+    { "id": "character", "value": "Character", "title": { "en": "Character", "ko": "캐릭터" }, "keywords": ["character", "avatar", "pose", "角色", "人物"] },
+    { "id": "characters", "value": "Characters", "title": { "en": "Characters", "ko": "인물" }, "keywords": [] },
+    { "id": "charts", "value": "Charts", "title": { "en": "Charts", "ko": "차트" }, "keywords": [] },
+    { "id": "classical", "value": "Classical", "title": { "en": "Classical", "ko": "고전" }, "keywords": ["classical", "dynasty", "history", "古风", "历史"] },
+    { "id": "documents", "value": "Documents", "title": { "en": "Documents", "ko": "문서" }, "keywords": [] },
+    { "id": "history", "value": "History", "title": { "en": "History", "ko": "역사" }, "keywords": [] },
+    { "id": "illustration", "value": "Illustration", "title": { "en": "Illustration", "ko": "일러스트레이션" }, "keywords": ["illustration", "painting", "watercolor", "插画", "绘画"] },
+    { "id": "infographic", "value": "Infographic", "title": { "en": "Infographic", "ko": "인포그래픽" }, "keywords": ["infographic", "diagram", "信息图", "图解"] },
+    { "id": "other", "value": "Other Use Cases", "title": { "en": "Other Use Cases", "ko": "기타 활용 사례" }, "keywords": [] },
+    { "id": "photography", "value": "Photography", "title": { "en": "Photography", "ko": "사진" }, "keywords": [] },
+    { "id": "poster", "value": "Poster", "title": { "en": "Poster", "ko": "포스터" }, "keywords": ["poster", "cover", "typography", "海报", "封面"] },
+    { "id": "product", "value": "Product", "title": { "en": "Product", "ko": "제품" }, "keywords": ["product", "packaging", "商品", "包装"] },
+    { "id": "products", "value": "Products", "title": { "en": "Products", "ko": "제품" }, "keywords": [] },
+    { "id": "realistic", "value": "Realistic", "title": { "en": "Realistic", "ko": "사실적" }, "keywords": ["photo", "realistic", "camera", "写真", "写实"] },
+    { "id": "scenes", "value": "Scenes", "title": { "en": "Scenes", "ko": "장면" }, "keywords": [] },
+    { "id": "ui", "value": "UI", "title": { "en": "UI", "ko": "UI" }, "keywords": ["ui", "interface", "dashboard", "界面", "截图"] }
   ],
   "scenes": [
-    { "id": "creative", "value": "Creative", "title": { "en": "Creative", "zh": "创意" }, "keywords": [] },
-    { "id": "tech", "value": "Tech", "title": { "en": "Tech", "zh": "科技" }, "keywords": ["ai", "rag", "tech", "data", "技术", "数据"] },
-    { "id": "commerce", "value": "Commerce", "title": { "en": "Commerce", "zh": "商业" }, "keywords": ["product", "brand", "ad", "campaign", "商品", "商业", "广告"] },
-    { "id": "education", "value": "Education", "title": { "en": "Education", "zh": "教育" }, "keywords": ["guide", "atlas", "science", "learning", "学习", "科普"] },
-    { "id": "social", "value": "Social", "title": { "en": "Social", "zh": "社媒" }, "keywords": ["social", "x ", "wechat", "朋友圈", "社媒"] },
-    { "id": "fashion", "value": "Fashion", "title": { "en": "Fashion", "zh": "时尚" }, "keywords": ["fashion", "clothing", "portrait", "服饰", "写真"] },
-    { "id": "food", "value": "Food", "title": { "en": "Food", "zh": "食品饮品" }, "keywords": ["food", "drink", "coffee", "tea", "餐厅", "咖啡", "茶"] },
-    { "id": "travel", "value": "Travel", "title": { "en": "Travel", "zh": "旅行" }, "keywords": ["city", "map", "street", "城市", "地图", "街头"] },
-    { "id": "story", "value": "Story", "title": { "en": "Story", "zh": "叙事" }, "keywords": ["story", "scene", "world", "故事", "场景"] },
-    { "id": "history", "value": "History", "title": { "en": "History", "zh": "历史" }, "keywords": ["history", "dynasty", "ancient", "历史", "古希腊", "唐"] }
+    { "id": "creative", "value": "Creative", "title": { "en": "Creative", "ko": "창의" }, "keywords": [] },
+    { "id": "tech", "value": "Tech", "title": { "en": "Tech", "ko": "기술" }, "keywords": ["ai", "rag", "tech", "data", "技术", "数据"] },
+    { "id": "commerce", "value": "Commerce", "title": { "en": "Commerce", "ko": "커머스" }, "keywords": ["product", "brand", "ad", "campaign", "商品", "商业", "广告"] },
+    { "id": "education", "value": "Education", "title": { "en": "Education", "ko": "교육" }, "keywords": ["guide", "atlas", "science", "learning", "学习", "科普"] },
+    { "id": "social", "value": "Social", "title": { "en": "Social", "ko": "소셜" }, "keywords": ["social", "x ", "wechat", "朋友圈", "社媒"] },
+    { "id": "fashion", "value": "Fashion", "title": { "en": "Fashion", "ko": "패션" }, "keywords": ["fashion", "clothing", "portrait", "服饰", "写真"] },
+    { "id": "food", "value": "Food", "title": { "en": "Food", "ko": "음식과 음료" }, "keywords": ["food", "drink", "coffee", "tea", "餐厅", "咖啡", "茶"] },
+    { "id": "travel", "value": "Travel", "title": { "en": "Travel", "ko": "여행" }, "keywords": ["city", "map", "street", "城市", "地图", "街头"] },
+    { "id": "story", "value": "Story", "title": { "en": "Story", "ko": "이야기" }, "keywords": ["story", "scene", "world", "故事", "场景"] },
+    { "id": "history", "value": "History", "title": { "en": "History", "ko": "역사" }, "keywords": ["history", "dynasty", "ancient", "历史", "古希腊", "唐"] }
   ],
   "templates": [
     {
       "id": "ui-screenshot-system",
       "anchor": "tpl-ui",
       "cover": "/images/case17.jpg",
-      "title": { "en": "UI Screenshot System", "zh": "UI 截图系统" },
+      "title": { "en": "UI Screenshot System", "ko": "UI 스크린샷 시스템" },
       "description": {
         "en": "High-fidelity app, web, dashboard, and social interface prompts.",
-        "zh": "生成 App、网页、仪表盘、社媒截图等高保真界面。"
+        "ko": "앱, 웹, 대시보드, 소셜 스크린샷을 위한 고충실도 인터페이스 프롬프트입니다."
       },
       "category": "UI & Interfaces",
       "styles": ["UI"],
@@ -236,15 +236,15 @@
       "tags": ["UI", "Dashboard", "Screenshot"],
       "useWhen": {
         "en": "Use for app screens, dashboards, social screenshots, and live interface mockups.",
-        "zh": "用于 App 截图、仪表盘、社媒截图和直播界面。"
+        "ko": "앱 화면, 대시보드, 소셜 스크린샷, 실시간 인터페이스 목업에 사용합니다."
       },
       "guidance": {
         "en": ["Lock platform, aspect ratio, layout hierarchy, and exact visible text.", "Specify UI chrome such as status bars, tabs, action rows, or comment layers."],
-        "zh": ["锁定平台、比例、层级和画面文字。", "明确状态栏、Tab、操作区、评论层等 UI 元素。"]
+        "ko": ["플랫폼, 비율, 레이아웃 위계, 화면 텍스트를 고정하세요.", "상태 표시줄, 탭, 작업 행, 댓글 레이어 같은 UI 크롬을 명시하세요."]
       },
       "pitfalls": {
         "en": ["Avoid vague platform names and generic app mockups.", "Constrain text readability and platform-specific details."],
-        "zh": ["避免平台描述过泛。", "约束文字可读性和平台特征。"]
+        "ko": ["모호한 플랫폼 이름과 일반적인 앱 목업을 피하세요.", "텍스트 가독성과 플랫폼별 세부 사항을 제약하세요."]
       },
       "exampleCases": [17, 2, 4]
     },
@@ -252,10 +252,10 @@
       "id": "infographic-engine",
       "anchor": "tpl-infographic",
       "cover": "/images/case334.png",
-      "title": { "en": "Infographic Engine", "zh": "信息图引擎" },
+      "title": { "en": "Infographic Engine", "ko": "인포그래픽 엔진" },
       "description": {
         "en": "Structured diagrams, timelines, knowledge maps, and explainers.",
-        "zh": "生成结构化图解、时间线、知识图谱和技术解释图。"
+        "ko": "구조화된 다이어그램, 타임라인, 지식 지도, 설명용 기술 이미지를 만듭니다."
       },
       "category": "Charts & Infographics",
       "styles": ["Infographic", "Charts"],
@@ -263,15 +263,15 @@
       "tags": ["Infographic", "Chart", "Education"],
       "useWhen": {
         "en": "Use for explainer graphics, technical diagrams, timelines, and knowledge cards.",
-        "zh": "用于解释图、技术图解、时间线和知识卡片。"
+        "ko": "설명 그래픽, 기술 다이어그램, 타임라인, 지식 카드에 사용합니다."
       },
       "guidance": {
         "en": ["Define 3-5 modules, information flow, visual hierarchy, and short labels.", "Use color groups, arrows, icons, and clean spacing to reduce clutter."],
-        "zh": ["定义 3-5 个模块、信息流、层级和短标签。", "用色块、箭头、图标和留白控制复杂度。"]
+        "ko": ["3~5개의 모듈, 정보 흐름, 시각 위계, 짧은 레이블을 정의하세요.", "색상 그룹, 화살표, 아이콘, 여백으로 복잡도를 제어하세요."]
       },
       "pitfalls": {
         "en": ["Avoid long paragraphs inside the image.", "Limit module count before adding visual detail."],
-        "zh": ["避免把长段正文塞进画面。", "先限制模块数量，再补视觉细节。"]
+        "ko": ["이미지 안에 긴 문단을 넣지 마세요.", "시각적 세부 요소를 추가하기 전에 모듈 수를 제한하세요."]
       },
       "exampleCases": [334, 1, 8]
     },
@@ -279,10 +279,10 @@
       "id": "scientific-scale-diagram",
       "anchor": "tpl-infographic",
       "cover": "/images/case341.jpg",
-      "title": { "en": "Scientific Scale Diagram", "zh": "科学尺度缩放图" },
+      "title": { "en": "Scientific Scale Diagram", "ko": "과학적 크기 비교 다이어그램" },
       "description": {
         "en": "Multi-scale science visuals with readable labels and hierarchy.",
-        "zh": "生成多尺度科学信息图，强调层级、标签和可读性。"
+        "ko": "위계, 레이블, 가독성을 강조한 다중 스케일 과학 인포그래픽입니다."
       },
       "category": "Charts & Infographics",
       "styles": ["Infographic", "Charts", "Realistic"],
@@ -290,15 +290,15 @@
       "tags": ["Infographic", "Chart", "Education"],
       "useWhen": {
         "en": "Use when the topic needs micro-to-macro scale comparison and labeled detail windows.",
-        "zh": "用于需要从微观到宏观展示尺度变化的科普主题。"
+        "ko": "미시에서 거시까지의 크기 변화를 보여줘야 하는 과학 주제에 사용합니다."
       },
       "guidance": {
         "en": ["Use 6-8 scale frames and keep each label short.", "Show units, magnification, and distinct scale detail."],
-        "zh": ["使用 6-8 个尺度框，每个标签保持短句。", "展示单位、倍率和不同尺度的细节。"]
+        "ko": ["6~8개의 크기 프레임을 사용하고 각 레이블은 짧게 유지하세요.", "단위, 배율, 각 크기별 고유한 세부 사항을 보여 주세요."]
       },
       "pitfalls": {
         "en": ["Avoid making every scale frame visually identical.", "Avoid generic magnifying glass icon layouts."],
-        "zh": ["避免所有尺度框长得一样。", "避免通用放大镜式布局。"]
+        "ko": ["모든 크기 프레임을 똑같이 보이게 만들지 마세요.", "일반적인 돋보기 아이콘 레이아웃을 피하세요."]
       },
       "exampleCases": [341]
     },
@@ -306,10 +306,10 @@
       "id": "poster-layout-system",
       "anchor": "tpl-poster",
       "cover": "/images/case345.jpg",
-      "title": { "en": "Poster Layout System", "zh": "海报排版系统" },
+      "title": { "en": "Poster Layout System", "ko": "포스터 레이아웃 시스템" },
       "description": {
         "en": "Event, product, movie, and social poster compositions.",
-        "zh": "生成活动、产品、电影和社媒传播海报。"
+        "ko": "행사, 제품, 영화, 소셜 캠페인 포스터 구성을 만듭니다."
       },
       "category": "Posters & Typography",
       "styles": ["Poster"],
@@ -317,15 +317,15 @@
       "tags": ["Poster", "Typography", "Campaign"],
       "useWhen": {
         "en": "Use for event posters, movie posters, covers, and social campaign visuals.",
-        "zh": "用于活动海报、电影海报、封面和社媒传播视觉。"
+        "ko": "행사 포스터, 영화 포스터, 표지, 소셜 캠페인 비주얼에 사용합니다."
       },
       "guidance": {
         "en": ["Lock subject, headline, layout, palette, and aspect ratio.", "Make the title hierarchy and primary visual clear."],
-        "zh": ["锁定主体、标题、版式、配色和比例。", "突出标题层级和主视觉。"]
+        "ko": ["주제, 헤드라인, 레이아웃, 색상 팔레트, 종횡비를 고정하세요.", "제목 위계와 핵심 비주얼이 뚜렷하게 보이게 하세요."]
       },
       "pitfalls": {
         "en": ["Avoid mixed moodboards or process sheets when asking for one finished poster.", "Constrain extra text and decorative symbols."],
-        "zh": ["需要成品海报时，避免生成拼贴展示板。", "约束多余文字和装饰符号。"]
+        "ko": ["완성 포스터를 요청할 때는 무드보드나 작업 과정 시트를 피하세요.", "불필요한 텍스트와 장식 기호를 제약하세요."]
       },
       "exampleCases": [345, 5, 10]
     },
@@ -333,10 +333,10 @@
       "id": "sports-campaign-poster",
       "anchor": "tpl-poster",
       "cover": "/images/case350.jpg",
-      "title": { "en": "Sports Campaign Poster", "zh": "运动商业 Campaign" },
+      "title": { "en": "Sports Campaign Poster", "ko": "스포츠 캠페인 포스터" },
       "description": {
         "en": "Commercial sports visuals with athletes, props, and brand color.",
-        "zh": "生成运动员、道具、品牌色统一的商业运动海报。"
+        "ko": "선수, 소품, 브랜드 색상을 일관되게 사용한 상업 스포츠 비주얼입니다."
       },
       "category": "Posters & Typography",
       "styles": ["Poster", "Realistic"],
@@ -344,15 +344,15 @@
       "tags": ["Poster", "Campaign", "Typography"],
       "useWhen": {
         "en": "Use for sports brand campaigns, athlete posters, and product-led sport visuals.",
-        "zh": "用于运动品牌 Campaign、运动员海报和运动产品视觉。"
+        "ko": "스포츠 브랜드 캠페인, 선수 포스터, 제품 중심 스포츠 비주얼에 사용합니다."
       },
       "guidance": {
         "en": ["Define sport, athlete pose, hero prop, title, and brand palette.", "Use dramatic light, clean composition, and readable data overlays."],
-        "zh": ["定义运动项目、姿态、核心道具、标题和品牌色。", "使用强光影、干净构图和可读数据层。"]
+        "ko": ["스포츠 종목, 선수 포즈, 핵심 소품, 제목, 브랜드 색상을 정의하세요.", "드라마틱한 조명, 깔끔한 구성, 읽기 쉬운 데이터 오버레이를 사용하세요."]
       },
       "pitfalls": {
         "en": ["Avoid wrong equipment and noisy collage.", "Keep the athlete and hero prop visually dominant."],
-        "zh": ["避免错误运动器材和杂乱拼贴。", "让运动员和核心道具占据主导。"]
+        "ko": ["잘못된 장비와 산만한 콜라주를 피하세요.", "선수와 핵심 소품이 시각적으로 우세하게 하세요."]
       },
       "exampleCases": [350, 3]
     },
@@ -360,10 +360,10 @@
       "id": "conceptual-typography-poster",
       "anchor": "tpl-poster",
       "cover": "/images/case355.jpg",
-      "title": { "en": "Conceptual Typography Poster", "zh": "概念字体海报" },
+      "title": { "en": "Conceptual Typography Poster", "ko": "콘셉추얼 타이포그래피 포스터" },
       "description": {
         "en": "Premium title-led posters with strong typographic systems.",
-        "zh": "生成以标题文字为主视觉的高级字体海报。"
+        "ko": "강한 타이포그래피 시스템으로 제목을 주 비주얼로 삼는 고급 포스터입니다."
       },
       "category": "Posters & Typography",
       "styles": ["Poster"],
@@ -371,15 +371,15 @@
       "tags": ["Typography", "Poster", "Style"],
       "useWhen": {
         "en": "Use when the exact title must become the main visual structure.",
-        "zh": "用于标题文字需要成为主视觉结构的海报。"
+        "ko": "정확한 제목이 주된 시각 구조가 되어야 하는 포스터에 사용합니다."
       },
       "guidance": {
         "en": ["Make typography the hero and spell the title exactly.", "Tie human figures, objects, or landscapes to the title meaning."],
-        "zh": ["让字体成为画面主角，并保证标题拼写准确。", "人物、物体或风景需要服务标题含义。"]
+        "ko": ["타이포그래피를 주인공으로 두고 제목 철자를 정확히 유지하세요.", "인물, 사물, 풍경은 제목의 의미를 뒷받침해야 합니다."]
       },
       "pitfalls": {
         "en": ["Avoid default word art, unrelated icons, and misspelled title text.", "Limit the color system to a restrained palette."],
-        "zh": ["避免默认字效、无关图标和标题错字。", "控制配色数量，保持克制。"]
+        "ko": ["기본 워드아트, 관련 없는 아이콘, 오탈자를 피하세요.", "절제된 색상 팔레트로 제한하세요."]
       },
       "exampleCases": [355]
     },
@@ -387,10 +387,10 @@
       "id": "ink-double-exposure-poster",
       "anchor": "tpl-poster",
       "cover": "/images/case359.jpg",
-      "title": { "en": "Ink Double Exposure Poster", "zh": "水墨双重曝光海报" },
+      "title": { "en": "Ink Double Exposure Poster", "ko": "수묵 이중 노출 포스터" },
       "description": {
         "en": "Chinese ink, portrait, and layered atmosphere composition.",
-        "zh": "生成水墨、人像与层叠氛围结合的视觉海报。"
+        "ko": "중국 수묵, 인물, 겹쳐진 분위기를 결합한 포스터입니다."
       },
       "category": "Posters & Typography",
       "styles": ["Poster", "Illustration", "Classical"],
@@ -398,15 +398,15 @@
       "tags": ["Poster", "Classical", "Style"],
       "useWhen": {
         "en": "Use for poetic portrait posters, ink atmospheres, and layered cultural visuals.",
-        "zh": "用于诗意人像海报、水墨氛围和文化主题视觉。"
+        "ko": "시적인 인물 포스터, 수묵 분위기, 문화 주제 비주얼에 사용합니다."
       },
       "guidance": {
         "en": ["Blend portrait silhouette, ink texture, atmosphere, and negative space.", "Keep composition quiet, premium, and readable."],
-        "zh": ["融合人像剪影、水墨质感、氛围和留白。", "保持构图克制、高级、可读。"]
+        "ko": ["인물 실루엣, 수묵 질감, 분위기, 여백을 조합하세요.", "절제되고 고급스러우며 읽기 쉬운 구성을 유지하세요."]
       },
       "pitfalls": {
         "en": ["Avoid cheap fantasy collage and overloaded scenery.", "Use subtle text or no text unless required."],
-        "zh": ["避免廉价奇幻拼贴和景物堆叠。", "非必要时减少文字。"]
+        "ko": ["저렴해 보이는 판타지 콜라주와 과도한 풍경 쌓기를 피하세요.", "필요하지 않다면 텍스트를 최소화하세요."]
       },
       "exampleCases": [359]
     },
@@ -414,10 +414,10 @@
       "id": "nature-science-poster",
       "anchor": "tpl-poster",
       "cover": "/images/case339.jpg",
-      "title": { "en": "Nature Science Poster", "zh": "自然科普海报" },
+      "title": { "en": "Nature Science Poster", "ko": "자연 과학 포스터" },
       "description": {
         "en": "Minimal product-style science posters for natural subjects.",
-        "zh": "生成极简产品感自然科普海报。"
+        "ko": "자연 소재를 위한 미니멀한 제품 스타일 과학 포스터입니다."
       },
       "category": "Posters & Typography",
       "styles": ["Poster", "Infographic"],
@@ -425,15 +425,15 @@
       "tags": ["Poster", "Education", "Style"],
       "useWhen": {
         "en": "Use for natural subjects that need a premium, clean science poster feel.",
-        "zh": "用于自然主题的高级、干净科普海报。"
+        "ko": "고급스럽고 깔끔한 과학 포스터 느낌이 필요한 자연 주제에 사용합니다."
       },
       "guidance": {
         "en": ["Use a clear subject, minimal copy, soft shadows, and disciplined whitespace.", "Keep the scientific label short and visible."],
-        "zh": ["使用清晰主体、少量文案、柔和阴影和充足留白。", "让科普标签短而清楚。"]
+        "ko": ["명확한 주제, 적은 카피, 부드러운 그림자, 충분한 여백을 사용하세요.", "과학 레이블은 짧고 잘 보이게 하세요."]
       },
       "pitfalls": {
         "en": ["Avoid heavy advertising language.", "Avoid dense encyclopedia blocks."],
-        "zh": ["避免广告感太重。", "避免密集百科正文。"]
+        "ko": ["광고 문구가 지나치게 강해지지 않도록 하세요.", "빽빽한 백과사전식 본문을 피하세요."]
       },
       "exampleCases": [339]
     },
@@ -441,10 +441,10 @@
       "id": "product-commerce-visual",
       "anchor": "tpl-product",
       "cover": "/images/case373.jpg",
-      "title": { "en": "Product Commerce Visual", "zh": "商品商业视觉" },
+      "title": { "en": "Product Commerce Visual", "ko": "제품 커머스 비주얼" },
       "description": {
         "en": "Product shots, packaging, detail pages, and selling-point layouts.",
-        "zh": "生成商品图、包装、详情页和卖点排版。"
+        "ko": "제품 사진, 패키징, 상세 페이지, 판매 포인트 레이아웃입니다."
       },
       "category": "Products & E-commerce",
       "styles": ["Product", "Realistic"],
@@ -452,15 +452,15 @@
       "tags": ["Product", "Commerce", "Packaging"],
       "useWhen": {
         "en": "Use for product hero shots, packaging visuals, detail pages, and sales layouts.",
-        "zh": "用于商品主图、包装视觉、详情页和销售卖点排版。"
+        "ko": "제품 히어로 사진, 패키징 비주얼, 상세 페이지, 판매 레이아웃에 사용합니다."
       },
       "guidance": {
         "en": ["Define product, selling points, material, scene, lighting, and layout blocks.", "Separate hero product, benefit labels, and supporting props."],
-        "zh": ["定义商品、卖点、材质、场景、光线和版块。", "区分主商品、卖点标签和辅助道具。"]
+        "ko": ["제품, 판매 포인트, 재질, 장면, 조명, 레이아웃 블록을 정의하세요.", "주요 제품, 혜택 레이블, 보조 소품을 구분하세요."]
       },
       "pitfalls": {
         "en": ["Avoid random props that weaken product recognition.", "Constrain packaging text and claim wording."],
-        "zh": ["避免无关道具削弱商品识别。", "约束包装文字和卖点表达。"]
+        "ko": ["제품 인지도를 약화시키는 무작위 소품을 피하세요.", "패키지 텍스트와 판매 문구를 제약하세요."]
       },
       "exampleCases": [373, 358]
     },
@@ -468,10 +468,10 @@
       "id": "personalized-beauty-report",
       "anchor": "tpl-product",
       "cover": "/images/case353.jpg",
-      "title": { "en": "Personalized Beauty Report", "zh": "个性化美妆报告" },
+      "title": { "en": "Personalized Beauty Report", "ko": "개인화 뷰티 리포트" },
       "description": {
         "en": "Recommendation-report layouts for beauty and lifestyle products.",
-        "zh": "生成美妆与生活方式产品的推荐报告版式。"
+        "ko": "뷰티·라이프스타일 제품을 위한 추천 리포트 레이아웃입니다."
       },
       "category": "Products & E-commerce",
       "styles": ["Product", "UI"],
@@ -479,15 +479,15 @@
       "tags": ["Product", "Layout", "Style"],
       "useWhen": {
         "en": "Use for beauty recommendations, skin reports, shopping assistants, and lifestyle product cards.",
-        "zh": "用于美妆推荐、肤质报告、导购助手和生活方式商品卡片。"
+        "ko": "뷰티 추천, 피부 리포트, 쇼핑 도우미, 라이프스타일 제품 카드에 사용합니다."
       },
       "guidance": {
         "en": ["Use a report-like hierarchy with diagnosis, recommendation, and product cards.", "Keep product images, labels, and ratings aligned."],
-        "zh": ["使用诊断、推荐和商品卡片的报告层级。", "对齐商品图、标签和评分。"]
+        "ko": ["진단, 추천, 제품 카드로 된 리포트 위계를 사용하세요.", "제품 이미지, 레이블, 평점을 정렬하세요."]
       },
       "pitfalls": {
         "en": ["Avoid medical claims and unreadable dense notes.", "Keep recommendation logic simple."],
-        "zh": ["避免医疗化结论和难读小字。", "保持推荐逻辑清楚。"]
+        "ko": ["의학적 주장과 읽기 어려운 작은 글자를 피하세요.", "추천 논리를 명확하게 유지하세요."]
       },
       "exampleCases": [353]
     },
@@ -495,10 +495,10 @@
       "id": "brand-identity-package",
       "anchor": "tpl-brand",
       "cover": "/images/case354.jpg",
-      "title": { "en": "Brand Identity Package", "zh": "品牌身份包" },
+      "title": { "en": "Brand Identity Package", "ko": "브랜드 아이덴티티 패키지" },
       "description": {
         "en": "Logo, palette, typography, applications, and brand touchpoints.",
-        "zh": "生成 Logo、配色、字体、应用触点与品牌系统。"
+        "ko": "로고, 팔레트, 타이포그래피, 적용 예시, 브랜드 접점을 담은 시스템입니다."
       },
       "category": "Brand & Logos",
       "styles": ["Brand"],
@@ -506,15 +506,15 @@
       "tags": ["Brand", "Logo", "Identity"],
       "useWhen": {
         "en": "Use for logo systems, brand boards, visual identity kits, and application mockups.",
-        "zh": "用于 Logo 系统、品牌板、VI 套件和应用样机。"
+        "ko": "로고 시스템, 브랜드 보드, 비주얼 아이덴티티 키트, 적용 목업에 사용합니다."
       },
       "guidance": {
         "en": ["Define brand name, positioning, palette, typography, logo usage, and touchpoints.", "Ask for a coherent board with aligned applications."],
-        "zh": ["定义品牌名、定位、配色、字体、Logo 用法和触点。", "要求视觉板中的应用统一对齐。"]
+        "ko": ["브랜드명, 포지셔닝, 팔레트, 타이포그래피, 로고 사용법, 접점을 정의하세요.", "적용 예시가 정렬된 일관된 보드를 요청하세요."]
       },
       "pitfalls": {
         "en": ["Avoid unrelated logo variants and inconsistent palettes.", "Keep brand text accurate."],
-        "zh": ["避免无关 Logo 变体和混乱配色。", "保持品牌文字准确。"]
+        "ko": ["관련 없는 로고 변형과 일관성 없는 팔레트를 피하세요.", "브랜드 텍스트를 정확하게 유지하세요."]
       },
       "exampleCases": [354]
     },
@@ -522,10 +522,10 @@
       "id": "brand-touchpoint-board",
       "anchor": "tpl-brand",
       "cover": "/images/case362.jpg",
-      "title": { "en": "Brand Touchpoint Board", "zh": "品牌触点视觉板" },
+      "title": { "en": "Brand Touchpoint Board", "ko": "브랜드 접점 보드" },
       "description": {
         "en": "Campaign boards across packaging, social, web, and display contexts.",
-        "zh": "生成包装、社媒、网页和展示场景里的品牌触点板。"
+        "ko": "패키징, 소셜, 웹, 전시 맥락에 걸친 브랜드 접점 캠페인 보드입니다."
       },
       "category": "Brand & Logos",
       "styles": ["Brand", "Product"],
@@ -533,15 +533,15 @@
       "tags": ["Brand", "Identity", "Campaign"],
       "useWhen": {
         "en": "Use for multi-touchpoint campaign boards and brand rollout previews.",
-        "zh": "用于多触点 Campaign 展示和品牌落地预览。"
+        "ko": "다중 접점 캠페인 보드와 브랜드 적용 미리보기에 사용합니다."
       },
       "guidance": {
         "en": ["Specify touchpoint list, shared visual rules, and mockup arrangement.", "Use one palette and one typography logic across all panels."],
-        "zh": ["指定触点清单、统一视觉规则和样机排列。", "让所有面板共享配色和字体逻辑。"]
+        "ko": ["접점 목록, 공통 시각 규칙, 목업 배열을 지정하세요.", "모든 패널에서 하나의 팔레트와 타이포그래피 논리를 공유하세요."]
       },
       "pitfalls": {
         "en": ["Avoid mixing many unrelated campaign styles.", "Limit touchpoints if readability drops."],
-        "zh": ["避免混入多个无关 Campaign 风格。", "可读性下降时减少触点数量。"]
+        "ko": ["관련 없는 여러 캠페인 스타일을 섞지 마세요.", "가독성이 떨어지면 접점 수를 줄이세요."]
       },
       "exampleCases": [362]
     },
@@ -549,10 +549,10 @@
       "id": "architecture-space",
       "anchor": "tpl-architecture",
       "cover": "/images/case331.png",
-      "title": { "en": "Architecture & Space", "zh": "建筑与空间" },
+      "title": { "en": "Architecture & Space", "ko": "건축과 공간" },
       "description": {
         "en": "Interior, exterior, city, map, and spatial concept visuals.",
-        "zh": "生成室内、建筑、城市地图和空间概念视觉。"
+        "ko": "실내, 건축, 도시 지도, 공간 콘셉트 비주얼입니다."
       },
       "category": "Architecture & Spaces",
       "styles": ["Architecture"],
@@ -560,15 +560,15 @@
       "tags": ["Architecture", "Interior", "Map"],
       "useWhen": {
         "en": "Use for interiors, architecture renders, city maps, spatial plans, and environment concepts.",
-        "zh": "用于室内、建筑表现、城市地图、空间规划和环境概念图。"
+        "ko": "실내, 건축 렌더링, 도시 지도, 공간 계획, 환경 콘셉트에 사용합니다."
       },
       "guidance": {
         "en": ["Define viewpoint, scale, material, lighting, and spatial function.", "For maps, specify landmarks, labels, border decoration, and visual accuracy level."],
-        "zh": ["定义视角、尺度、材质、光线和空间功能。", "地图需要指定地标、标签、边框装饰和准确度。"]
+        "ko": ["시점, 크기, 재질, 조명, 공간 기능을 정의하세요.", "지도에는 랜드마크, 레이블, 테두리 장식, 정확도 수준을 지정하세요."]
       },
       "pitfalls": {
         "en": ["Avoid impossible perspectives unless the output is conceptual.", "Lock map label language and relative placement."],
-        "zh": ["概念图之外要避免不合理透视。", "锁定地图标签语言和相对位置。"]
+        "ko": ["콘셉트 출력이 아니라면 불가능한 원근법을 피하세요.", "지도 레이블의 언어와 상대 위치를 고정하세요."]
       },
       "exampleCases": [331, 11]
     },
@@ -576,10 +576,10 @@
       "id": "realistic-photography",
       "anchor": "tpl-photo",
       "cover": "/images/case377.jpg",
-      "title": { "en": "Realistic Photography", "zh": "写实摄影" },
+      "title": { "en": "Realistic Photography", "ko": "사실적 사진" },
       "description": {
         "en": "Lens, lighting, film texture, and documentary-style photo prompts.",
-        "zh": "控制镜头、光线、胶片质感和纪实摄影效果。"
+        "ko": "렌즈, 조명, 필름 질감, 다큐멘터리 사진 느낌을 제어하는 프롬프트입니다."
       },
       "category": "Photography & Realism",
       "styles": ["Photography", "Realistic"],
@@ -587,15 +587,15 @@
       "tags": ["Photography", "Realistic", "Lens"],
       "useWhen": {
         "en": "Use for portraits, street photos, product photography, and cinematic realism.",
-        "zh": "用于人像、街拍、商品摄影和电影感写实。"
+        "ko": "인물 사진, 거리 사진, 제품 사진, 영화 같은 사실적 표현에 사용합니다."
       },
       "guidance": {
         "en": ["Specify camera distance, lens, light source, texture, background, and motion.", "Use believable imperfections for documentary realism."],
-        "zh": ["指定机位、镜头、光源、质感、背景和动作。", "加入可信的小瑕疵增强纪实感。"]
+        "ko": ["카메라 거리, 렌즈, 광원, 질감, 배경, 움직임을 지정하세요.", "다큐멘터리 사실성을 위해 그럴듯한 작은 결함을 사용하세요."]
       },
       "pitfalls": {
         "en": ["Avoid over-polished plastic skin unless commercial beauty is required.", "Add negative constraints for hands, text, and anatomy when needed."],
-        "zh": ["商业美妆之外，避免过度磨皮。", "需要时加入手部、文字、结构类负面约束。"]
+        "ko": ["상업 뷰티가 아니라면 과도하게 매끈한 플라스틱 피부를 피하세요.", "필요할 때는 손, 텍스트, 해부 구조에 대한 네거티브 제약을 추가하세요."]
       },
       "exampleCases": [377]
     },
@@ -603,10 +603,10 @@
       "id": "street-accident-moment",
       "anchor": "tpl-photo",
       "cover": "/images/case376.jpg",
-      "title": { "en": "Street Accident Moment", "zh": "街头意外瞬间摄影" },
+      "title": { "en": "Street Accident Moment", "ko": "거리의 우연한 순간 사진" },
       "description": {
         "en": "Realistic phone-photo scenes with negative constraints.",
-        "zh": "生成手机纪实风街头瞬间，并加入负面约束。"
+        "ko": "네거티브 제약이 있는 사실적인 휴대폰 사진 장면입니다."
       },
       "category": "Photography & Realism",
       "styles": ["Photography", "Realistic"],
@@ -614,15 +614,15 @@
       "tags": ["Photography", "Realistic", "Scene"],
       "useWhen": {
         "en": "Use for candid street moments, accidental spills, documentary phone shots, and fast action.",
-        "zh": "用于街头抓拍、意外泼洒、手机纪实和快速动作。"
+        "ko": "자연스러운 거리 순간, 우연한 쏟음, 휴대폰 다큐멘터리 사진, 빠른 동작에 사용합니다."
       },
       "guidance": {
         "en": ["Describe the exact moment, camera height, motion blur, and street context.", "Add negative constraints for staged poses and fake ad lighting."],
-        "zh": ["描述具体瞬间、机位高度、运动模糊和街景。", "加入避免摆拍和广告棚拍感的限制。"]
+        "ko": ["정확한 순간, 카메라 높이, 움직임 흐림, 거리 맥락을 설명하세요.", "연출된 포즈와 광고 스튜디오 조명을 피하는 제약을 추가하세요."]
       },
       "pitfalls": {
         "en": ["Avoid too-clean compositions.", "Keep the event plausible and grounded."],
-        "zh": ["避免画面过于干净。", "让事件看起来可信。"]
+        "ko": ["구성이 지나치게 깨끗해지지 않도록 하세요.", "사건이 그럴듯하고 현실감 있게 보이게 하세요."]
       },
       "exampleCases": [376]
     },
@@ -630,10 +630,10 @@
       "id": "illustration-art-style",
       "anchor": "tpl-illustration",
       "cover": "/images/case346.jpg",
-      "title": { "en": "Illustration & Art Style", "zh": "插画与艺术风格" },
+      "title": { "en": "Illustration & Art Style", "ko": "일러스트레이션과 예술 스타일" },
       "description": {
         "en": "Anime, watercolor, ink, material experiments, and art direction.",
-        "zh": "生成动漫、水彩、水墨、材质实验和艺术风格图。"
+        "ko": "애니메이션, 수채화, 수묵, 재질 실험, 아트 디렉션을 위한 프롬프트입니다."
       },
       "category": "Illustration & Art",
       "styles": ["Illustration"],
@@ -641,15 +641,15 @@
       "tags": ["Illustration", "Art", "Style"],
       "useWhen": {
         "en": "Use for anime, watercolor, ink, decorative art, and style experiments.",
-        "zh": "用于动漫、水彩、水墨、装饰画和风格实验。"
+        "ko": "애니메이션, 수채화, 수묵, 장식 예술, 스타일 실험에 사용합니다."
       },
       "guidance": {
         "en": ["Define composition, subject, palette, brush material, mood, and rendering depth.", "For reference images, state what must be preserved."],
-        "zh": ["定义构图、主体、配色、笔触材质、情绪和完成度。", "参考图任务需要说明保留哪些特征。"]
+        "ko": ["구성, 주제, 팔레트, 붓 재질, 분위기, 렌더링 완성도를 정의하세요.", "참조 이미지를 쓸 때는 유지할 특성을 명시하세요."]
       },
       "pitfalls": {
         "en": ["Avoid style-only prompts without composition.", "Lock character identity when using references."],
-        "zh": ["避免只写风格，不写构图。", "使用参考图时锁定角色识别。"]
+        "ko": ["구성 없이 스타일만 적는 프롬프트를 피하세요.", "참조 이미지를 쓸 때 캐릭터 정체성을 고정하세요."]
       },
       "exampleCases": [346, 6]
     },
@@ -657,10 +657,10 @@
       "id": "character-design-sheet",
       "anchor": "tpl-character",
       "cover": "/images/case347.jpg",
-      "title": { "en": "Character Design Sheet", "zh": "角色设定表" },
+      "title": { "en": "Character Design Sheet", "ko": "캐릭터 디자인 시트" },
       "description": {
         "en": "Characters, pose sheets, action grids, and identity consistency.",
-        "zh": "生成角色设定、动作分解和一致性参考。"
+        "ko": "캐릭터, 포즈 시트, 동작 그리드, 정체성 일관성을 위한 프롬프트입니다."
       },
       "category": "Characters & People",
       "styles": ["Character", "Illustration"],
@@ -668,15 +668,15 @@
       "tags": ["Character", "Pose", "Style"],
       "useWhen": {
         "en": "Use for character sheets, pose grids, action breakdowns, and identity references.",
-        "zh": "用于角色设定表、动作网格、动作拆解和一致性参考。"
+        "ko": "캐릭터 시트, 포즈 그리드, 동작 분석, 정체성 참조에 사용합니다."
       },
       "guidance": {
         "en": ["Define identity anchors, outfit, proportions, pose count, and sheet layout.", "Keep face, hairstyle, and costume details consistent."],
-        "zh": ["定义身份锚点、服装、比例、动作数量和版式。", "保持脸、发型和服装细节一致。"]
+        "ko": ["정체성 앵커, 의상, 비율, 포즈 수, 시트 레이아웃을 정의하세요.", "얼굴, 헤어스타일, 의상 세부 정보를 일관되게 유지하세요."]
       },
       "pitfalls": {
         "en": ["Avoid changing costume details between poses.", "Limit pose count if the sheet becomes crowded."],
-        "zh": ["避免不同动作里服装细节变化。", "画面拥挤时减少动作数量。"]
+        "ko": ["포즈별로 의상 세부 정보가 바뀌는 것을 피하세요.", "시트가 혼잡해지면 포즈 수를 줄이세요."]
       },
       "exampleCases": [347]
     },
@@ -684,10 +684,10 @@
       "id": "3d-collectible-toy",
       "anchor": "tpl-character",
       "cover": "/images/case378.jpg",
-      "title": { "en": "3D Collectible Toy", "zh": "3D 收藏玩具" },
+      "title": { "en": "3D Collectible Toy", "ko": "3D 컬렉터블 토이" },
       "description": {
         "en": "Reference photo to premium 3D collectible figure prompts.",
-        "zh": "把参考图转换成高级 3D 收藏玩具效果。"
+        "ko": "참조 사진을 프리미엄 3D 컬렉터블 피규어로 바꾸는 프롬프트입니다."
       },
       "category": "Characters & People",
       "styles": ["3D", "Character"],
@@ -695,15 +695,15 @@
       "tags": ["Character", "3D", "Style"],
       "useWhen": {
         "en": "Use for premium collectible figures, avatar toys, blind-box characters, and 3D display renders.",
-        "zh": "用于高级收藏玩具、头像公仔、潮玩角色和 3D 展示图。"
+        "ko": "프리미엄 컬렉터블 피규어, 아바타 토이, 블라인드 박스 캐릭터, 3D 전시 렌더에 사용합니다."
       },
       "guidance": {
         "en": ["Preserve face and outfit anchors from the reference.", "Specify material, packaging, base, lighting, and collectible scale."],
-        "zh": ["保留参考图中的脸和服装锚点。", "指定材质、包装、底座、光线和收藏比例。"]
+        "ko": ["참조 이미지의 얼굴과 의상 앵커를 유지하세요.", "재질, 패키징, 받침, 조명, 컬렉터블 비율을 지정하세요."]
       },
       "pitfalls": {
         "en": ["Avoid generic toy bodies without identity details.", "Keep packaging text minimal and accurate."],
-        "zh": ["避免没有身份细节的通用玩具。", "包装文字保持少量且准确。"]
+        "ko": ["정체성 세부 사항이 없는 일반적인 장난감 몸체를 피하세요.", "패키지 텍스트는 적고 정확하게 유지하세요."]
       },
       "exampleCases": [378]
     },
@@ -711,10 +711,10 @@
       "id": "scene-storytelling",
       "anchor": "tpl-scene",
       "cover": "/images/case330.png",
-      "title": { "en": "Scene Storytelling", "zh": "场景叙事" },
+      "title": { "en": "Scene Storytelling", "ko": "장면 스토리텔링" },
       "description": {
         "en": "Storyboards, worldbuilding, narrative scenes, and emotional pacing.",
-        "zh": "生成分镜、世界观、故事场景和情绪节奏。"
+        "ko": "스토리보드, 세계관, 서사 장면, 감정적 리듬을 위한 프롬프트입니다."
       },
       "category": "Scenes & Storytelling",
       "styles": ["Scenes", "Illustration"],
@@ -722,15 +722,15 @@
       "tags": ["Scene", "Story", "Storyboard"],
       "useWhen": {
         "en": "Use for storyboards, worldbuilding, live scenes, and emotional narrative frames.",
-        "zh": "用于分镜、世界观、直播场景和情绪叙事画面。"
+        "ko": "스토리보드, 세계관, 라이브 장면, 감정 서사 프레임에 사용합니다."
       },
       "guidance": {
         "en": ["Define who, where, when, conflict, emotion, and camera framing.", "Use scene details to support narrative rather than decoration."],
-        "zh": ["定义人物、地点、时间、冲突、情绪和机位。", "让场景细节服务故事。"]
+        "ko": ["누가, 어디서, 언제, 갈등, 감정, 카메라 프레이밍을 정의하세요.", "장면 세부 요소는 장식이 아니라 서사를 지원하게 하세요."]
       },
       "pitfalls": {
         "en": ["Avoid generic fantasy backgrounds.", "Keep narrative cues visible in the frame."],
-        "zh": ["避免通用幻想背景。", "让故事线索在画面里可见。"]
+        "ko": ["일반적인 판타지 배경을 피하세요.", "프레임 안에서 서사 단서가 보이게 하세요."]
       },
       "exampleCases": [330]
     },
@@ -738,10 +738,10 @@
       "id": "history-classical-themes",
       "anchor": "tpl-history",
       "cover": "/images/case375.jpg",
-      "title": { "en": "History & Classical Themes", "zh": "历史与古风题材" },
+      "title": { "en": "History & Classical Themes", "ko": "역사와 고전 주제" },
       "description": {
         "en": "Dynasty clothing, scroll narrative, poetry, and traditional motifs.",
-        "zh": "生成朝代服饰、长卷叙事、诗词和传统题材。"
+        "ko": "왕조 시대 의상, 두루마리 서사, 시, 전통 모티프를 위한 프롬프트입니다."
       },
       "category": "History & Classical Themes",
       "styles": ["History", "Classical", "Illustration"],
@@ -749,15 +749,15 @@
       "tags": ["History", "Classical", "Scroll"],
       "useWhen": {
         "en": "Use for ancient Chinese themes, scrolls, dynasty clothing, poetry visuals, and historical scenes.",
-        "zh": "用于古风题材、长卷、朝代服饰、诗词视觉和历史场景。"
+        "ko": "중국 고전 주제, 두루마리, 왕조 의상, 시 비주얼, 역사 장면에 사용합니다."
       },
       "guidance": {
         "en": ["Specify dynasty, clothing system, object references, layout format, and cultural mood.", "Use scroll, album page, or poster format deliberately."],
-        "zh": ["指定朝代、服饰制度、器物参考、版式和文化气质。", "明确长卷、册页或海报形式。"]
+        "ko": ["왕조, 의상 체계, 소품 참조, 레이아웃 형식, 문화적 분위기를 지정하세요.", "두루마리, 화첩 페이지, 포스터 형식을 의도적으로 선택하세요."]
       },
       "pitfalls": {
         "en": ["Avoid mixing dynasties when historical accuracy matters.", "Constrain random modern props."],
-        "zh": ["需要历史准确时，避免朝代混搭。", "约束随机现代物件。"]
+        "ko": ["역사적 정확성이 중요하다면 왕조를 섞지 마세요.", "무작위 현대 소품을 제약하세요."]
       },
       "exampleCases": [375, 338]
     },
@@ -765,10 +765,10 @@
       "id": "document-publishing",
       "anchor": "tpl-document",
       "cover": "/images/case360.jpg",
-      "title": { "en": "Document & Publishing", "zh": "文档与出版物" },
+      "title": { "en": "Document & Publishing", "ko": "문서와 출판" },
       "description": {
         "en": "White papers, manuals, encyclopedic plates, and page systems.",
-        "zh": "生成白皮书、手册、百科图鉴和页面系统。"
+        "ko": "백서, 매뉴얼, 백과 도판, 페이지 시스템을 위한 프롬프트입니다."
       },
       "category": "Documents & Publishing",
       "styles": ["Documents", "Infographic"],
@@ -776,15 +776,15 @@
       "tags": ["Document", "Publishing", "Layout"],
       "useWhen": {
         "en": "Use for white papers, manuals, encyclopedic plates, report pages, and publication systems.",
-        "zh": "用于白皮书、手册、百科图鉴、报告页面和出版系统。"
+        "ko": "백서, 매뉴얼, 백과 도판, 보고서 페이지, 출판 시스템에 사용합니다."
       },
       "guidance": {
         "en": ["Define page size, columns, table of contents, figure system, and typography hierarchy.", "Use readable headings, tables, labels, and page rhythm."],
-        "zh": ["定义页面尺寸、分栏、目录、图表系统和字体层级。", "使用可读标题、表格、标签和页面节奏。"]
+        "ko": ["페이지 크기, 열, 목차, 도표 체계, 타이포그래피 위계를 정의하세요.", "읽기 쉬운 제목, 표, 레이블, 페이지 리듬을 사용하세요."]
       },
       "pitfalls": {
         "en": ["Avoid tiny dense text.", "Keep charts and captions aligned to the page grid."],
-        "zh": ["避免密集小字。", "让图表和说明对齐页面网格。"]
+        "ko": ["작고 빽빽한 텍스트를 피하세요.", "차트와 캡션을 페이지 그리드에 맞추세요."]
       },
       "exampleCases": [360]
     },
@@ -792,10 +792,10 @@
       "id": "concept-product-breakdown",
       "anchor": "tpl-other",
       "cover": "/images/case370.jpg",
-      "title": { "en": "Concept Product Breakdown", "zh": "概念产品研发拆解" },
+      "title": { "en": "Concept Product Breakdown", "ko": "콘셉트 제품 분해" },
       "description": {
         "en": "R&D boards, exploded views, mixed tasks, and special outputs.",
-        "zh": "生成研发板、拆解图、混合任务和特殊输出。"
+        "ko": "연구·개발 보드, 분해도, 혼합 작업, 특수 출력을 위한 프롬프트입니다."
       },
       "category": "Other Use Cases",
       "styles": ["Other Use Cases", "Product"],
@@ -803,15 +803,15 @@
       "tags": ["Creative", "R&D", "Special"],
       "useWhen": {
         "en": "Use for experimental prompt tasks, R&D boards, exploded diagrams, and unusual visual systems.",
-        "zh": "用于实验型任务、研发视觉板、拆解图和特殊视觉系统。"
+        "ko": "실험적 프롬프트 작업, 연구·개발 보드, 분해 다이어그램, 독특한 시각 시스템에 사용합니다."
       },
       "guidance": {
         "en": ["Define the artifact type, components, labels, material logic, and final presentation format.", "Use clear callouts and a controlled technical style."],
-        "zh": ["定义产物类型、组件、标签、材质逻辑和展示格式。", "使用清晰标注和受控技术风格。"]
+        "ko": ["결과물 유형, 구성 요소, 레이블, 재질 논리, 최종 표현 형식을 정의하세요.", "명확한 콜아웃과 절제된 기술 스타일을 사용하세요."]
       },
       "pitfalls": {
         "en": ["Avoid unspecified mixed tasks.", "Keep labels short and component relationships visible."],
-        "zh": ["避免任务边界过泛。", "标签要短，组件关系要清楚。"]
+        "ko": ["정의되지 않은 혼합 작업을 피하세요.", "레이블은 짧게 하고 구성 요소 관계를 명확히 보이게 하세요."]
       },
       "exampleCases": [370, 361]
     }

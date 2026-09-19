@@ -11,7 +11,7 @@ Use this skill to turn a user's image-generation intent into a production-ready 
 
 ![City life system map example](assets/city-life-system-map.png)
 
-Example request: `用 gpt-image-2-style-library 技能生成城市生命系统图谱`
+Example request: `gpt-image-2-style-library 스킬로 도시 생명 시스템 인포그래픽을 만들어 줘`
 
 ## Reference
 
@@ -38,8 +38,8 @@ Example request: `用 gpt-image-2-style-library 技能生成城市生命系统�
 
 - Provide a copyable prompt first.
 - Keep constraints concrete: exact text, aspect ratio, readable labels, layout hierarchy, and avoided artifacts.
-- For Chinese requests, write the final prompt in Chinese unless the user asks for English.
-- For English requests, write the final prompt in English unless the user asks for Chinese.
+- For Korean requests, write the final prompt in Korean unless the user asks for English.
+- For English requests, write the final prompt in English unless the user asks for Korean.
 - When the user asks for multiple concepts, reuse one template and vary subject, composition, palette, and scene.
 
 ## Maintenance

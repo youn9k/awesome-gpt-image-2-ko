@@ -1,36 +1,36 @@
-> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [上一册：例 1-165](./gallery-part-1.md)
+> [README 홈으로 돌아가기](../README.md) | [갤러리 개요](./gallery.md) | [이전 권: 사례 1–165](./gallery-part-1.md)
 
-## 🖼️ 魔法画廊 (Part 2)
+## 🖼️ 매직 갤러리 — Part 2
 
 <a name="case-166"></a>
 
-### 例 166：十二黄金圣斗士卡牌合集
+### 사례 166: 십이금성 카드 컬렉션
 
-![十二黄金圣斗士卡牌合集](../data/images/case166.jpg)
+![십이금성 카드 컬렉션](../data/images/case166.jpg)
 
-**来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
+**출처:** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的한국어 이름，每行4个，宽高比16:9。
 
 [English]
-Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
+Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Korean name written on each card, 4 per row, aspect ratio 16:9.
 ```
 
 ***
 
 <a name="case-167"></a>
 
-### 例 167：大唐玄武门之变的朋友圈
+### 사례 167: 친구들 사이에서 화제가 된 당나라 현무문 사건
 
-![大唐玄武门之变的朋友圈](../data/images/case167.jpg)
+![친구들 사이에서 화제가 된 당나라 현무문 사건](../data/images/case167.jpg)
 
-**来源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
+**출처:** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -44,13 +44,13 @@ WeChat Moments of the Xuanwu Gate Incident
 
 <a name="case-168"></a>
 
-### 例 168：手写中西药方图片
+### 사례 168: 손으로 쓴 한약 처방 그림
 
-![手写中西药方图片](../data/images/case168.jpg)
+![손으로 쓴 한약 처방 그림](../data/images/case168.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -64,13 +64,13 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 
 <a name="case-171"></a>
 
-### 例 171：信息图可视化设计
+### 사례 171: 인포그래픽 시각화 디자인
 
-![百件A字头物品矩阵图](../data/images/case171.jpg)
+![인포그래픽 시각화 디자인](../data/images/case171.jpg)
 
-**来源：** [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
+**출처:** [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -84,13 +84,13 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 <a name="case-172"></a>
 
-### 例 172：赛博科幻桃太郎主视觉图
+### 사례 172: 사이버 SF 모모타로 메인 비주얼 다이어그램
 
-![赛博科幻桃太郎主视觉图](../data/images/case172.jpg)
+![사이버 SF 모모타로 메인 비주얼 다이어그램](../data/images/case172.jpg)
 
-**来源：** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
+**출처:** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -104,13 +104,13 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 
 <a name="case-173"></a>
 
-### 例 173：银河繁星点缀的冰蓝襦裙
+### 사례 173: 연필 드로잉 배경 3D 클론
 
-![银河繁星点缀的冰蓝襦裙](../data/images/case173.jpg)
+![연필 드로잉 배경 3D 클론](../data/images/case173.jpg)
 
-**来源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
+**출처:** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -130,13 +130,13 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 <a name="case-174"></a>
 
-### 例 174：唐朝贵妇遛粉色马甲异形工笔画
+### 사례 174: 당나라 귀족 여성이 분홍 조끼를 입고 걷는 모습의 섬세한 붓 그림
 
-![唐朝贵妇遛粉色马甲异形工笔画](../data/images/case174.jpg)
+![당나라 귀족 여성이 분홍 조끼를 입고 걷는 모습의 섬세한 붓 그림](../data/images/case174.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
+**출처:** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -162,13 +162,13 @@ Background features peonies and butterflies.
 
 <a name="case-175"></a>
 
-### 例 175：封面排版设计图
+### 사례 175: 표지 레이아웃 디자인
 
-![高端AI演示平台封面设计](../data/images/case175.jpg)
+![표지 레이아웃 디자인](../data/images/case175.jpg)
 
-**来源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
+**출처:** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -260,13 +260,13 @@ English only
 
 <a name="case-176"></a>
 
-### 例 176：苏轼被贬首日朋友圈曝光
+### 사례 176: 위챗(WeChat) 모멘트에 공개된 소식시의 강등 첫날
 
-![苏轼被贬首日朋友圈曝光](../data/images/case176.jpg)
+![위챗(WeChat) 모멘트에 공개된 소식시의 강등 첫날](../data/images/case176.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -280,13 +280,13 @@ Su Shi's first day of exile Xiaohongshu screenshot
 
 <a name="case-177"></a>
 
-### 例 177：吉利银河暗黑中控界面
+### 사례 177: 지리 갤럭시 다크 중앙 제어 인터페이스
 
-![吉利银河暗黑中控界面](../data/images/case177.jpg)
+![지리 갤럭시 다크 중앙 제어 인터페이스](../data/images/case177.jpg)
 
-**来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
+**출처:** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -300,13 +300,13 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 
 <a name="case-178"></a>
 
-### 例 178：亚马逊详情图设计
+### 사례 178: 아마존 상품 상세 이미지 디자인
 
-![亚马逊详情图设计](../data/images/case178.jpg)
+![아마존 상품 상세 이미지 디자인](../data/images/case178.jpg)
 
-**来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
+**출처:** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -320,17 +320,17 @@ Generate a set of Amazon A+= detail images
 
 <a name="case-179"></a>
 
-### 例 179：蒸汽朋克射手座解剖图谱
+### 사례 179: 스팀펑크 궁수자리 해부학 아틀라스
 
-![蒸汽朋克射手座解剖图谱](../data/images/case179.jpg)
+![스팀펑크 궁수자리 해부학 아틀라스](../data/images/case179.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
+**출처:** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
+（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name} 해부 도감”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【궁수자리 / Sagittarius】。
 
 [English]
 (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
@@ -340,13 +340,13 @@ Generate a set of Amazon A+= detail images
 
 <a name="case-180"></a>
 
-### 例 180：荒诞超现实女装大叔海报
+### 사례 180: 황당하고 초현실적인 여장 아저씨 포스터
 
-![荒诞超现实女装大叔海报](../data/images/case180.jpg)
+![황당하고 초현실적인 여장 아저씨 포스터](../data/images/case180.jpg)
 
-**来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
+**출처:** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -360,13 +360,13 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 
 <a name="case-181"></a>
 
-### 例 181：潮流视角重塑精致商品广告
+### 사례 181: 트렌드 관점으로 재구성한 정교한 제품 광고
 
-![潮流视角重塑精致商品广告](../data/images/case181.jpg)
+![트렌드 관점으로 재구성한 정교한 제품 광고](../data/images/case181.jpg)
 
-**来源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
+**출처:** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -381,13 +381,13 @@ Please redesign this product advertisement from the perspective of a professiona
 
 <a name="case-182"></a>
 
-### 例 182：千禧年日系校园喜剧场景
+### 사례 182: 밀레니엄 일본식 캠퍼스 코미디 장면
 
-![千禧年日系校园喜剧场景](../data/images/case182.jpg)
+![밀레니엄 일본식 캠퍼스 코미디 장면](../data/images/case182.jpg)
 
-**来源：** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
+**출처:** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -401,16 +401,16 @@ Please redesign this product advertisement from the perspective of a professiona
 
 <a name="case-183"></a>
 
-### 例 183：一张中文健身信息图
+### 사례 183: 중국 피트니스 정보 지도
 
-![一张中文健身信息图](../data/images/case183.jpg)
+![중국 피트니스 정보 지도](../data/images/case183.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 
-**提示词：**
+**프롬프트:**
 
 ```text
-请生成一张中文健身信息图，主题为：【xxx】。 
+请生成一张한국어 피트니스 인포그래픽，主题为：【xxx】。 
 
 要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。
 
@@ -419,7 +419,7 @@ Please redesign this product advertisement from the perspective of a professiona
 1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。
 2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。
 
-整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。
+整张图请采用清晰、现代、专业、易读의 한국어 인포그래픽 스타일，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。
 
 这张信息图必须包含以下内容：
 
@@ -488,14 +488,14 @@ Please redesign this product advertisement from the perspective of a professiona
 - 1 句风险提醒（如有明显疼痛应停止并评估）
 
 【I. 视觉设计要求】
-- 整体为单页中文信息图
+- 整体为단일 페이지 한국어 인포그래픽
 - 竖版排版
 - 风格现代、清爽、专业、健身感强
 - 使用模块化卡片布局
 - 重点数字（组数、次数、RIR、休息）要醒目
 - 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标
 - 颜色保持高级、干净、有运动感
-- 中文文字必须清晰、准确、易读
+- 한국어 텍스트는 명확하고 정확하며 읽기 쉬워야 하고
 - 避免过多装饰，强调实用性与执行性
 
 请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
@@ -505,13 +505,13 @@ Please redesign this product advertisement from the perspective of a professiona
 
 <a name="case-184"></a>
 
-### 例 184：杜甫朋友圈吐槽茅屋被掀翻
+### 사례 184: 두보가 위챗(WeChat) 모멘트에서 초가집이 무너졌다고 불평하는 모습
 
-![杜甫朋友圈吐槽茅屋被掀翻](../data/images/case184.jpg)
+![두보가 위챗(WeChat) 모멘트에서 초가집이 무너졌다고 불평하는 모습](../data/images/case184.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -525,13 +525,13 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 
 <a name="case-185"></a>
 
-### 例 185：武则天发微博自拍太魔性了
+### 사례 185: 무측천의 웨이보 셀카
 
-![武则天发微博自拍太魔性了](../data/images/case185.jpg)
+![무측천의 웨이보 셀카](../data/images/case185.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -545,13 +545,13 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 
 <a name="case-186"></a>
 
-### 例 186：品牌视觉识别图
+### 사례 186: 브랜드 비주얼 아이덴티티 일러스트
 
-![奇幻RPG百件像素风道具图鉴](../data/images/case186.jpg)
+![브랜드 비주얼 아이덴티티 일러스트](../data/images/case186.jpg)
 
-**来源：** [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
+**출처:** [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -589,13 +589,13 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 <a name="case-187"></a>
 
-### 例 187：韩系极简氛围感少女写真
+### 사례 187: 한국 미니멀리즘 분위기 소녀 사진첩
 
-![韩系极简氛围感少女写真](../data/images/case187.jpg)
+![한국 미니멀리즘 분위기 소녀 사진첩](../data/images/case187.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -609,13 +609,13 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 <a name="case-188"></a>
 
-### 例 188：暗黑极简头像网站视觉设计
+### 사례 188: 어둡고 미니멀한 아바타 웹사이트 시각 디자인
 
-![暗黑极简头像网站视觉设计](../data/images/case188.jpg)
+![어둡고 미니멀한 아바타 웹사이트 시각 디자인](../data/images/case188.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
+**출처:** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -629,13 +629,13 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 
 <a name="case-189"></a>
 
-### 例 189：清新夏日女装连衣裙电商展示
+### 사례 189: 시원한 여름 여성 드레스 온라인 쇼핑몰 디스플레이
 
-![清新夏日女装连衣裙电商展示](../data/images/case189.jpg)
+![시원한 여름 여성 드레스 온라인 쇼핑몰 디스플레이](../data/images/case189.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -649,13 +649,13 @@ Summer women's dress e-commerce detail image
 
 <a name="case-190"></a>
 
-### 例 190：全自动咖啡机产品展示
+### 사례 190: 전자동 커피 머신 제품 디스플레이
 
-![全自动咖啡机产品展示](../data/images/case190.jpg)
+![전자동 커피 머신 제품 디스플레이](../data/images/case190.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -669,13 +669,13 @@ Fully automatic coffee machine e-commerce detail image
 
 <a name="case-191"></a>
 
-### 例 191：史诗级科幻电影海报设计
+### 사례 191: 에픽 SF 영화 포스터 디자인
 
-![史诗级科幻电影海报设计](../data/images/case191.jpg)
+![에픽 SF 영화 포스터 디자인](../data/images/case191.jpg)
 
-**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
+**출처:** [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -689,13 +689,13 @@ Create a Science fiction movie poster
 
 <a name="case-192"></a>
 
-### 例 192：电商商品展示图
+### 사례 192: 온라인 쇼핑몰 상품 디스플레이도
 
-![未来科技感AI智能眼镜详情页](../data/images/case192.jpg)
+![온라인 쇼핑몰 상품 디스플레이도](../data/images/case192.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -709,13 +709,13 @@ AI smart glasses e-commerce detail image
 
 <a name="case-193"></a>
 
-### 例 193：千手观音化身打工人
+### 사례 193: 천수관음, 직장인으로 변신
 
-![千手观音化身打工人](../data/images/case193.jpg)
+![천수관음, 직장인으로 변신](../data/images/case193.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
+**출처:** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -741,13 +741,13 @@ The golden aura behind the head is made of spinning clock gears.
 
 <a name="case-194"></a>
 
-### 例 194：健身蛋白粉电商详情页
+### 사례 194: 피트니스 단백질 파우더 전자상거래 상세 페이지
 
-![健身蛋白粉电商详情页](../data/images/case194.jpg)
+![피트니스 단백질 파우더 전자상거래 상세 페이지](../data/images/case194.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -761,13 +761,13 @@ Fitness protein powder e-commerce detail image
 
 <a name="case-195"></a>
 
-### 例 195：超写实与水墨的梦幻融合
+### 사례 195: 극사실주의와 수묵화의 몽환적인 융합
 
-![超写实与水墨的梦幻融合](../data/images/case195.jpg)
+![극사실주의와 수묵화의 몽환적인 융합](../data/images/case195.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
+**출처:** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -821,13 +821,13 @@ Aspect ratio: 3:4
 
 <a name="case-196"></a>
 
-### 例 196：试卷上的涂鸦巨龙
+### 사례 196: 시험지에 그려진 용 낙서
 
-![试卷上的涂鸦巨龙](../data/images/case196.jpg)
+![시험지에 그려진 용 낙서](../data/images/case196.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
+**출처:** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -835,7 +835,7 @@ Aspect ratio: 3:4
 一个远超人类尺寸的巨大实体，压倒性和压迫性的，
 用极其密集的混乱涂鸦线条绘制，
 超密集的重叠笔触，纠缠和混乱的线条画，
-在真实的印刷英文/中文教科书或试卷页面上，
+실제 인쇄된 영문/한국어 교과서 또는 시험지 페이지 위에,
 可见的文本、布局和纸张纹理清晰透出，
 圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触，
 没有干净的轮廓，一切由混乱的涂鸦构成，
@@ -862,7 +862,7 @@ a gigantic entity far beyond human size, overwhelming and oppressive,
 drawn with extremely dense chaotic scribble lines,
 ultra-dense overlapping pen strokes, tangled and chaotic linework,
 
-on top of a real printed English/Chinese textbook or exam paper page,
+on top of a real printed English/Korean textbook or exam paper page,
 visible text, layout, and paper texture clearly showing through,
 
 ballpoint pen drawing style, fine ink lines, messy layered strokes,
@@ -898,13 +898,13 @@ masterpiece, ultra detailed
 
 <a name="case-197"></a>
 
-### 例 197：英雄联盟特朗普中路对决哈梅内伊
+### 사례 197: 리그 오브 레전드 트럼프 미드 라인 쇼다운 카메네이
 
-![英雄联盟特朗普中路对决哈梅内伊](../data/images/case197.jpg)
+![리그 오브 레전드 트럼프 미드 라인 쇼다운 카메네이](../data/images/case197.jpg)
 
-**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
+**출처:** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -918,13 +918,13 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-198"></a>
 
-### 例 198：苍白陶瓷娃娃沙滩仰视
+### 사례 198: 해변을 올려다보는 창백한 도자기 인형
 
-![苍白陶瓷娃娃沙滩仰视](../data/images/case198.jpg)
+![해변을 올려다보는 창백한 도자기 인형](../data/images/case198.jpg)
 
-**来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
+**출처:** [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1000,13 +1000,13 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-199"></a>
 
-### 例 199：超写实海滩高角度手机自拍
+### 사례 199: 극사실적인 해변 고각 휴대폰 셀카
 
-![超写实海滩高角度手机自拍](../data/images/case199.jpg)
+![극사실적인 해변 고각 휴대폰 셀카](../data/images/case199.jpg)
 
-**来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
+**출처:** [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1136,13 +1136,13 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-200"></a>
 
-### 例 200：热度爆表的美女内衣直播间
+### 사례 200: 가장 인기 있는 미녀 속옷 라이브 스트리밍
 
-![热度爆表的美女内衣直播间](../data/images/case200.jpg)
+![가장 인기 있는 미녀 속옷 라이브 스트리밍](../data/images/case200.jpg)
 
-**来源：** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
+**출처:** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1156,13 +1156,13 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 
 <a name="case-201"></a>
 
-### 例 201：三甲医院真实门诊处方笺
+### 사례 201: 최고급 병원의 실제 외래 환자 처방전
 
-![三甲医院真实门诊处方笺](../data/images/case201.jpg)
+![최고급 병원의 실제 외래 환자 처방전](../data/images/case201.jpg)
 
-**来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
+**출처:** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1176,13 +1176,13 @@ An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible ha
 
 <a name="case-202"></a>
 
-### 例 202：宅男必看绝美二次元少女
+### 사례 202: 오타쿠를 위한 놓칠 수 없는 정교한 애니메이션 소녀들
 
-![宅男必看绝美二次元少女](../data/images/case202.jpg)
+![오타쿠를 위한 놓칠 수 없는 정교한 애니메이션 소녀들](../data/images/case202.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**출처:** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1196,13 +1196,13 @@ Generate high-quality beautiful girl (otaku must-have)
 
 <a name="case-203"></a>
 
-### 例 203：杠精视角的独特文案创意
+### 사례 203: 독창적 카피라이팅 창의력 트롤
 
-![杠精视角的独特文案创意](../data/images/case203.jpg)
+![독창적 카피라이팅 창의력 트롤](../data/images/case203.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**출처:** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1216,13 +1216,13 @@ Troll perspective copywriting + GPT Image 2
 
 <a name="case-204"></a>
 
-### 例 204：智能动画分镜生成器
+### 사례 204: 지능형 애니메이션 스토리보드 생성기
 
-![智能动画分镜生成器](../data/images/case204.jpg)
+![지능형 애니메이션 스토리보드 생성기](../data/images/case204.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**출처:** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1236,13 +1236,13 @@ Generate an animation storyboard generator
 
 <a name="case-205"></a>
 
-### 例 205：皇宫深处的御用快递驿站
+### 사례 205: 궁궐 깊숙한 곳의 왕실 택배소
 
-![皇宫深处的御用快递驿站](../data/images/case205.jpg)
+![궁궐 깊숙한 곳의 왕실 택배소](../data/images/case205.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**출처:** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1256,33 +1256,33 @@ Generate an ancient imperial palace × express delivery station
 
 <a name="case-206"></a>
 
-### 例 206：国风工笔八仙长卷插画
+### 사례 206: 중국풍 공필화 팔선 장권 일러스트
 
-![国风工笔八仙长卷插画](../data/images/case206.jpg)
+![중국풍 공필화 팔선 장권 일러스트](../data/images/case206.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
+**출처:** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
+（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的한국어 서예 글꼴；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
 
 [English]
-(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
+(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Korean calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
 ```
 
 ***
 
 <a name="case-207"></a>
 
-### 例 207：黑神话潘金莲绝美游戏封面
+### 사례 207: 판진련 블랙 미스: 놀라운 게임 표지
 
-![黑神话潘金莲绝美游戏封面](../data/images/case207.jpg)
+![판진련 블랙 미스: 놀라운 게임 표지](../data/images/case207.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1296,13 +1296,13 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 
 <a name="case-208"></a>
 
-### 例 208：樱花树下害羞双马尾少女
+### 사례 208: 벚꽃 나무 아래 수줍은 양갈래 소녀
 
-![樱花树下害羞双马尾少女](../data/images/case208.jpg)
+![벚꽃 나무 아래 수줍은 양갈래 소녀](../data/images/case208.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
+**출처:** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1344,13 +1344,13 @@ Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 
 <a name="case-209"></a>
 
-### 例 209：神话三国枪战世界
+### 사례 209: 신화 속 삼국지 총격전 세계
 
-![神话三国枪战世界](../data/images/case209.jpg)
+![신화 속 삼국지 총격전 세계](../data/images/case209.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
+**출처:** [@op7418](https://x.com/op7418/status/2046519666047426967)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1364,13 +1364,13 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 
 <a name="case-210"></a>
 
-### 例 210：萌系大模型训练图解
+### 사례 210: 귀여운 대형 모델 훈련도
 
-![萌系大模型训练图解](../data/images/case210.jpg)
+![귀여운 대형 모델 훈련도](../data/images/case210.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046502136973001143)
+**출처:** [@op7418](https://x.com/op7418/status/2046502136973001143)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1384,13 +1384,13 @@ Cute explanation of the large language model training process
 
 <a name="case-211"></a>
 
-### 例 211：天坛古建拆解全图
+### 사례 211: 천단 고건축 해체 전체도
 
-![天坛古建拆解全图](../data/images/case211.jpg)
+![천단 고건축 해체 전체도](../data/images/case211.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
+**출처:** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1404,13 +1404,13 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 
 <a name="case-212"></a>
 
-### 例 212：专业设计师打造角色写真集
+### 사례 212: 전문 디자이너가 제작한 캐릭터 사진 앨범
 
-![专业设计师打造角色写真集](../data/images/case212.jpg)
+![전문 디자이너가 제작한 캐릭터 사진 앨범](../data/images/case212.jpg)
 
-**来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
+**출처:** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1432,13 +1432,13 @@ Adding prompts according to your preferences will make it more colorful and rich
 
 <a name="case-213"></a>
 
-### 例 213：金瓶梅古风开放世界游戏截图
+### 사례 213: 고풍스러운 오픈 월드 게임 《금병매》 스크린샷
 
-![金瓶梅古风开放世界游戏截图](../data/images/case213.jpg)
+![고풍스러운 오픈 월드 게임 《금병매》 스크린샷](../data/images/case213.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
+**출처:** [@op7418](https://x.com/op7418/status/2046520509651886451)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1452,13 +1452,13 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 <a name="case-214"></a>
 
-### 例 214：绘制金瓶梅知识图谱
+### 사례 214: 《금병매》 지식 지도 그리기
 
-![绘制金瓶梅知识图谱](../data/images/case214.jpg)
+![《금병매》 지식 지도 그리기](../data/images/case214.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
+**출처:** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
@@ -1481,10 +1481,10 @@ Key Visual Requirements:
 
 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
 
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
+4.  Text & Annotation (Hard Requirement - Must be CLEAR Korean):
+    * Main Title: A large, prominent, beautifully executed **Korean calligraphy** (Korean calligraphic type) of the specific subject's name [e.g., "대왕오징어"].
+    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Korean calligraphy for important terms.
+    * Standard Korean Text: All other descriptive text, handwritten notes (with abundant clear Korean handwritten annotations), module content, and annotations must be clear, legible Korean text, not gibberish or unreadable symbols. Ensure text clarity is prioritized.
     * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
 
 Subject-Specific Module Structure (Example for general reference):
@@ -1519,7 +1519,7 @@ C. For Plants:
    - Module 7: Genetic Variations & Cultivation
    - Module 8: Historical Usage & Folklore
 
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
+Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Korean calligraphy. Aspect Ratio: 3:4.
 
 主题内容：潘金莲
 ```
@@ -1528,13 +1528,13 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a name="case-215"></a>
 
-### 例 215：西方艺术演进像素博物馆
+### 사례 215: 서양 미술 진화 픽셀 박물관
 
-![西方艺术演进像素博物馆](../data/images/case215.jpg)
+![서양 미술 진화 픽셀 박물관](../data/images/case215.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+**출처:** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1542,23 +1542,23 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 首先，围绕Western Art Development进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。
 
-然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文"[主题中文]演进史"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。
+然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：한국어 "[주제 한국어] 발전사"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。
 
 [English]
-Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
+Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Korean and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Korean "[Theme Korean] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
 ```
 
 ***
 
 <a name="case-216"></a>
 
-### 例 216：雅致图案四款时尚单品设计
+### 사례 216: 우아한 패턴의 패션 아이템 4종 디자인
 
-![雅致图案四款时尚单品设计](../data/images/case216.png)
+![우아한 패턴의 패션 아이템 4종 디자인](../data/images/case216.png)
 
-**来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
+**출처:** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1572,13 +1572,13 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 <a name="case-217"></a>
 
-### 例 217：昏暗室内纯真少女的意外回眸
+### 사례 217: 어둑한 방에서 순진한 소녀가 뜻밖의 뒤돌아보는 모습
 
-![昏暗室内纯真少女的意外回眸](../data/images/case217.jpg)
+![어둑한 방에서 순진한 소녀가 뜻밖의 뒤돌아보는 모습](../data/images/case217.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1612,13 +1612,13 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 <a name="case-218"></a>
 
-### 例 218：绘制科学百科知识图谱
+### 사례 218: 과학 백과사전 지식 지도 그리기
 
-![绘制科学百科知识图谱](../data/images/case218.jpg)
+![과학 백과사전 지식 지도 그리기](../data/images/case218.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX)
+**출처:** [@GeekCatX](https://x.com/GeekCatX)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1635,10 +1635,10 @@ Use the patterns in the attached image, crafted by professional designers to cre
 周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。
 关联结构
 运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。
-文字与标注（硬性要求：必须为清晰中文）
-主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。
-书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。
-标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。
+텍스트 및 주석(필수: 명확한 한국어)
+主标题：以醒目大气、笔法优美的한국어 서예 글꼴呈现具体对象名称【例如：大王乌贼】。
+书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的한국어 서예 글꼴标注。
+표준 한국어 텍스트: 나머지 모든 설명, 명확한 손글씨 주석, 모듈 내용 및 해설도 식별 가능한 한국어로 작성하고 깨진 문자나 식별할 수 없는 기호를 사용하지 않으며 가독성을 우선합니다.
 指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。
 分题材模块结构（参考示例）
 A. 人物类
@@ -1672,7 +1672,7 @@ C. 植物类
 信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。
 无任何百科品牌标识（如 DK 等 Logo）。
 所有标注清晰可辨，所有手写注释工整可读。
-主标题采用中文书法字体。
+主标题采用한국어 서예 글꼴。
 画面比例：3:4。
 【主题内容】
 
@@ -1697,10 +1697,10 @@ Key Visual Requirements:
 
 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
 
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
+4.  Text & Annotation (Hard Requirement - Must be CLEAR Korean):
+    * Main Title: A large, prominent, beautifully executed **Korean calligraphy** (Korean calligraphic type) of the specific subject's name [e.g., "대왕오징어"].
+    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Korean calligraphy for important terms.
+    * Standard Korean Text: All other descriptive text, handwritten notes (with abundant clear Korean handwritten annotations), module content, and annotations must be clear, legible Korean text, not gibberish or unreadable symbols. Ensure text clarity is prioritized.
     * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
 
 Subject-Specific Module Structure (Example for general reference):
@@ -1735,7 +1735,7 @@ C. For Plants:
    - Module 7: Genetic Variations & Cultivation
    - Module 8: Historical Usage & Folklore
 
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
+Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Korean calligraphy. Aspect Ratio: 3:4.
 
 [主题内容]
 ```
@@ -1744,13 +1744,13 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a name="case-219"></a>
 
-### 例 219：韩系偶像九宫格写真集
+### 사례 219: 한국 아이돌 9분할 사진첩
 
-![韩系偶像九宫格写真集](../data/images/case219.jpg)
+![한국 아이돌 9분할 사진첩](../data/images/case219.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1764,13 +1764,13 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a name="case-220"></a>
 
-### 例 220：鎏金广州塔的东方奇幻海报
+### 사례 220: 은하계 별 장식 아이스 블루 루쿤
 
-![鎏金广州塔的东方奇幻海报](../data/images/case220.jpg)
+![은하계 별 장식 아이스 블루 루쿤](../data/images/case220.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1792,13 +1792,13 @@ Flat illustration, Oriental fantasy style high-end city poster design, vertical 
 
 <a name="case-221"></a>
 
-### 例 221：窗边日系胶片女孩
+### 사례 221: 창가의 일본풍 필름 소녀
 
-![窗边日系胶片女孩](../data/images/case221.jpg)
+![창가의 일본풍 필름 소녀](../data/images/case221.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1812,13 +1812,13 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 <a name="case-222"></a>
 
-### 例 222：精致模块化科普百科图鉴
+### 사례 222: 정교한 모듈형 과학 백과사전
 
-![精致模块化科普百科图鉴](../data/images/case222.jpg)
+![정교한 모듈형 과학 백과사전](../data/images/case222.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1868,13 +1868,13 @@ Please do not make it into an ordinary commercial promotional poster. It must hi
 
 <a name="case-223"></a>
 
-### 例 223：春日禅意水墨群山海报
+### 사례 223: 봄 선에서 영감을 받은 산의 수묵화 포스터
 
-![春日禅意水墨群山海报](../data/images/case223.jpg)
+![봄 선에서 영감을 받은 산의 수묵화 포스터](../data/images/case223.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1927,13 +1927,13 @@ restrained cold and warm contrast, cinematic light and shadow, high-end art post
 
 <a name="case-224"></a>
 
-### 例 224：机甲少女立于废弃海城
+### 사례 224: 버려진 해상 도시에 서 있는 메카 소녀
 
-![机甲少女立于废弃海城](../data/images/case224.jpg)
+![버려진 해상 도시에 서 있는 메카 소녀](../data/images/case224.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
+**출처:** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1952,13 +1952,13 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 <a name="case-225"></a>
 
-### 例 225：大师级真迹复刻
+### 사례 225: 마스터급 오리지널 레플리카
 
-![大师级真迹复刻](../data/images/case225.jpg)
+![마스터급 오리지널 레플리카](../data/images/case225.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1972,13 +1972,13 @@ Help me generate xxxx authentic picture
 
 <a name="case-226"></a>
 
-### 例 226：古风明朝帝王群像长卷
+### 사례 226: 고대 스타일 명나라 황제 단체 초상화 두루마리
 
-![古风明朝帝王群像长卷](../data/images/case226.jpg)
+![고대 스타일 명나라 황제 단체 초상화 두루마리](../data/images/case226.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -1992,13 +1992,13 @@ Based on the style of the uploaded image, generate portraits of the emperors of 
 
 <a name="case-227"></a>
 
-### 例 227：哔哩哔哩户晨风直播截图
+### 사례 227: 빌리빌리(Bilibili) 후천풍 라이브 스트리밍 스크린샷
 
-![哔哩哔哩户晨风直播截图](../data/images/case227.jpg)
+![빌리빌리(Bilibili) 후천풍 라이브 스트리밍 스크린샷](../data/images/case227.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2044994519649997183)
+**출처:** [@austinit](https://x.com/austinit/status/2044994519649997183)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2012,13 +2012,13 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 
 <a name="case-228"></a>
 
-### 例 228：完美匹配的海报广告图
+### 사례 228: 완벽하게 매치된 포스터 광고 이미지
 
-![完美匹配的海报广告图](../data/images/case228.jpg)
+![완벽하게 매치된 포스터 광고 이미지](../data/images/case228.jpg)
 
-**来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
+**출처:** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2032,13 +2032,13 @@ Generate an advertising image that perfectly matches this image. There should be
 
 <a name="case-229"></a>
 
-### 例 229：琉璃透明画眉鸟飞舞羊城墨卷
+### 사례 229: 광저우 수묵화 두루마리 속 투명 유리 지빠귀
 
-![琉璃透明画眉鸟飞舞羊城墨卷](../data/images/case229.jpg)
+![광저우 수묵화 두루마리 속 투명 유리 지빠귀](../data/images/case229.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2122,13 +2122,13 @@ ratio 9:16
 
 <a name="case-230"></a>
 
-### 例 230：极简国潮鎏金广州塔海报
+### 사례 230: 미니멀리즘 중국풍 금박 광저우 타워 포스터
 
-![极简国潮鎏金广州塔海报](../data/images/case230.jpg)
+![미니멀리즘 중국풍 금박 광저우 타워 포스터](../data/images/case230.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2182,13 +2182,13 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 <a name="case-231"></a>
 
-### 例 231：疾风起狂草艺术字体设计
+### 사례 231: 질풍기 초서 예술 서체 디자인
 
-![疾风起狂草艺术字体设计](../data/images/case231.jpg)
+![질풍기 초서 예술 서체 디자인](../data/images/case231.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
+**출처:** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2214,13 +2214,13 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 <a name="case-232"></a>
 
-### 例 232：兰亭集序书法帖意境图
+### 사례 232: 난정집서 서예첩의 정취
 
-![兰亭集序书法帖意境图](../data/images/case232.jpg)
+![난정집서 서예첩의 정취](../data/images/case232.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2234,13 +2234,13 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 
 <a name="case-233"></a>
 
-### 例 233：蒙娜丽莎畅饮可乐的趣味油画
+### 사례 233: 재미있는 유화 속 콜라 마시는 모나리자
 
-![蒙娜丽莎畅饮可乐的趣味油画](../data/images/case233.jpg)
+![재미있는 유화 속 콜라 마시는 모나리자](../data/images/case233.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2254,13 +2254,13 @@ Generate an oil painting of Mona Lisa drinking cola.
 
 <a name="case-234"></a>
 
-### 例 234：朱元璋登基后的推特主页
+### 사례 234: 주원장 즉위 후 트위터 홈페이지
 
-![朱元璋登基后的推特主页](../data/images/case234.jpg)
+![주원장 즉위 후 트위터 홈페이지](../data/images/case234.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2274,13 +2274,13 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 
 <a name="case-235"></a>
 
-### 例 235：治愈系助眠指南九宫格
+### 사례 235: 힐링 수면 보조 가이드 9분할 격자
 
-![治愈系助眠指南九宫格](../data/images/case235.jpg)
+![힐링 수면 보조 가이드 9분할 격자](../data/images/case235.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2046037688969769346)
+**출처:** [@austinit](https://x.com/austinit/status/2046037688969769346)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2294,7 +2294,7 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 
 每个宫格内容完整居中，不要把标题或正文压在分割线附近
 每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读
-所有文字使用中文，清晰易读，不要乱码，不要英文
+모든 텍스트는 한국어를 사용하고, 명확하고 읽기 쉬워야 하며, 깨진 문자나 영어를 사용하지 않습니다
 每个宫格都像独立的小红书图文卡片，但视觉风格保持统一
 画面精致、真实、自然，不要廉价营销感，不要过度花哨
 九宫格具体内容：
@@ -2352,7 +2352,7 @@ Layout requirements:
 The entire image must be a standard 9-grid composition, and each grid can stand alone as an independent image after being cut.
 The content of each grid should be completely centered; do not place titles or body text near the dividing lines.
 Keep obvious gaps or thin borders between each grid to ensure that reading is not affected after cropping.
-All text must use Chinese, be clear and readable, no garbled characters, no English.
+All text must use Korean, be clear and readable, with no garbled characters or English.
 Each grid should look like an independent Xiaohongshu image-and-text card, but the visual style must remain unified.
 The image should be exquisite, realistic, and natural, without a cheap marketing feel, and not overly flashy.
 
@@ -2412,13 +2412,13 @@ High definition, premium layout, magazine feel, realistically publishable, new m
 
 <a name="case-236"></a>
 
-### 例 236：粤超联赛国潮风邀请函海报
+### 사례 236: 광둥 슈퍼 리그 전국 트렌드 초대 포스터
 
-![粤超联赛国潮风邀请函海报](../data/images/case236.jpg)
+![광둥 슈퍼 리그 전국 트렌드 초대 포스터](../data/images/case236.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2460,13 +2460,13 @@ The overall layout is balanced, has a high-end brand poster texture, extremely d
 
 <a name="case-237"></a>
 
-### 例 237：夏日柑橘苏打高转化广告图
+### 사례 237: 여름 시트러스 소다 고효율 광고 일러스트
 
-![夏日柑橘苏打高转化广告图](../data/images/case237.jpg)
+![여름 시트러스 소다 고효율 광고 일러스트](../data/images/case237.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
+**출처:** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2480,13 +2480,13 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 
 <a name="case-238"></a>
 
-### 例 238：星云巨鲤与小人的奇幻对话
+### 사례 238: 성운 거대 잉어와 꼬마의 환상적인 대화
 
-![星云巨鲤与小人的奇幻对话](../data/images/case238.jpg)
+![성운 거대 잉어와 꼬마의 환상적인 대화](../data/images/case238.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2502,13 +2502,13 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-239"></a>
 
-### 例 239：刘亦菲抖音直播畅聊中
+### 사례 239: 유역비가 더우인(Douyin) 라이브 방송에서 대화하는 모습
 
-![刘亦菲抖音直播畅聊中](../data/images/case239.jpg)
+![유역비가 더우인(Douyin) 라이브 방송에서 대화하는 모습](../data/images/case239.jpg)
 
-**来源：** [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
+**출처:** [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2522,13 +2522,13 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-240"></a>
 
-### 例 240：胶片闪光灯下的球场少女
+### 사례 240: 필름 플래시 아래 코트 위의 소녀
 
-![胶片闪光灯下的球场少女](../data/images/case240.jpg)
+![필름 플래시 아래 코트 위의 소녀](../data/images/case240.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2542,13 +2542,13 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-241"></a>
 
-### 例 241：关键人物关系图谱
+### 사례 241: 주요 인물 관계도
 
-![关键人物关系图谱](../data/images/case241.jpg)
+![주요 인물 관계도](../data/images/case241.jpg)
 
-**来源：** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
+**출처:** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2562,13 +2562,13 @@ Please generate a key character relationship diagram for "XXX".
 
 <a name="case-242"></a>
 
-### 例 242：绝美国风工笔画书签设计
+### 사례 242: 정교한 중국풍 세밀한 붓놀림 책갈피 디자인
 
-![绝美国风工笔画书签设计](../data/images/case242.jpg)
+![정교한 중국풍 세밀한 붓놀림 책갈피 디자인](../data/images/case242.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2582,13 +2582,13 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 
 <a name="case-243"></a>
 
-### 例 243：定制专属风格界面设计系统
+### 사례 243: 맞춤형 독점 스타일 인터페이스 디자인 시스템
 
-![定制专属风格界面设计系统](../data/images/case243.jpg)
+![맞춤형 독점 스타일 인터페이스 디자인 시스템](../data/images/case243.jpg)
 
-**来源：** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
+**출처:** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2602,13 +2602,13 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 
 <a name="case-244"></a>
 
-### 例 244：杜蕾斯茶颜悦色联名海报设计
+### 사례 244: 듀렉스 자동차 연월세 콜라보레이션 포스터 디자인
 
-![杜蕾斯茶颜悦色联名海报设计](../data/images/case244.jpg)
+![듀렉스 자동차 연월세 콜라보레이션 포스터 디자인](../data/images/case244.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2622,13 +2622,13 @@ Design a set of promotional materials for a Durex and Chayan Yuese co-branding c
 
 <a name="case-245"></a>
 
-### 例 245：马斯克专属篆刻印章设计
+### 사례 245: 머스크 독점 스탬프 디자인
 
-![马斯克专属篆刻印章设计](../data/images/case245.jpg)
+![머스크 독점 스탬프 디자인](../data/images/case245.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2642,13 +2642,13 @@ Design a set of seal carving stamps for "Elon Musk"
 
 <a name="case-246"></a>
 
-### 例 246：黑白线稿勾勒的上海风情
+### 사례 246: 흑백 선화로 윤곽을 그린 상하이 스타일
 
-![黑白线稿勾勒的上海风情](../data/images/case246.jpg)
+![흑백 선화로 윤곽을 그린 상하이 스타일](../data/images/case246.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2662,13 +2662,13 @@ Design a Shanghai postcard in black line art style.
 
 <a name="case-247"></a>
 
-### 例 247：运动健身图标字体设计
+### 사례 247: 스포츠 및 피트니스 아이콘 폰트 디자인
 
-![运动健身图标字体设计](../data/images/case247.jpg)
+![스포츠 및 피트니스 아이콘 폰트 디자인](../data/images/case247.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2682,33 +2682,33 @@ Generate a set of iconfont for a sports app
 
 <a name="case-248"></a>
 
-### 例 248：景德镇青花瓷全景解说图谱
+### 사례 248: 징더전 청화백자 파노라마 설명 다이어그램
 
-![景德镇青花瓷全景解说图谱](../data/images/case248.jpg)
+![징더전 청화백자 파노라마 설명 다이어그램](../data/images/case248.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
+**출처:** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析
+为我生成景德镇青花瓷的详细解说图，配上详细的한국어 지식 해설
 
 [English]
-Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Korean knowledge analysis.
 ```
 
 ***
 
 <a name="case-249"></a>
 
-### 例 249：美女举牌感谢大哥打赏大火箭
+### 사례 249: 아름다운 여인이 빅 브라더에게 로켓 선물을 준 것에 감사하는 플래카드를 든 모습
 
-![美女举牌感谢大哥打赏大火箭](../data/images/case249.jpg)
+![아름다운 여인이 빅 브라더에게 로켓 선물을 준 것에 감사하는 플래카드를 든 모습](../data/images/case249.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**출처:** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2722,13 +2722,13 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 
 <a name="case-250"></a>
 
-### 例 250：小王子与星舰的浪漫联名
+### 사례 250: 어린 왕자와 우주선 로맨틱 콜라보레이션
 
-![小王子与星舰的浪漫联名](../data/images/case250.jpg)
+![어린 왕자와 우주선 로맨틱 콜라보레이션](../data/images/case250.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2742,13 +2742,13 @@ Design a postcard co-branded by The Little Prince and SpaceX
 
 <a name="case-251"></a>
 
-### 例 251：言叶之庭春雨绿意单日历
+### 사례 251: 《언어의 정원》 봄비 녹색 싱글 캘린더
 
-![言叶之庭春雨绿意单日历](../data/images/case251.jpg)
+![《언어의 정원》 봄비 녹색 싱글 캘린더](../data/images/case251.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2762,13 +2762,13 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 
 <a name="case-252"></a>
 
-### 例 252：五一劳动节手举牌创意设计集
+### 사례 252: 노동절 손팻말 크리에이티브 디자인 컬렉션
 
-![五一劳动节手举牌创意设计集](../data/images/case252.jpg)
+![노동절 손팻말 크리에이티브 디자인 컬렉션](../data/images/case252.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2782,13 +2782,13 @@ Generate a series of hand-held sign designs for May Day Labor Day
 
 <a name="case-253"></a>
 
-### 例 253：2026谷雨节气唯美海报设计
+### 사례 253: 2026년 곡우절 아름다운 포스터 디자인
 
-![2026谷雨节气唯美海报设计](../data/images/case253.jpg)
+![2026년 곡우절 아름다운 포스터 디자인](../data/images/case253.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2802,13 +2802,13 @@ Generate a poster for the Guyu solar term in 2026
 
 <a name="case-254"></a>
 
-### 例 254：奔赴山海胶片感海报
+### 사례 254: 산해여행 영화 스타일 포스터
 
-![奔赴山海胶片感海报](../data/images/case254.jpg)
+![산해여행 영화 스타일 포스터](../data/images/case254.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**출처:** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2822,13 +2822,13 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 
 <a name="case-255"></a>
 
-### 例 255：瑜伽裤女主播展示身材曲线
+### 사례 255: 요가 바지를 입은 여성 앵커가 몸매를 뽐내는 모습
 
-![瑜伽裤女主播展示身材曲线](../data/images/case255.jpg)
+![요가 바지를 입은 여성 앵커가 몸매를 뽐내는 모습](../data/images/case255.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**출처:** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2842,13 +2842,13 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 
 <a name="case-256"></a>
 
-### 例 256：抖音直播间的绝美女主播
+### 사례 256: 더우인(Douyin) 라이브 방송에 출연한 눈부시게 아름다운 여성 진행자들
 
-![抖音直播间的绝美女主播](../data/images/case256.jpg)
+![더우인(Douyin) 라이브 방송에 출연한 눈부시게 아름다운 여성 진행자들](../data/images/case256.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**출처:** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2862,13 +2862,13 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 
 <a name="case-257"></a>
 
-### 例 257：抖音汉服美女直播带货截图
+### 사례 257: 더우인(Douyin) 한복 뷰티 라이브 방송 상품 판매 스크린샷
 
-![抖音汉服美女直播带货截图](../data/images/case257.jpg)
+![더우인(Douyin) 한복 뷰티 라이브 방송 상품 판매 스크린샷](../data/images/case257.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**출처:** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2882,13 +2882,13 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 
 <a name="case-258"></a>
 
-### 例 258：快手直播离婚预告手机截图
+### 사례 258: 콰이쇼(快手) 라이브 이혼 예고 휴대폰 스크린샷
 
-![快手直播离婚预告手机截图](../data/images/case258.jpg)
+![콰이쇼(快手) 라이브 이혼 예고 휴대폰 스크린샷](../data/images/case258.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2902,13 +2902,13 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 
 <a name="case-259"></a>
 
-### 例 259：精致女孩背后的网贷真相
+### 사례 259: 정교한 소녀들 뒤에 숨겨진 온라인 대출의 진실
 
-![精致女孩背后的网贷真相](../data/images/case259.jpg)
+![정교한 소녀들 뒤에 숨겨진 온라인 대출의 진실](../data/images/case259.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2922,13 +2922,13 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 
 <a name="case-260"></a>
 
-### 例 260：社媒界面截图
+### 사례 260: 소셜 미디어 인터페이스 스크린샷
 
-![抖音AI低价引流爆款截图](../data/images/case260.jpg)
+![소셜 미디어 인터페이스 스크린샷](../data/images/case260.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2942,13 +2942,13 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 
 <a name="case-261"></a>
 
-### 例 261：智能视频生成器暗黑界面设计
+### 사례 261: 지능형 비디오 생성기 다크 인터페이스 디자인
 
-![智能视频生成器暗黑界面设计](../data/images/case261.jpg)
+![지능형 비디오 생성기 다크 인터페이스 디자인](../data/images/case261.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2044968740782272596)
+**출처:** [@austinit](https://x.com/austinit/status/2044968740782272596)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2962,13 +2962,13 @@ Render a professional iOS APP homepage UI image, the theme is AI Video Generator
 
 <a name="case-262"></a>
 
-### 例 262：苹果园远观库克发布新机
+### 사례 262: 애플 캠퍼스에서 멀리 바라본 쿡의 신제품 발표
 
-![苹果园远观库克发布新机](../data/images/case262.jpg)
+![애플 캠퍼스에서 멀리 바라본 쿡의 신제품 발표](../data/images/case262.jpg)
 
-**来源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
+**출처:** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -2982,13 +2982,13 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 <a name="case-263"></a>
 
-### 例 263：唯美二次元角色介绍网页
+### 사례 263: 아름다운 2차원 캐릭터 소개 웹페이지
 
-![唯美二次元角色介绍网页](../data/images/case263.jpg)
+![아름다운 2차원 캐릭터 소개 웹페이지](../data/images/case263.jpg)
 
-**来源：** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
+**출처:** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3028,13 +3028,13 @@ Catchphrase: "Dialogue here"
 
 <a name="case-264"></a>
 
-### 例 264：美妆产品广告图
+### 사례 264: 화장품 광고 이미지
 
-![Z世代Y2K平价美妆广告图](../data/images/case264.jpg)
+![화장품 광고 이미지](../data/images/case264.jpg)
 
-**来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
+**출처:** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3048,13 +3048,13 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 
 <a name="case-265"></a>
 
-### 例 265：日式潮流广告四联画
+### 사례 265: 일본식 트렌디 광고 4컷 만화
 
-![日式潮流广告四联画](../data/images/case265.jpg)
+![일본식 트렌디 광고 4컷 만화](../data/images/case265.jpg)
 
-**来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
+**출처:** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3068,13 +3068,13 @@ Generate four fictional Japanese advertisement images, covering different types 
 
 <a name="case-266"></a>
 
-### 例 266：桌面上的黑色圆珠笔手写笔记
+### 사례 266: 책상 위 검은 볼펜 손글씨 메모
 
-![桌面上的黑色圆珠笔手写笔记](../data/images/case266.jpg)
+![책상 위 검은 볼펜 손글씨 메모](../data/images/case266.jpg)
 
-**来源：** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
+**출처:** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3088,13 +3088,13 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 <a name="case-267"></a>
 
-### 例 267：宋朝文人的赛博朋友圈
+### 사례 267: 송나라 문인 사이버 친구 모임
 
-![宋朝文人的赛博朋友圈](../data/images/case267.jpg)
+![송나라 문인 사이버 친구 모임](../data/images/case267.jpg)
 
-**来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
+**출처:** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3108,13 +3108,13 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 <a name="case-268"></a>
 
-### 例 268：威化岛回军前夕李成桂动态
+### 사례 268: 이성계의 군 귀환 전 활동 위화도
 
-![威化岛回军前夕李成桂动态](../data/images/case268.jpg)
+![이성계의 군 귀환 전 활동 위화도](../data/images/case268.jpg)
 
-**来源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
+**출처:** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3128,13 +3128,13 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 
 <a name="case-269"></a>
 
-### 例 269：拒绝盲目催婚的暖心视频号截图
+### 사례 269: 맹목적인 결혼 압박을 거절한 감동적인 영상 계정 스크린샷
 
-![拒绝盲目催婚的暖心视频号截图](../data/images/case269.jpg)
+![맹목적인 결혼 압박을 거절한 감동적인 영상 계정 스크린샷](../data/images/case269.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3148,13 +3148,13 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 
 <a name="case-270"></a>
 
-### 例 270：信息图可视化设计
+### 사례 270: 인포그래픽 시각화 디자인
 
-![官方角色设定资料图鉴](../data/images/case270.jpg)
+![인포그래픽 시각화 디자인](../data/images/case270.jpg)
 
-**来源：** \[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
+**출처:** \[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3181,13 +3181,13 @@ High resolution, professional concept art style
 
 <a name="case-271"></a>
 
-### 例 271：人物角色设定图
+### 사례 271: 캐릭터 디자인 이미지
 
-![GPT图像生成惊艳角色立绘](../data/images/case271.jpg)
+![캐릭터 디자인 이미지](../data/images/case271.jpg)
 
-**来源：** [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
+**출처:** [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3201,13 +3201,13 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 <a name="case-272"></a>
 
-### 例 272：日式温泉旅馆人像
+### 사례 272: 일본 온천 호텔 초상
 
-![日式温泉旅馆人像](../data/images/case272.jpg)
+![일본 온천 호텔 초상](../data/images/case272.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
@@ -3217,13 +3217,13 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 <a name="case-273"></a>
 
-### 例 273：橙红渐变中的孤独剪影
+### 사례 273: 주황색-빨간색 그라데이션 속 외로운 실루엣
 
-![橙红渐变中的孤独剪影](../data/images/case273.jpg)
+![주황색-빨간색 그라데이션 속 외로운 실루엣](../data/images/case273.jpg)
 
-**来源：** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
+**출처:** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3237,13 +3237,13 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 <a name="case-274"></a>
 
-### 例 274：成都吃货暴走手绘美食地图
+### 사례 274: 청두 미식 대란 수작업 음식 지도
 
-![成都吃货暴走手绘美食地图](../data/images/case274.jpg)
+![청두 미식 대란 수작업 음식 지도](../data/images/case274.jpg)
 
-**来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
+**출처:** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3257,13 +3257,13 @@ A hand-drawn style city food map themed around Chengdu. The background is a bird
 
 <a name="case-275"></a>
 
-### 例 275：一张采用分层蒙太奇构图的电影海报
+### 사례 275: 레이어 몽타주 구성을 활용한 영화 포스터
 
-![一张采用分层蒙太奇构图的电影海报](../data/images/case275.jpg)
+![레이어 몽타주 구성을 활용한 영화 포스터](../data/images/case275.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
+**출처:** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3307,13 +3307,13 @@ negative: "flat lighting, untextured surfaces, symmetrical composition, empty bo
 
 <a name="case-276"></a>
 
-### 例 276：红绸幻化壮阔国潮羊城
+### 사례 276: 광저우에서 장엄한 국가적 트렌드로 변모한 붉은 리본
 
-![红绸幻化壮阔国潮羊城](../data/images/case276.jpg)
+![광저우에서 장엄한 국가적 트렌드로 변모한 붉은 리본](../data/images/case276.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3339,13 +3339,13 @@ Beautiful and generous typography, clear and complete handwriting, aspect ratio 
 
 <a name="case-277"></a>
 
-### 例 277：奢华魅力黑人女性海滨摄影
+### 사례 277: 고급스럽고 매력적인 흑인 여성 해변 사진
 
-![奢华魅力黑人女性海滨摄影](../data/images/case277.jpg)
+![고급스럽고 매력적인 흑인 여성 해변 사진](../data/images/case277.jpg)
 
-**来源：** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
+**출처:** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3359,13 +3359,13 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a name="case-278"></a>
 
-### 例 278：阿马尔菲海岸复古旅行海报
+### 사례 278: 아말피 해안 레트로 여행 포스터
 
-![阿马尔菲海岸复古旅行海报](../data/images/case278.jpg)
+![아말피 해안 레트로 여행 포스터](../data/images/case278.jpg)
 
-**来源：** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
+**출처:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3379,13 +3379,13 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a name="case-279"></a>
 
-### 例 279：裂痕里的水墨东方山水画卷
+### 사례 279: 갈라진 틈 사이로 보이는 수묵 동양 풍경화 두루마리
 
-![裂痕里的水墨东方山水画卷](../data/images/case279.jpg)
+![갈라진 틈 사이로 보이는 수묵 동양 풍경화 두루마리](../data/images/case279.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3397,23 +3397,24 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。
 整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。
 画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。
-下方题字"东方美学"以黑色楷体书写，日期"2026/04/18"与红色印章相呼应，底部"CHINA"字样庄重醒目，署名"@LIYUE"低调收尾，整体氛围静谧深远，充满诗意与哲思。
+下方题字"동양 미학"以黑色楷体书写，日期"2026/04/18"与红色印章相呼应，底部"CHINA"字样庄重醒目，署名"@LIYUE"低调收尾，整体氛围静谧深远，充满诗意与哲思。
 
 [English]
-Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-white as the background, presenting a three-dimensional sense like paper art silhouettes. A winding S-shaped crack-like edge divides the picture, as if tearing open a layer of paper, revealing the colorful oriental landscape scene inside. Inside the crack, a winding river runs through the entire composition from top to bottom, the river water is rendered in different shades of blue, with clear layers, like a flowing ribbon. Both sides of the riverbank are dotted with verdant hills and terraced fields, the colors are soft, green and red interwoven, showing the tranquil beauty of the pastoral. Ancient-style buildings built along the river are well-proportioned, with flying eaves and upturned corners, white walls and black tiles, appearing more quaint and elegant against the light and shadow. The trees on the bank are lush, the branches and leaves are light and graceful, a small boat is quietly moored in the middle of the water, adding a bit of leisurely artistic conception. The overall composition presents an S-shaped curve, full of rhythm, as if the harmonious coexistence of nature and humanity. The edges of the painting adopt a torn paper effect, creating a visual experience like a three-dimensional relief. The inscription "东方美学" at the bottom is written in black regular script, the date "2026/04/18" echoes with the red seal, the word "CHINA" at the bottom is solemn and eye-catching, and the signature "@LIYUE" ends in a low-key way. The overall atmosphere is quiet and profound, full of poetry and philosophical thinking.
+Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-white as the background, presenting a three-dimensional sense like paper art silhouettes. A winding S-shaped crack-like edge divides the picture, as if tearing open a layer of paper, revealing the colorful oriental landscape scene inside. Inside the crack, a winding river runs through the entire composition from top to bottom, the river water is rendered in different shades of blue, with clear layers, like a flowing ribbon. Both sides of the riverbank are dotted with verdant hills and terraced fields, the colors are soft, green and red interwoven, showing the tranquil beauty of the pastoral. Ancient-style buildings built along the river are well-proportioned, with flying eaves and upturned corners, white walls and black tiles, appearing more quaint and elegant against the light and shadow. The trees on the bank are lush, the branches and leaves are light and graceful, a small boat is quietly moored in the middle of the water, adding a bit of leisurely artistic conception. The overall composition presents an S-shaped curve, full of rhythm, as if the harmonious coexistence of nature and humanity. The edges of the painting adopt a torn paper effect, creating a visual experience like a three-dimensional relief. The inscription "동양 미학" at the bottom is written in black regular script, the date "2026/04/18" echoes with the red seal, the word "CHINA" at the bottom is solemn and eye-catching, and the signature "@LIYUE" ends in a low-key way. The overall atmosphere is quiet and profound, full of poetry and philosophical thinking.
+이미지에 표시되는 제목, 레이블, 주석, UI 텍스트와 기타 읽을 수 있는 문구는 모두 명확한 한국어로 작성합니다.
 ```
 
 ***
 
 <a name="case-280"></a>
 
-### 例 280：封面排版设计图
+### 사례 280: 표지 레이아웃 디자인
 
-![涂鸦速写风AI建造者大师](../data/images/case280.jpg)
+![표지 레이아웃 디자인](../data/images/case280.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
+**출처:** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3427,13 +3428,13 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 
 <a name="case-281"></a>
 
-### 例 281：赛博朋克科幻曼荼罗
+### 사례 281: 사이버펑크 SF 만다라
 
-![赛博朋克科幻曼荼罗](../data/images/case281.jpg)
+![사이버펑크 SF 만다라](../data/images/case281.jpg)
 
-**来源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
+**출처:** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3463,33 +3464,33 @@ Draw a near-future sci-fi version of a mandala
 
 <a name="case-282"></a>
 
-### 例 282：温柔治愈系二次元手机截图
+### 사례 282: 부드럽고 힐링되는 애니메이션 휴대폰 스크린샷
 
-![温柔治愈系二次元手机截图](../data/images/case282.jpg)
+![부드럽고 힐링되는 애니메이션 휴대폰 스크린샷](../data/images/case282.jpg)
 
-**来源：** [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
+**출처:** [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
+生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的한국어 대사，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
 
 [English]
-Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
+Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Korean dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
 ```
 
 ***
 
 <a name="case-283"></a>
 
-### 例 283：小恶魔莉莉香超任游戏海报
+### 사례 283: 꼬마 악마 백합 슈퍼 닌텐도 게임 포스터
 
-![小恶魔莉莉香超任游戏海报](../data/images/case283.jpg)
+![꼬마 악마 백합 슈퍼 닌텐도 게임 포스터](../data/images/case283.jpg)
 
-**来源：** [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
+**출처:** [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3505,13 +3506,13 @@ this quality without any detailed explanation spells is amazing!
 
 <a name="case-284"></a>
 
-### 例 284：温馨卧室里的少女自拍
+### 사례 284: 아늑한 침실 속 소녀의 셀카
 
-![温馨卧室里的少女自拍](../data/images/case284.jpg)
+![아늑한 침실 속 소녀의 셀카](../data/images/case284.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
+**출처:** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3526,13 +3527,13 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 <a name="case-285"></a>
 
-### 例 285：真实动漫画面快照
+### 사례 285: 실제 애니메이션 화면 캡처
 
-![真实动漫画面快照](../data/images/case285.jpg)
+![실제 애니메이션 화면 캡처](../data/images/case285.jpg)
 
-**来源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
+**출처:** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3546,13 +3547,13 @@ Show me the attached image as a snapshot from an actual anime
 
 <a name="case-286"></a>
 
-### 例 286：珠江新城剪纸璀璨夜景
+### 사례 286: 주지앙 신도시 종이 공예로 만든 화려한 야경
 
-![珠江新城剪纸璀璨夜景](../data/images/case286.jpg)
+![주지앙 신도시 종이 공예로 만든 화려한 야경](../data/images/case286.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3570,13 +3571,13 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 <a name="case-287"></a>
 
-### 例 287：不知火舞的小红书主页
+### 사례 287: 시라누이 마이의 샤오홍슈(小红书) 홈페이지
 
-![不知火舞的小红书主页](../data/images/case287.jpg)
+![시라누이 마이의 샤오홍슈(小红书) 홈페이지](../data/images/case287.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**출처:** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3590,13 +3591,13 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 
 <a name="case-288"></a>
 
-### 例 288：抖音美女直播间界面设计
+### 사례 288: 더우인(Douyin) 뷰티 라이브 방송 인터페이스 디자인
 
-![抖音美女直播间界面设计](../data/images/case288.jpg)
+![더우인(Douyin) 뷰티 라이브 방송 인터페이스 디자인](../data/images/case288.jpg)
 
-**来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
+**출처:** [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3610,13 +3611,13 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 
 <a name="case-289"></a>
 
-### 例 289：直播界面设计图
+### 사례 289: 라이브 스트리밍 인터페이스 디자인
 
-![特朗普金正恩抖音直播打PK](../data/images/case289.jpg)
+![라이브 스트리밍 인터페이스 디자인](../data/images/case289.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**출처:** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3630,13 +3631,13 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 <a name="case-290"></a>
 
-### 例 290：古风诗人镭射典藏卡牌
+### 사례 290: 고대 스타일 시인 레이저 컬렉션 카드
 
-![古风诗人镭射典藏卡牌](../data/images/case290.jpg)
+![고대 스타일 시인 레이저 컬렉션 카드](../data/images/case290.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
+**출처:** [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3650,13 +3651,13 @@ Design a set of game cards for ancient Chinese poets, classified by SSR SR R gra
 
 <a name="case-291"></a>
 
-### 例 291：极致奢华的弹珠店梦幻宣传单
+### 사례 291: 최고급 핀볼 숍 몽환적인 홍보 전단지
 
-![极致奢华的弹珠店梦幻宣传单](../data/images/case291.jpg)
+![최고급 핀볼 숍 몽환적인 홍보 전단지](../data/images/case291.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
+**출처:** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3670,13 +3671,13 @@ Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. 
 
 <a name="case-292"></a>
 
-### 例 292：明朝登基宝玉的推文页面
+### 사례 292: 명나라 황제의 트윗 페이지
 
-![明朝登基宝玉的推文页面](../data/images/case292.jpg)
+![명나라 황제의 트윗 페이지](../data/images/case292.jpg)
 
-**来源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
+**출처:** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3690,13 +3691,13 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 
 <a name="case-293"></a>
 
-### 例 293：聚焦人工智能的校园日报
+### 사례 293: 인공지능에 초점을 맞춘 캠퍼스 데일리
 
-![聚焦人工智能的校园日报](../data/images/case293.jpg)
+![인공지능에 초점을 맞춘 캠퍼스 데일리](../data/images/case293.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3710,13 +3711,13 @@ Generate a campus daily newspaper, theme AI education
 
 <a name="case-294"></a>
 
-### 例 294：精美潮汕菜馆菜单图
+### 사례 294: 정교한 차오산 레스토랑 메뉴
 
-![精美潮汕菜馆菜单图](../data/images/case294.jpg)
+![정교한 차오산 레스토랑 메뉴](../data/images/case294.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3730,13 +3731,13 @@ Generate a Teochew restaurant menu image.
 
 <a name="case-295"></a>
 
-### 例 295：复古传统老黄历二零二六年四月十八
+### 사례 295: 레트로풍 전통 황력, 2026년 4월 18일
 
-![复古传统老黄历二零二六年四月十八](../data/images/case295.jpg)
+![레트로풍 전통 황력, 2026년 4월 18일](../data/images/case295.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3750,48 +3751,48 @@ Generate an old almanac for April 18, 2026
 
 <a name="case-296"></a>
 
-### 例 296：博物馆级中文拆解信息图鉴
+### 사례 296: 박물관급 중국 분해 안내 책자
 
-![博物馆级中文拆解信息图鉴](../data/images/case296.jpg)
+![박물관급 중국 분해 안내 책자](../data/images/case296.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+请根据【主题】自动生成一张“박물관 도감형 한국어 분해 인포그래픽”。
 
-要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+要求整张图兼具真实写实主视觉、结构拆解、한국어 주석、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
 
 整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
 
 版式固定为：
-- 顶部：中文主标题 + 副标题 + 导语
-- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 상단: 한국어 주제목 + 부제목 + 도입문
+- 左侧：结构拆解区，한국어 연결선 주석关键部件，并配局部特写
 - 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
 - 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
 - 底部：穿着顺序 / 构成流程图 + 核心特征总结
 
-若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持완전한 한국어 인포그래픽 형식。모든 텍스트는 한국어여야 하며, 명확하고 정돈되어 읽기 쉬워야 합니다. 깨진 문자, 오타, 영어 또는 병음을 사용하지 마세요.重点突出真实结构、材质差异、文化说明与图鉴气质。
 
 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
 
 [English]
-Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
+Please automatically generate a "museum catalog-style Korean disassembly infographic" based on the [Subject].
 
-The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
+The entire image is required to combine a realistic main visual, structural disassembly, Korean annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
 
 The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
 
 The layout is fixed as:
-- Top: Chinese main title + subtitle + introduction
-- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
+- Top: Korean main title + subtitle + introduction
+- Left: Structural disassembly area, with Korean leader lines annotating key components, accompanied by close-up details
 - Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
 - Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
 - Bottom: Dressing order / composition flowchart + core feature summary
 
-If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
+If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Korean infographic. All text must be in Korean, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
 
 Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
 ```
@@ -3800,13 +3801,13 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 
 <a name="case-297"></a>
 
-### 例 297：手写食谱变身杂志级跨页
+### 사례 297: 손으로 쓴 레시피를 잡지 수준의 양면 페이지로 변환
 
-![手写食谱变身杂志级跨页](../data/images/case297.jpg)
+![손으로 쓴 레시피를 잡지 수준의 양면 페이지로 변환](../data/images/case297.jpg)
 
-**来源：** [@maxescu](https://x.com/maxescu/status/2045203839910056014)
+**출처:** [@maxescu](https://x.com/maxescu/status/2045203839910056014)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3824,13 +3825,13 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 
 <a name="case-298"></a>
 
-### 例 298：梦幻波士顿春季城市海报
+### 사례 298: 몽환적인 보스턴 봄 도시 포스터
 
-![梦幻波士顿春季城市海报](../data/images/case298.jpg)
+![몽환적인 보스턴 봄 도시 포스터](../data/images/case298.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3844,13 +3845,13 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 <a name="case-299"></a>
 
-### 例 299：极简留白涂鸦手绘草图
+### 사례 299: 미니멀리즘 빈 낙서 손그림 스케치
 
-![极简留白涂鸦手绘草图](../data/images/case299.jpg)
+![미니멀리즘 빈 낙서 손그림 스케치](../data/images/case299.jpg)
 
-**来源：** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
+**출처:** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3871,13 +3872,13 @@ Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual
 
 <a name="case-300"></a>
 
-### 例 300：黑板上的出师表全文
+### 사례 300: 출사표 전문이 적힌 칠판
 
-![黑板上的出师表全文](../data/images/case300.jpg)
+![출사표 전문이 적힌 칠판](../data/images/case300.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**출처:** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3892,13 +3893,13 @@ Generate image: The full text of Chu Shi Biao handwritten on a classroom blackbo
 
 <a name="case-301"></a>
 
-### 例 301：终结者机器人淘宝详情页
+### 사례 301: 터미네이터 로봇 타오바오(Taobao) 상세 페이지
 
-![终结者机器人淘宝详情页](../data/images/case301.jpg)
+![터미네이터 로봇 타오바오(Taobao) 상세 페이지](../data/images/case301.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**출처:** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3922,33 +3923,33 @@ functions and usage scenarios
 
 <a name="case-302"></a>
 
-### 例 302：九位大师的机械键盘设计图鉴
+### 사례 302: 나인 마스터즈의 기계식 키보드 디자인 일러스트
 
-![九位大师的机械键盘设计图鉴](../data/images/case302.jpg)
+![나인 마스터즈의 기계식 키보드 디자인 일러스트](../data/images/case302.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
+**출처:** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则
+一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，디자이너의 디자인 한국어 텍스트 해석和作品呈现。排版统一规则
 
 [English]
-A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
+A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Korean text interpretations of the designs, and artwork presentations. Unified layout rules
 ```
 
 ***
 
 <a name="case-303"></a>
 
-### 例 303：人教版三年级语文课本内页
+### 사례 303: 인민교육판 3학년 중국어 교과서 내지
 
-![人教版三年级语文课本内页](../data/images/case303.jpg)
+![인민교육판 3학년 중국어 교과서 내지](../data/images/case303.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -3962,17 +3963,17 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 
 <a name="case-304"></a>
 
-### 例 304：荧光蓝穷奇新中式山水画
+### 사례 304: 형광 파란색 궁기 신중국 풍경화
 
-![荧光蓝穷奇新中式山水画](../data/images/case304.jpg)
+![형광 파란색 궁기 신중국 풍경화](../data/images/case304.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
-极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“동양 미학”，“2026/04/18”，署名 “CHINA”，和“
 @LIYUE
 "；
 平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
@@ -3981,26 +3982,27 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
 
 [English]
-Minimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of the image there are Chinese characters in regular script: "东方美学", "2026/04/18", signature "CHINA", and "
+Minimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of the image there are Korean characters in regular script: "동양 미학", "2026/04/18", signature "CHINA", and "
 @LIYUE
 ";
 Drawn on flat, pure white matte textured thick art paper, a creative landscape painting full of oriental poetic atmosphere, irregular torn paper effect;
 Chinese mythical beast: Qiongqi, complete body pattern, magnificent,, soft and agile lines, bright piercing eyes, majestic demeanor, elegant posture, luxury decorative art, Chinese traditional patterns;
 Fluorescent blue lines, 0.5mm ultra-fine gold metallic texture outlining, large strokes of splashed white ink, color rendering, red background, romantic and poetic blue vision;
 Dreamy and aesthetic scene where cold and warm lights intertwine, strong light and shadow contrast atmosphere, time narrative of flowers dancing lightly, Oriental Zen, the picture has a large area of blank space, framework composition, blank space at the bottom, clear details.
+이미지에 표시되는 제목, 레이블, 주석, UI 텍스트와 기타 읽을 수 있는 문구는 모두 명확한 한국어로 작성합니다.
 ```
 
 ***
 
 <a name="case-305"></a>
 
-### 例 305：深夜便利店里的性感霓虹少女
+### 사례 305: 심야 편의점의 섹시한 네온사인 소녀
 
-![深夜便利店里的性感霓虹少女](../data/images/case305.jpg)
+![심야 편의점의 섹시한 네온사인 소녀](../data/images/case305.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4014,13 +4016,13 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 <a name="case-306"></a>
 
-### 例 306：官方角色设定资料卡
+### 사례 306: 공식 캐릭터 설정 데이터 카드
 
-![官方角色设定资料卡](../data/images/case306.jpg)
+![공식 캐릭터 설정 데이터 카드](../data/images/case306.jpg)
 
-**来源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
+**출처:** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4044,13 +4046,13 @@ Based on this character and background, please create a character reference shee
 
 <a name="case-307"></a>
 
-### 例 307：红绸舞动千年商都广州
+### 사례 307: 천년 상업 수도 광저우에서 춤추는 붉은 리본
 
-![红绸舞动千年商都广州](../data/images/case307.jpg)
+![천년 상업 수도 광저우에서 춤추는 붉은 리본](../data/images/case307.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
+**출처:** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4076,13 +4078,13 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 <a name="case-308"></a>
 
-### 例 308：抖音直播截图画面
+### 사례 308: 더우인(Douyin) 라이브 방송 스크린샷
 
-![抖音直播截图画面](../data/images/case308.jpg)
+![더우인(Douyin) 라이브 방송 스크린샷](../data/images/case308.jpg)
 
-**来源：** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
+**출처:** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4096,13 +4098,13 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 <a name="case-309"></a>
 
-### 例 309：创意树叶拼贴构成的角色画像
+### 사례 309: 나뭇잎 콜라주로 만든 캐릭터 초상화
 
-![创意树叶拼贴构成的角色画像](../data/images/case309.jpg)
+![나뭇잎 콜라주로 만든 캐릭터 초상화](../data/images/case309.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
+**출처:** [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4129,13 +4131,13 @@ realistic leaf textures,
 
 <a name="case-310"></a>
 
-### 例 310：零食品牌技术分解图
+### 사례 310: 스낵 브랜드 기술 분석도
 
-![零食品牌技术分解图](../data/images/case310.jpg)
+![스낵 브랜드 기술 분석도](../data/images/case310.jpg)
 
-**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
+**출처:** [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4185,13 +4187,13 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 <a name="case-311"></a>
 
-### 例 311：晨曦薰衣草田梦幻少女三联画
+### 사례 311: 아침 라벤더 밭의 몽환적인 소녀 삼부작
 
-![晨曦薰衣草田梦幻少女三联画](../data/images/case311.jpg)
+![아침 라벤더 밭의 몽환적인 소녀 삼부작](../data/images/case311.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4211,13 +4213,13 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-312"></a>
 
-### 例 312：鲜艳霓虹光影下的动感苏打水飞溅商业海报
+### 사례 312: 생동감 넘치는 네온사인 아래 튀는 탄산음료 광고 포스터
 
-![鲜艳霓虹光影下的动感苏打水飞溅商业海报](../data/images/case312.jpg)
+![생동감 넘치는 네온사인 아래 튀는 탄산음료 광고 포스터](../data/images/case312.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
+**출처:** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4235,13 +4237,13 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-313"></a>
 
-### 例 313：电商商品展示设计
+### 사례 313: 온라인 쇼핑몰 상품 디스플레이 디자인
 
-![梦幻蓝紫烟雾环绕的NUBELLA奢华护肤软管](../data/images/case313.jpg)
+![온라인 쇼핑몰 상품 디스플레이 디자인](../data/images/case313.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
+**출처:** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4375,13 +4377,13 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-314"></a>
 
-### 例 314：红蓝光影下的未来都市双重曝光青年
+### 사례 314: 붉은색과 파란색 빛과 그림자의 이중 노출 아래 미래 도시의 청춘
 
-![红蓝光影下的未来都市双重曝光青年](../data/images/case314.jpg)
+![붉은색과 파란색 빛과 그림자의 이중 노출 아래 미래 도시의 청춘](../data/images/case314.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
+**출처:** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4409,13 +4411,13 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-315"></a>
 
-### 例 315：棘龙巨口中的酷飒少女与史前奇观
+### 사례 315: 입 안의 쿨한 소녀, 스피노사우루스와 선사시대의 경이로움
 
-![棘龙巨口中的酷飒少女与史前奇观](../data/images/case315.jpg)
+![입 안의 쿨한 소녀, 스피노사우루스와 선사시대의 경이로움](../data/images/case315.jpg)
 
-**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
+**출처:** [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4437,13 +4439,13 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 <a name="case-316"></a>
 
-### 例 316：冲破次元壁的写实漫画跑者
+### 사례 316: 차원 장벽을 돌파하는 사실적인 만화 러너
 
-![冲破次元壁的写实漫画跑者](../data/images/case316.jpg)
+![차원 장벽을 돌파하는 사실적인 만화 러너](../data/images/case316.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
+**출처:** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4461,13 +4463,13 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 <a name="case-317"></a>
 
-### 例 317：震撼视觉的深红影棚广角美妆大片
+### 사례 317: 시각적으로 강렬한 딥 레드 스튜디오 광각 메이크업 블록버스터
 
-![震撼视觉的深红影棚广角美妆大片](../data/images/case317.jpg)
+![시각적으로 강렬한 딥 레드 스튜디오 광각 메이크업 블록버스터](../data/images/case317.jpg)
 
-**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+**출처:** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4491,13 +4493,13 @@ Lighting: punchy commercial lighting with defined highlights and reflections, cr
 
 <a name="case-318"></a>
 
-### 例 318：珊瑚色极简影棚时尚商业大片
+### 사례 318: 코랄 미니멀리스트 스튜디오 패션 광고 블록버스터
 
-![珊瑚色极简影棚时尚商业大片](../data/images/case318.jpg)
+![코랄 미니멀리스트 스튜디오 패션 광고 블록버스터](../data/images/case318.jpg)
 
-**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+**출처:** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4516,13 +4518,13 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 
 <a name="case-319"></a>
 
-### 例 319：鸟群织就的梦幻高定时装秀
+### 사례 319: 새 떼가 엮어 만든 몽환적인 오뜨 꾸뛰르 패션쇼
 
-![鸟群织就的梦幻高定时装秀](../data/images/case319.jpg)
+![새 떼가 엮어 만든 몽환적인 오뜨 꾸뛰르 패션쇼](../data/images/case319.jpg)
 
-**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
+**출처:** [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4536,13 +4538,13 @@ A playful high-fashion runway scene featuring a confident woman walking a luxury
 
 <a name="case-320"></a>
 
-### 例 320：冰火双雄背靠背史诗电影海报
+### 사례 320: 얼음과 불의 영웅을 위한 연속 에픽 영화 포스터
 
-![冰火双雄背靠背史诗电影海报](../data/images/case320.jpg)
+![얼음과 불의 영웅을 위한 연속 에픽 영화 포스터](../data/images/case320.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4556,13 +4558,13 @@ A dramatic cinematic poster-style portrait of two epic fantasy warriors standing
 
 <a name="case-321"></a>
 
-### 例 321：都市落日时尚大片
+### 사례 321: 어반 선셋 패션 블록버스터
 
-![都市落日时尚大片](../data/images/case321.jpg)
+![어반 선셋 패션 블록버스터](../data/images/case321.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
+**출처:** [OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4600,13 +4602,13 @@ Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, hi
 
 <a name="case-322"></a>
 
-### 例 322：街头炫瓶男模
+### 사례 322: 병 장식을 한 스트리트 스타일 남성 모델
 
-![街头炫瓶男模](../data/images/case322.jpg)
+![병 장식을 한 스트리트 스타일 남성 모델](../data/images/case322.jpg)
 
-**来源：** [@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
+**출처:** [@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4620,13 +4622,13 @@ Professional photo, a guy, a 30-year-old Russian model (reference image), is fac
 
 <a name="case-323"></a>
 
-### 例 323：应用界面样机图
+### 사례 323: 애플리케이션 인터페이스 목업
 
-![超真实3D INS广告大片](../data/images/case323.jpg)
+![애플리케이션 인터페이스 목업](../data/images/case323.jpg)
 
-**来源：** [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
+**출처:** [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a hyper-realistic, cinematic Instagram post layout where the Instagram UI exists as a physical, tangible 3D object, photographed like a premium commercial product shot. The result should feel indistinguishable from a real studio photograph.
@@ -4706,13 +4708,13 @@ Looks like a real product photoshoot, not AI art
 
 <a name="case-324"></a>
 
-### 例 324：复古巴士上的红风衣女郎
+### 사례 324: 레트로 버스에 탄 빨간 트렌치코트를 입은 여인
 
-![复古巴士上的红风衣女郎](../data/images/case324.jpg)
+![레트로 버스에 탄 빨간 트렌치코트를 입은 여인](../data/images/case324.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
+**출처:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4726,13 +4728,13 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 
 <a name="case-325"></a>
 
-### 例 325：皮克斯风阳光少年
+### 사례 325: 픽사 스타일의 써니 보이
 
-![皮克斯风阳光少年](../data/images/case325.jpg)
+![픽사 스타일의 써니 보이](../data/images/case325.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
+**출처:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4746,13 +4748,13 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-326"></a>
 
-### 例 326：红蓝撞色高跟诱惑
+### 사례 326: 붉은색과 파란색 컬러 블록 하이힐의 유혹
 
-![红蓝撞色高跟诱惑](../data/images/case326.jpg)
+![붉은색과 파란색 컬러 블록 하이힐의 유혹](../data/images/case326.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
+**출처:** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -4852,13 +4854,13 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-327"></a>
 
-### 例 327：沉香玫瑰悬浮幻景
+### 사례 327: 물 위에 떠 있는 침향 장미 환상
 
-![沉香玫瑰悬浮幻景](../data/images/case327.jpg)
+![물 위에 떠 있는 침향 장미 환상](../data/images/case327.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
+**출처:** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -5102,13 +5104,13 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-328"></a>
 
-### 例 328：俯拍巨女城景自拍
+### 사례 328: 거대 여인의 도시 전경 셀카, 위에서 본 모습
 
-![俯拍巨女城景自拍](../data/images/case328.jpg)
+![거대 여인의 도시 전경 셀카, 위에서 본 모습](../data/images/case328.jpg)
 
-**来源：** [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2009834337043394622)
+**출처:** [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2009834337043394622)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -5302,13 +5304,13 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-329"></a>
 
-### 例 329：烬甲猎鹰者与燃翼神禽
+### 사례 329: 불꽃 갑옷의 매사냥꾼과 불타는 날개 신조
 
-![烬甲猎鹰者与燃翼神禽](../data/images/case329.jpg)
+![불꽃 갑옷의 매사냥꾼과 불타는 날개 신조](../data/images/case329.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
+**출처:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [中文]
@@ -5322,13 +5324,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-330"></a>
 
-### 例 330：月下美女直播画面
+### 사례 330: 달빛 뷰티 라이브 스트리밍 화면
 
-![月下美女直播画面](../data/images/case330.png)
+![달빛 뷰티 라이브 스트리밍 화면](../data/images/case330.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
@@ -5338,13 +5340,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-331"></a>
 
-### 例 331：西安手绘水彩城市地图
+### 사례 331: 시안 수작업 수채화 도시 지도
 
-![西安手绘水彩城市地图](../data/images/case331.png)
+![시안 수작업 수채화 도시 지도](../data/images/case331.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
@@ -5354,13 +5356,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-332"></a>
 
-### 例 332：茶π产品宣传海报
+### 사례 332: Teaπ 제품 홍보 포스터
 
-![茶π产品宣传海报](../data/images/case332.png)
+![Teaπ 제품 홍보 포스터](../data/images/case332.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 帮这个产品生成宣传图
@@ -5370,13 +5372,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-333"></a>
 
-### 例 333：AI 眼镜爆炸拆解图
+### 사례 333: AI 안경 분해도
 
-![AI 眼镜爆炸拆解图](../data/images/case333.png)
+![AI 안경 분해도](../data/images/case333.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
@@ -5386,13 +5388,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-334"></a>
 
-### 例 334：RAG 技术详解图
+### 사례 334: RAG 기술 세부 정보 다이어그램
 
-![RAG 技术详解图](../data/images/case334.png)
+![RAG 기술 세부 정보 다이어그램](../data/images/case334.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 帮我生成一张 RAG 技术的详细讲解图
@@ -5402,13 +5404,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-335"></a>
 
-### 例 335：朋友圈截图生成
+### 사례 335: 위챗(WeChat) 모멘트 스크린샷 생성
 
-![朋友圈截图生成](../data/images/case335.png)
+![위챗(WeChat) 모멘트 스크린샷 생성](../data/images/case335.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。
@@ -5418,13 +5420,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-336"></a>
 
-### 例 336：个人网页视觉设计
+### 사례 336: 개인 웹사이트 시각 디자인
 
-![个人网页视觉设计](../data/images/case336.png)
+![개인 웹사이트 시각 디자인](../data/images/case336.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
@@ -5434,13 +5436,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-337"></a>
 
-### 例 337：《短歌行》诗词意境图
+### 사례 337: 《단가행》의 시적 분위기를 담은 일러스트
 
-![短歌行诗词意境图](../data/images/case337.png)
+![《단가행》의 시적 분위기를 담은 일러스트](../data/images/case337.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
@@ -5450,13 +5452,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-338"></a>
 
-### 例 338：《赤壁怀古》长卷图
+### 사례 338: 《적벽부》를 회상하는 장권화
 
-![赤壁怀古长卷图](../data/images/case338.png)
+![《적벽부》를 회상하는 장권화](../data/images/case338.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**출처:** 창허(苍何) 오리지널 실험（공식 계정 글 《GPT-Image2 프롬프트 템플릿 329개를 역설계해 모두 오픈소스로 공개했습니다!》）
 
-**提示词：**
+**프롬프트:**
 
 ```text
 帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
@@ -5470,13 +5472,13 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-339"></a>
 
-### 例 339：Apple 风格自然科普海报
+### 사례 339: 애플 스타일 자연과학 대중화 포스터
 
-![Apple风格自然科普海报](../data/images/case339.jpg)
+![애플 스타일 자연과학 대중화 포스터](../data/images/case339.jpg)
 
-**来源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+**출처:** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。
@@ -5495,14 +5497,14 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 画面结构：
 顶部左侧为标题区：
-中文大标题：{中文物种名}
-中文副标题：{一句有吸引力的物种定位}
+한국어 큰 제목: {한국어 종 이름}
+한국어 부제목: {매력적인 종의 특징을 담은 한 줄}
 细短横线
 英文名：{英文物种名}
 分布信息：主要分布：{分布区域}
 
 中部与下中部为主体视觉：
-生成一个超高清、真实、具有强烈立体感的 {中文物种名}。
+초고해상도·사실적이며 입체감이 강한 {한국어 종 이름}을 생성합니다.
 主体应占据画面 50% 到 70% 的视觉面积。
 主体姿态应具有展示性、力量感或识别度。
 保持白色背景，不添加复杂自然环境。
@@ -5540,10 +5542,10 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 {一句高级、克制、有记忆点的科普总结}
 
 字体与排版：
-中文标题使用大号黑色、高级、稳重、有力量感的字体。
+한국어 제목은 크고 검정색의 고급스럽고 안정적이며 힘 있는 글꼴을 사용합니다.
 副标题使用灰色，中等字号，字距略宽。
 英文名使用小号灰色，简洁现代。
-正文使用清晰现代中文字体，保持可读。
+본문은 명확하고 현대적인 한국어 글꼴을 사용해 가독성을 유지합니다.
 所有文字必须留有足够呼吸感。
 
 色彩规范：
@@ -5580,15 +5582,15 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-340"></a>
 
-### 例 340：彼岸花丛中的红妆女子
+### 사례 340: 피안화 사이의 붉은 옷 여인
 
-![彼岸花丛中的红妆女子](../data/images/case340.png)
+![피안화 사이의 붉은 옷 여인](../data/images/case340.png)
 
-**来源：** [@xiaofenggan](https://x.com/xiaofenggan)
+**출처:** [@xiaofenggan](https://x.com/xiaofenggan)
 
-**补充：** 该“异质类 OC”案例线索由倒放老师发现。
+**추가 정보:** “이질적 OC” 사례의 제보는 다오팡 선생님(倒放老师)이 발견했습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
@@ -5598,15 +5600,15 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-341"></a>
 
-### 例 341：AP Calculus 学习表信息图
+### 사례 341: AP 미적분 학습표 인포그래픽
 
-![AP Calculus 学习表信息图](../data/images/case341.jpg)
+![AP 미적분 학습표 인포그래픽](../data/images/case341.jpg)
 
-**来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
+**출처:** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 10:16（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 10:16(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
@@ -5616,15 +5618,15 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 <a name="case-342"></a>
 
-### 例 342：四季包装 Campaign 宫格
+### 사례 342: 포시즌스 패키징 캠페인 그리드
 
-![四季包装 Campaign 宫格](../data/images/case342.jpg)
+![포시즌스 패키징 캠페인 그리드](../data/images/case342.jpg)
 
-**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
+**출처:** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 10:00（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 10:00(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
@@ -5639,15 +5641,15 @@ Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
 
 <a name="case-343"></a>
 
-### 例 343：高定时尚杂志封面
+### 사례 343: 오뜨 꾸뛰르 잡지 표지
 
-![高定时尚杂志封面](../data/images/case343.jpg)
+![오뜨 꾸뛰르 잡지 표지](../data/images/case343.jpg)
 
-**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
+**출처:** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 09:22（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 09:22(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.
@@ -5669,15 +5671,15 @@ Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy
 
 <a name="case-344"></a>
 
-### 例 344：NOIR 街头服饰 Campaign
+### 사례 344: 느와르 스트리트웨어 캠페인
 
-![NOIR 街头服饰 Campaign](../data/images/case344.jpg)
+![느와르 스트리트웨어 캠페인](../data/images/case344.jpg)
 
-**来源：** [@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
+**출처:** [@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 07:19（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 07:19(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.
@@ -5687,15 +5689,15 @@ Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern street
 
 <a name="case-345"></a>
 
-### 例 345：法新浪潮撕纸电影海报
+### 사례 345: 프랑스 누벨바그 영화 포스터, 종이로 뜯어 쓰는 형식
 
-![法新浪潮撕纸电影海报](../data/images/case345.jpg)
+![프랑스 누벨바그 영화 포스터, 종이로 뜯어 쓰는 형식](../data/images/case345.jpg)
 
-**来源：** [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
+**출처:** [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 07:15（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 07:15(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory.
@@ -5709,15 +5711,15 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a name="case-346"></a>
 
-### 例 346：立体刺绣小鸟花枝
+### 사례 346: 입체 자수 새와 꽃가지
 
-![立体刺绣小鸟花枝](../data/images/case346.jpg)
+![입체 자수 새와 꽃가지](../data/images/case346.jpg)
 
-**来源：** [@dotey](https://x.com/dotey/status/2048529821706195442)
+**출처:** [@dotey](https://x.com/dotey/status/2048529821706195442)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 06:29（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 06:29(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
@@ -5727,15 +5729,15 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a name="case-347"></a>
 
-### 例 347：4×4 动作分解参考表
+### 사례 347: 4×4 액션 분석 참고표
 
-![4×4 动作分解参考表](../data/images/case347.jpg)
+![4×4 액션 분석 참고표](../data/images/case347.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
+**출처:** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 12:04（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 12:04(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [STYLE]
@@ -5767,15 +5769,15 @@ No background scenery, no color tones, no additional characters, no complex back
 
 <a name="case-348"></a>
 
-### 例 348：胡须风格分析海报
+### 사례 348: 수염 스타일 분석 포스터
 
-![胡须风格分析海报](../data/images/case348.jpg)
+![수염 스타일 분석 포스터](../data/images/case348.jpg)
 
-**来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
+**출처:** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:48（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 11:48(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
@@ -5785,15 +5787,15 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 <a name="case-349"></a>
 
-### 例 349：运动时尚三联 Campaign
+### 사례 349: 스포츠 및 패션 3종 캠페인
 
-![运动时尚三联 Campaign](../data/images/case349.jpg)
+![스포츠 및 패션 3종 캠페인](../data/images/case349.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
+**출처:** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:32（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 11:32(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
@@ -5809,15 +5811,15 @@ Consistent color grading, dark green and white palette, sharp details, cinematic
 
 <a name="case-350"></a>
 
-### 例 350：足球球员数据涂鸦海报
+### 사례 350: 축구 선수 데이터 그래피티 포스터
 
-![足球球员数据涂鸦海报](../data/images/case350.jpg)
+![축구 선수 데이터 그래피티 포스터](../data/images/case350.jpg)
 
-**来源：** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
+**출처:** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:16（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 11:16(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a scrapbook doodle-style football poster of [PLAYER_NAME].
@@ -5843,15 +5845,15 @@ Important: all stats must be realistic and proportional to the player's real car
 
 <a name="case-351"></a>
 
-### 例 351：健身品牌力量 Campaign
+### 사례 351: 피트니스 브랜드 파워 캠페인
 
-![健身品牌力量 Campaign](../data/images/case351.jpg)
+![피트니스 브랜드 파워 캠페인](../data/images/case351.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
+**출처:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:13（北京时间）。
+**추가 정보:** 최근 24시간 X 커뮤니티 사례이며, 원문은 2026-04-27 11:13(베이징 시간)에 게시되었습니다.
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
@@ -5861,29 +5863,29 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 
 <a name="case-352"></a>
 
-### 例 352：西楚霸王国风暗黑海报
+### 사례 352: 서초패왕 스타일의 다크 포스터
 
-![西楚霸王国风暗黑海报](../data/images/case352.jpg)
+![서초패왕 스타일의 다크 포스터](../data/images/case352.jpg)
 
-**来源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
+**출처:** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [프롬프트 답글](https://x.com/stellimbris/status/2048775687188709575)
 
-**提示词：**
+**프롬프트:**
 
 ```text
-竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
+竖版国风暗黑海报，黑色纯背景，中央巨大的한국어 제목 글자，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
 ```
 
 ***
 
 <a name="case-353"></a>
 
-### 例 353：品牌口红推荐报告信息图
+### 사례 353: 브랜드 립스틱 추천 보고서 인포그래픽
 
-![品牌口红推荐报告信息图](../data/images/case353.jpg)
+![브랜드 립스틱 추천 보고서 인포그래픽](../data/images/case353.jpg)
 
-**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
+**출처:** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 一、系统角色
@@ -6023,13 +6025,13 @@ Tom Ford：
 
 <a name="case-354"></a>
 
-### 例 354：Logo 与品牌身份系统提示词合集
+### 사례 354: 로고 및 브랜드 아이덴티티 시스템 프롬프트 모음
 
-![Logo 与品牌身份系统提示词合集](../data/images/case354.jpg)
+![로고 및 브랜드 아이덴티티 시스템 프롬프트 모음](../data/images/case354.jpg)
 
-**来源：** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
+**출처:** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 1. Logo概念生成提示词
@@ -6164,13 +6166,13 @@ Tom Ford：
 
 <a name="case-355"></a>
 
-### 例 355：概念字体海报 Prompt
+### 사례 355: 개념 서체 포스터 프롬프트
 
-![概念字体海报 Prompt](../data/images/case355.jpg)
+![개념 서체 포스터 프롬프트](../data/images/case355.jpg)
 
-**来源：** [@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
+**출처:** [@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create ONE finished premium conceptual typography poster for the exact title:
@@ -6206,13 +6208,13 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a name="case-356"></a>
 
-### 例 356：过度思考超现实街头 Campaign
+### 사례 356: 과도한 생각, 초현실주의 거리 캠페인
 
-![过度思考超现实街头 Campaign](../data/images/case356.jpg)
+![과도한 생각, 초현실주의 거리 캠페인](../data/images/case356.jpg)
 
-**来源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
+**출처:** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.
@@ -6240,13 +6242,13 @@ Mood: introspective, emotional weight, identity, self-awareness, quiet confidenc
 
 <a name="case-357"></a>
 
-### 例 357：鱼眼镜面复古咖啡馆人像
+### 사례 357: 어안 렌즈 레트로 카페 인물 사진
 
-![鱼眼镜面复古咖啡馆人像](../data/images/case357.jpg)
+![어안 렌즈 레트로 카페 인물 사진](../data/images/case357.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2049044698900361241)
+**출처:** [@harboriis](https://x.com/harboriis/status/2049044698900361241)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
@@ -6256,13 +6258,13 @@ A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquo
 
 <a name="case-358"></a>
 
-### 例 358：草莓能量饮料商业广告
+### 사례 358: 딸기 에너지 드링크 광고
 
-![草莓能量饮料商业广告](../data/images/case358.jpg)
+![딸기 에너지 드링크 광고](../data/images/case358.jpg)
 
-**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
+**출처:** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
@@ -6274,13 +6276,13 @@ Bright cinematic lighting with dramatic highlights and motion effects. Vibrant o
 
 <a name="case-359"></a>
 
-### 例 359：水墨双重曝光人物海报
+### 사례 359: 이중 노출 수묵화 캐릭터 포스터
 
-![水墨双重曝光人物海报](../data/images/case359.jpg)
+![이중 노출 수묵화 캐릭터 포스터](../data/images/case359.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
+**출처:** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.
@@ -6327,13 +6329,13 @@ OUTPUT:
 
 <a name="case-360"></a>
 
-### 例 360：长发造型分析信息图
+### 사례 360: 장발 스타일링 분석 인포그래픽
 
-![长发造型分析信息图](../data/images/case360.jpg)
+![장발 스타일링 분석 인포그래픽](../data/images/case360.jpg)
 
-**来源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
+**출처:** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a professional "HAIRSTYLE ANALYSIS" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.
@@ -6385,13 +6387,13 @@ High resolution, 4K
 
 <a name="case-361"></a>
 
-### 例 361：手机爆炸拆解图
+### 사례 361: 휴대폰 폭발 분해도
 
-![手机爆炸拆解图](../data/images/case361.jpg)
+![휴대폰 폭발 분해도](../data/images/case361.jpg)
 
-**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
+**출처:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a 3D Insane detailed exploded assembly drawing of [subject or object]
@@ -6401,13 +6403,13 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a name="case-362"></a>
 
-### 例 362：抹茶品牌触点系统视觉板
+### 사례 362: 말차 브랜드 터치포인트 시스템 비주얼 보드
 
-![抹茶品牌触点系统视觉板](../data/images/case362.jpg)
+![말차 브랜드 터치포인트 시스템 비주얼 보드](../data/images/case362.jpg)
 
-**来源：** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
+**출처:** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:
@@ -6461,13 +6463,13 @@ Ultra-detailed, realistic, clean, aesthetic, and highly shareable.
 
 <a name="case-363"></a>
 
-### 例 363：磁场铁粉 Logo 物理成像
+### 사례 363: 자기장 철분 로고 물리적 이미지
 
-![磁场铁粉 Logo 物理成像](../data/images/case363.jpg)
+![자기장 철분 로고 물리적 이미지](../data/images/case363.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:
@@ -6524,13 +6526,13 @@ Cinematic yet grounded realism.
 
 <a name="case-364"></a>
 
-### 例 364：奢华个人色彩档案信息图
+### 사례 364: 고급 개인 컬러 프로필 인포그래픽
 
-![奢华个人色彩档案信息图](../data/images/case364.jpg)
+![고급 개인 컬러 프로필 인포그래픽](../data/images/case364.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
+**출처:** [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 LUXURY PERSONAL COLOR PROFILE — EDITORIAL LAYOUT
@@ -6553,13 +6555,13 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 <a name="case-365"></a>
 
-### 例 365：科学家收藏级玩具发布板
+### 사례 365: 과학자 수집가 에디션 장난감 출시 게시판
 
-![科学家收藏级玩具发布板](../data/images/case365.jpg)
+![과학자 수집가 에디션 장난감 출시 게시판](../data/images/case365.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
@@ -6569,13 +6571,13 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 <a name="case-366"></a>
 
-### 例 366：咖啡馆写实照片与 2D 涂鸦叠加
+### 사례 366: 실제 커피숍 사진과 2D 그래피티 오버레이
 
-![咖啡馆写实照片与 2D 涂鸦叠加](../data/images/case366.jpg)
+![실제 커피숍 사진과 2D 그래피티 오버레이](../data/images/case366.jpg)
 
-**来源：** [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
+**출처:** [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.
@@ -6593,13 +6595,13 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-367"></a>
 
-### 例 367：VELORA 奢华香水广告海报
+### 사례 367: 벨로라 고급 향수 광고 포스터
 
-![VELORA 奢华香水广告海报](../data/images/case367.jpg)
+![벨로라 고급 향수 광고 포스터](../data/images/case367.jpg)
 
-**来源：** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
+**출처:** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 {
@@ -6678,13 +6680,13 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-368"></a>
 
-### 例 368：印度餐厅菜单改造宣传图
+### 사례 368: 인도 레스토랑 메뉴 개편 홍보 이미지
 
-![印度餐厅菜单改造宣传图](../data/images/case368.jpg)
+![인도 레스토랑 메뉴 개편 홍보 이미지](../data/images/case368.jpg)
 
-**来源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
+**출처:** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
@@ -6694,13 +6696,13 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-369"></a>
 
-### 例 369：明洞旅游区域地图
+### 사례 369: 명동 관광지 지도
 
-![明洞旅游区域地图](../data/images/case369.jpg)
+![명동 관광지 지도](../data/images/case369.jpg)
 
-**来源：** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
+**출처:** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [エリア]の観光エリアマップを画像で作成して
@@ -6710,13 +6712,13 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-370"></a>
 
-### 例 370：Crumple Chair 概念沙发研发板
+### 사례 370: 구겨진 의자 콘셉트 소파 개발 보드
 
-![Crumple Chair 概念沙发研发板](../data/images/case370.jpg)
+![구겨진 의자 콘셉트 소파 개발 보드](../data/images/case370.jpg)
 
-**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
+**출처:** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Design Concept: The Crumple Chair Core Philosophy: Translating the "controlled chaos" of a tossed paper ball into a sculptural, high-comfort seating experience.
@@ -6736,13 +6738,13 @@ Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte
 
 <a name="case-371"></a>
 
-### 例 371：Scrapbook 真人图与迷你分身
+### 사례 371: 스크랩북 실생활 사진 및 미니 클론
 
-![Scrapbook 真人图与迷你分身](../data/images/case371.jpg)
+![스크랩북 실생활 사진 및 미니 클론](../data/images/case371.jpg)
 
-**来源：** [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
+**출처:** [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
@@ -6764,13 +6766,13 @@ The final result must look like the SAME original image enhanced with mini alter
 
 <a name="case-372"></a>
 
-### 例 372：可爱角色设定表
+### 사례 372: 귀여운 캐릭터 설정 차트
 
-![可爱角色设定表](../data/images/case372.jpg)
+![귀여운 캐릭터 설정 차트](../data/images/case372.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
+**출처:** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a cute female character design sheet inspired by the uploaded image.
@@ -6799,13 +6801,13 @@ High quality, clean background, soft lighting.
 
 <a name="case-373"></a>
 
-### 例 373：高端肉类海鲜品牌英雄图
+### 사례 373: 고급 육류 및 해산물 브랜드 대표 이미지
 
-![高端肉类海鲜品牌英雄图](../data/images/case373.jpg)
+![고급 육류 및 해산물 브랜드 대표 이미지](../data/images/case373.jpg)
 
-**来源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
+**출처:** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 一、品牌基础设定
@@ -6830,13 +6832,13 @@ High quality, clean background, soft lighting.
 
 <a name="case-374"></a>
 
-### 例 374：彩色潦草小狗线条风格重绘
+### 사례 374: 다채로운 낙서풍 강아지 라인 스타일 리드로우
 
-![彩色潦草小狗线条风格重绘](../data/images/case374.jpg)
+![다채로운 낙서풍 강아지 라인 스타일 리드로우](../data/images/case374.jpg)
 
-**来源：** [@berryxia](https://x.com/berryxia/status/2050226420681757102)
+**출처:** [@berryxia](https://x.com/berryxia/status/2050226420681757102)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。
@@ -6846,13 +6848,13 @@ High quality, clean background, soft lighting.
 
 <a name="case-375"></a>
 
-### 例 375：古希腊三哲时间轴城市图
+### 사례 375: 고대 그리스 철학자 연대표 도시 지도
 
-![古希腊三哲时间轴城市图](../data/images/case375.jpg)
+![고대 그리스 철학자 연대표 도시 지도](../data/images/case375.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
+**출처:** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
@@ -6864,13 +6866,13 @@ High quality, clean background, soft lighting.
 
 <a name="case-376"></a>
 
-### 例 376：泼洒抹茶街头手机照片
+### 사례 376: 길거리에 흩뿌려진 말차 휴대폰 사진
 
-![泼洒抹茶街头手机照片](../data/images/case376.jpg)
+![길거리에 흩뿌려진 말차 휴대폰 사진](../data/images/case376.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)
+**출처:** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [프롬프트 답글](https://x.com/Shinning1010/status/2050693246247207087)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition
@@ -6883,13 +6885,13 @@ cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, ov
 
 <a name="case-377"></a>
 
-### 例 377：樱花咖啡户外人像
+### 사례 377: 벚꽃 커피 야외 초상화
 
-![樱花咖啡户外人像](../data/images/case377.jpg)
+![벚꽃 커피 야외 초상화](../data/images/case377.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
+**출처:** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
@@ -6913,13 +6915,13 @@ Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, i
 
 <a name="case-378"></a>
 
-### 例 378：高端 3D 收藏玩具头像
+### 사례 378: 고급 3D 수집용 장난감 아바타
 
-![高端 3D 收藏玩具头像](../data/images/case378.jpg)
+![고급 3D 수집용 장난감 아바타](../data/images/case378.jpg)
 
-**来源：** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)
+**출처:** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [프롬프트 답글 1](https://x.com/Genematicai/status/2050654987135656043) / [프롬프트 답글 2](https://x.com/Genematicai/status/2050655151120429464)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression.
@@ -6931,13 +6933,13 @@ Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-s
 
 <a name="case-379"></a>
 
-### 例 379：品牌人格漫画信息图
+### 사례 379: 브랜드 개성 만화 인포그래픽
 
-![品牌人格漫画信息图](../data/images/case379.jpg)
+![브랜드 개성 만화 인포그래픽](../data/images/case379.jpg)
 
-**来源：** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
+**출처:** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Using the uploaded logo, create a highly detailed, comic-style infographic poster:
@@ -7092,13 +7094,13 @@ NOT:
 
 <a name="case-380"></a>
 
-### 例 380：冠状病毒尺度缩放科学信息图
+### 사례 380: 코로나바이러스 축소판 과학 인포그래픽
 
-![冠状病毒尺度缩放科学信息图](../data/images/case380.jpg)
+![코로나바이러스 축소판 과학 인포그래픽](../data/images/case380.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
@@ -7108,13 +7110,13 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 <a name="case-381"></a>
 
-### 例 381：90 年代公寓场景参考板
+### 사례 381: 90년대 아파트 풍경 참고판
 
-![90 年代公寓场景参考板](../data/images/case381.jpg)
+![90년대 아파트 풍경 참고판](../data/images/case381.jpg)
 
-**来源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)
+**출처:** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [프롬프트 답글](https://x.com/Iancu_ai/status/2051287283140096253)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 {
@@ -7142,13 +7144,13 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 <a name="case-382"></a>
 
-### 例 382：春日花田三联竖版写真拼贴
+### 사례 382: 봄꽃밭 3컷 세로 사진 콜라주
 
-![春日花田三联竖版写真拼贴](../data/images/case382.jpg)
+![봄꽃밭 3컷 세로 사진 콜라주](../data/images/case382.jpg)
 
-**来源：** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
+**출처:** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch.
@@ -7173,13 +7175,13 @@ Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, cand
 
 <a name="case-383"></a>
 
-### 例 383：AI 日常生活 iPhone 抓拍
+### 사례 383: AI 일상 아이폰 스냅샷
 
-![AI 日常生活 iPhone 抓拍](../data/images/case383.jpg)
+![AI 일상 아이폰 스냅샷](../data/images/case383.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 I want to see what you really look like.
@@ -7192,13 +7194,13 @@ The photo should have slight motion blur, with uneven, natural lighting.
 
 <a name="case-384"></a>
 
-### 例 384：十国传统服饰时尚拼贴
+### 사례 384: 10개국 전통 의상 패션 콜라주
 
-![十国传统服饰时尚拼贴](../data/images/case384.jpg)
+![10개국 전통 의상 패션 콜라주](../data/images/case384.jpg)
 
-**来源：** [@amynys](https://x.com/amynys/status/2051287229532639677)
+**출처:** [@amynys](https://x.com/amynys/status/2051287229532639677)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A 10-Nation Cinematic Fashion Transformation of One Timeless BeautyChatGPT Prompt:
@@ -7232,13 +7234,13 @@ Style: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting
 
 <a name="case-385"></a>
 
-### 例 385：青岛啤酒灵感女装系列
+### 사례 385: 칭다오 맥주에서 영감을 받은 여성 의류 시리즈
 
-![青岛啤酒灵感女装系列](../data/images/case385.jpg)
+![칭다오 맥주에서 영감을 받은 여성 의류 시리즈](../data/images/case385.jpg)
 
-**来源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
+**출처:** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Inspired by Tsingtao (China beer)🍺
@@ -7250,13 +7252,13 @@ Inspired by Tsingtao (China beer)🍺
 
 <a name="case-386"></a>
 
-### 例 386：品牌包络产品广告
+### 사례 386: 브랜드 봉투 제품 광고
 
-![品牌包络产品广告](../data/images/case386.jpg)
+![브랜드 봉투 제품 광고](../data/images/case386.jpg)
 
-**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)
+**출처:** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [프롬프트 답글](https://x.com/SRKDAN/status/2051482048729166109)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 The Brand Envelope | GPT Image-2 Prompt #89
@@ -7275,13 +7277,13 @@ Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 
 <a name="case-387"></a>
 
-### 例 387：Netflix 首页主视觉 UI
+### 사례 387: 넷플릭스 홈페이지 메인 비주얼 UI
 
-![Netflix 首页主视觉 UI](../data/images/case387.jpg)
+![넷플릭스 홈페이지 메인 비주얼 UI](../data/images/case387.jpg)
 
-**来源：** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
+**출처:** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
@@ -7291,13 +7293,13 @@ Create a Netflix homepage UI featuring a main hero film with its title and still
 
 <a name="case-388"></a>
 
-### 例 388：1980s Claude 复古杂志广告
+### 사례 388: 1980년대 클로드 레트로 매거진 광고
 
-![1980s Claude 复古杂志广告](../data/images/case388.jpg)
+![1980년대 클로드 레트로 매거진 광고](../data/images/case388.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [提示词回复](https://x.com/Shinning1010/status/2051410812829335959)
+**출처:** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [프롬프트 답글](https://x.com/Shinning1010/status/2051410812829335959)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.”
@@ -7350,13 +7352,13 @@ modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, 
 
 <a name="case-389"></a>
 
-### 例 389：Transparent Labs Hydrate 健身补剂 Campaign
+### 사례 389: 트랜스페어런트 랩스 하이드레이트 피트니스 보충제 캠페인
 
-![Transparent Labs Hydrate 健身补剂 Campaign](../data/images/case389.jpg)
+![트랜스페어런트 랩스 하이드레이트 피트니스 보충제 캠페인](../data/images/case389.jpg)
 
-**来源：** [@amynys](https://x.com/amynys/status/2051409591137972606)
+**출처:** [@amynys](https://x.com/amynys/status/2051409591137972606)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.
@@ -7380,13 +7382,13 @@ Hyper realistic textures, polished commercial retouching, premium sports nutriti
 
 <a name="case-390"></a>
 
-### 例 390：羊毛毡国家微缩世界
+### 사례 390: 펠트로 만든 미니어처 나라들
 
-![羊毛毡国家微缩世界](../data/images/case390.jpg)
+![펠트로 만든 미니어처 나라들](../data/images/case390.jpg)
 
-**来源：** [@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)
+**출처:** [@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [프롬프트 답글](https://x.com/volkan_iras/status/2051403530590638325)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Country: [INSERT COUNTRY NAME]
@@ -7438,13 +7440,13 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 <a name="case-391"></a>
 
-### 例 391：四国文化锚点服装设计宫格
+### 사례 391: 사국 문화 앵커 포인트 의류 디자인 그리드
 
-![四国文化锚点服装设计宫格](../data/images/case391.jpg)
+![사국 문화 앵커 포인트 의류 디자인 그리드](../data/images/case391.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 <instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
@@ -7454,13 +7456,13 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 <a name="case-392"></a>
 
-### 例 392：头发里的微型城市
+### 사례 392: 머리카락 속 미니어처 도시
 
-![头发里的微型城市](../data/images/case392.jpg)
+![머리카락 속 미니어처 도시](../data/images/case392.jpg)
 
-**来源：** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
+**출처:** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
@@ -7470,13 +7472,13 @@ Macro photograph of a miniature city hidden in human hair, clearly on a real hum
 
 <a name="case-393"></a>
 
-### 例 393：Y2K 金色时刻人像
+### 사례 393: Y2K 황금 시간대 인물 사진
 
-![Y2K 金色时刻人像](../data/images/case393.jpg)
+![Y2K 황금 시간대 인물 사진](../data/images/case393.jpg)
 
-**来源：** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
+**출처:** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
@@ -7486,13 +7488,13 @@ candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kis
 
 <a name="case-394"></a>
 
-### 例 394：中世纪村庄双精灵冒险者
+### 사례 394: 중세 마을의 두 엘프 모험가
 
-![中世纪村庄双精灵冒险者](../data/images/case394.jpg)
+![중세 마을의 두 엘프 모험가](../data/images/case394.jpg)
 
-**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
+**출처:** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name="left character hair color" default="ash blonde"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name="right character hair color" default="dark brown"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name="face covering color" default="dark brown"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name="lighting mood" default="warm late-afternoon golden sunlight"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.
@@ -7502,13 +7504,13 @@ Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game
 
 <a name="case-395"></a>
 
-### 例 395：骑士法师大战石像魔像
+### 사례 395: 기사와 마법사의 전투 돌 골렘
 
-![骑士法师大战石像魔像](../data/images/case395.jpg)
+![기사와 마법사의 전투 돌 골렘](../data/images/case395.jpg)
 
-**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
+**출처:** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.
@@ -7518,13 +7520,13 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 <a name="case-396"></a>
 
-### 例 396：龙类物种复古百科海报
+### 사례 396: 레트로 용 종 백과사전 포스터
 
-![龙类物种复古百科海报](../data/images/case396.jpg)
+![레트로 용 종 백과사전 포스터](../data/images/case396.jpg)
 
-**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
+**출처:** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster.
@@ -7571,13 +7573,13 @@ Ultra detailed.
 
 <a name="case-397"></a>
 
-### 例 397：街舞角色设定参考图
+### 사례 397: 스트리트 댄스 캐릭터 디자인 참고 이미지
 
-![街舞角色设定参考图](../data/images/case397.jpg)
+![스트리트 댄스 캐릭터 디자인 참고 이미지](../data/images/case397.jpg)
 
-**来源：** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
+**출처:** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
@@ -7587,13 +7589,13 @@ Ultra detailed.
 
 <a name="case-398"></a>
 
-### 例 398：8 套日常穿搭编辑拼贴
+### 사례 398: 8세트 데일리룩 편집 콜라주
 
-![8 套日常穿搭编辑拼贴](../data/images/case398.jpg)
+![8세트 데일리룩 편집 콜라주](../data/images/case398.jpg)
 
-**来源：** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
+**출처:** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.
@@ -7603,13 +7605,13 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 
 <a name="case-399"></a>
 
-### 例 399：唱片公司楼梯间写真人像
+### 사례 399: 음반 회사 계단 속 실사 초상화
 
-![唱片公司楼梯间写真人像](../data/images/case399.jpg)
+![음반 회사 계단 속 실사 초상화](../data/images/case399.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use case: photorealistic-natural
@@ -7636,13 +7638,13 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 <a name="case-400"></a>
 
-### 例 400：多风格签名选择海报
+### 사례 400: 다양한 스타일의 시그니처 셀렉션 포스터
 
-![多风格签名选择海报](../data/images/case400.png)
+![다양한 스타일의 시그니처 셀렉션 포스터](../data/images/case400.png)
 
-**来源：** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
+**출처:** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 你是一个高端签名设计系统 + 风格人格视觉系统。
@@ -7736,13 +7738,13 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 <a name="case-401"></a>
 
-### 例 401：Lost in 国家旅行海报拼贴
+### 사례 401: 로스트 인 컨트리 여행 포스터 콜라주
 
-![Lost in 国家旅行海报拼贴](../data/images/case401.jpg)
+![로스트 인 컨트리 여행 포스터 콜라주](../data/images/case401.jpg)
 
-**来源：** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
+**출처:** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
@@ -7752,13 +7754,13 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 <a name="case-402"></a>
 
-### 例 402：3D 小红书个人资料卡
+### 사례 402: 3D 샤오홍슈(小红书) 개인 프로필 카드
 
-![3D 小红书个人资料卡](../data/images/case402.jpg)
+![3D 샤오홍슈(小红书) 개인 프로필 카드](../data/images/case402.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
+**출처:** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
@@ -7768,13 +7770,13 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 <a name="case-403"></a>
 
-### 例 403：小红书数字破屏 3D 女孩
+### 사례 403: 샤오홍슈(小红书) 디지털 화면 파괴 3D 소녀
 
-![小红书数字破屏 3D 女孩](../data/images/case403.jpg)
+![샤오홍슈(小红书) 디지털 화면 파괴 3D 소녀](../data/images/case403.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
+**출처:** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [추가 프롬프트](https://x.com/MrGafish/status/2052682279257026631)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。
@@ -7790,13 +7792,13 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 <a name="case-404"></a>
 
-### 例 404：豪华社媒破屏商业广告
+### 사례 404: 고급 소셜 미디어 화면을 강타하는 광고
 
-![豪华社媒破屏商业广告](../data/images/case404.jpg)
+![고급 소셜 미디어 화면을 강타하는 광고](../data/images/case404.jpg)
 
-**来源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
+**출처:** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
@@ -7814,13 +7816,13 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 <a name="case-405"></a>
 
-### 例 405：可爱纸艺风照片重绘
+### 사례 405: 귀여운 종이 예술 스타일 사진 리드로잉
 
-![可爱纸艺风照片重绘](../data/images/case405.jpg)
+![귀여운 종이 예술 스타일 사진 리드로잉](../data/images/case405.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
+**출처:** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Recreate this image in a paper craft style, simplifying the details to make them suitable for paper craft artwork. Arrange the overall composition to feel visually pleasing, soft, and cute. You may add charming decorative elements such as birds, butterflies, flowers, etc., to enhance the adorable atmosphere while still matching the original image.
@@ -7830,13 +7832,13 @@ Recreate this image in a paper craft style, simplifying the details to make them
 
 <a name="case-406"></a>
 
-### 例 406：巨型游戏手柄街头 Campaign
+### 사례 406: 대형 게임 컨트롤러 스트리트 캠페인
 
-![巨型游戏手柄街头 Campaign](../data/images/case406.jpg)
+![대형 게임 컨트롤러 스트리트 캠페인](../data/images/case406.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
+**출처:** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones.
@@ -7852,13 +7854,13 @@ Environment: seamless studio backdrop with glossy floor reflections, high-end co
 
 <a name="case-407"></a>
 
-### 例 407：Neuro-AI 混合系统信息图
+### 사례 407: 신경-AI 하이브리드 시스템 인포그래픽
 
-![Neuro-AI 混合系统信息图](../data/images/case407.jpg)
+![신경-AI 하이브리드 시스템 인포그래픽](../data/images/case407.jpg)
 
-**来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
+**출처:** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.
@@ -7899,13 +7901,13 @@ Style:
 
 <a name="case-408"></a>
 
-### 例 408：Cozy Academia 学习手记
+### 사례 408: 아늑한 학문적 학습 노트
 
-![Cozy Academia 学习手记](../data/images/case408.jpg)
+![아늑한 학문적 학습 노트](../data/images/case408.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
@@ -7915,13 +7917,13 @@ Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying 
 
 <a name="case-409"></a>
 
-### 例 409：拙劣 MS Paint 风重绘
+### 사례 409: 어설픈 MS 페인트 스타일로 다시 그리기
 
-![拙劣 MS Paint 风重绘](../data/images/case409.jpg)
+![어설픈 MS 페인트 스타일로 다시 그리기](../data/images/case409.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Please redraw the attached image in the most clumsy, messy, and hopelessly pathetic way possible. Use a white background and make it look like it was drawn in MS Paint with a mouse. It should vaguely resemble the original, but not really — like it’s kind of correct in some places yet strangely off and awkward overall. Emphasize a low-quality, pixelated look, and make it appear ridiculously badly drawn. …Actually, never mind — just draw it however you want in a sloppy way.
@@ -7931,13 +7933,13 @@ Please redraw the attached image in the most clumsy, messy, and hopelessly pathe
 
 <a name="case-410"></a>
 
-### 例 410：夸张动漫风主体重绘
+### 사례 410: 과장된 애니메이션 스타일 본체 재작업
 
-![夸张动漫风主体重绘](../data/images/case410.jpg)
+![과장된 애니메이션 스타일 본체 재작업](../data/images/case410.jpg)
 
-**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
+**출처:** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world
@@ -7947,13 +7949,13 @@ Create a trending anime art style image from the uploaded subject. Use confident
 
 <a name="case-411"></a>
 
-### 例 411：极简建筑地标海报
+### 사례 411: 미니멀리즘 건축 랜드마크 포스터
 
-![极简建筑地标海报](../data/images/case411.jpg)
+![미니멀리즘 건축 랜드마크 포스터](../data/images/case411.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
@@ -7963,13 +7965,13 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 
 <a name="case-412"></a>
 
-### 例 412：彩色按钮时尚 Campaign
+### 사례 412: 컬러풀 버튼 패션 캠페인
 
-![彩色按钮时尚 Campaign](../data/images/case412.jpg)
+![컬러풀 버튼 패션 캠페인](../data/images/case412.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
+**출처:** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use reference image as style guide.
@@ -7990,13 +7992,13 @@ Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury ca
 
 <a name="case-413"></a>
 
-### 例 413：当代舞现场 Storyboard
+### 사례 413: 현대 무용 장면 스토리보드
 
-![当代舞现场 Storyboard](../data/images/case413.jpg)
+![현대 무용 장면 스토리보드](../data/images/case413.jpg)
 
-**来源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
+**출처:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.
@@ -8022,13 +8024,13 @@ End with one overwhelming final movement pose beneath a harsh isolated spotlight
 
 <a name="case-414"></a>
 
-### 例 414：室内晨间写实摄影
+### 사례 414: 실내 아침의 사실적인 사진
 
-![室内晨间写实摄影](../data/images/case414.jpg)
+![실내 아침의 사실적인 사진](../data/images/case414.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
+**출처:** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
@@ -8041,18 +8043,18 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 <a name="case-415"></a>
 
-### 例 415：东方神话人物志百科海报
+### 사례 415: 동양 신화 인물 백과사전 포스터
 
-![东方神话人物志百科海报](../data/images/case415.jpg)
+![동양 신화 인물 백과사전 포스터](../data/images/case415.jpg)
 
-**来源：** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
+**출처:** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。
 
-你是一名东方神话视觉设定师、古籍图谱设计师和中文信息图设计师。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。
+你是一名东方神话视觉设定师、古籍图谱设计师和한국어 인포그래픽 디자이너。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。
 
 最重要原则：
 全部内容必须围绕【人物名称】展开，不要套用通用神仙模板。
@@ -8100,7 +8102,7 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 根据【人物名称】的属性自动选择东方配色。火焰 / 战斗 / 护法：朱砂、玄黑、鎏金、赤红。月亮 / 水系 / 清冷神祇：黛青、银白、月白、石蓝。山川 / 木系 / 自然神灵：石绿、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、朱砂、玉白。妖灵 / 山海异兽：墨黑、铜绿、暗金、赭红。不要所有人物都使用同一套配色。
 
 文字要求：
-中文必须清晰可读，标题大气，正文简短准确。不要乱码、伪文字、错别字、文字重叠或裁切。如果空间不足，优先压缩正文，但保留所有板块标题。
+한국어는 명확하고 읽을 수 있어야 하며 제목은 인상적이고 본문은 짧고 정확해야 합니다. 깨진 문자, 가짜 문자, 오타, 텍스트 겹침 또는 잘림을 사용하지 마세요.如果空间不足，优先压缩正文，但保留所有板块标题。
 
 避免：
 北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
@@ -8110,13 +8112,13 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 <a name="case-416"></a>
 
-### 例 416：Earth Signs 角色 Scrapbook
+### 사례 416: 지구 기호 캐릭터 스크랩북
 
-![Earth Signs 角色 Scrapbook](../data/images/case416.jpg)
+![지구 기호 캐릭터 스크랩북](../data/images/case416.jpg)
 
-**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
+**출처:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alteration.
@@ -8177,13 +8179,13 @@ Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifes
 
 <a name="case-417"></a>
 
-### 例 417：复古印尼猫薄荷广告
+### 사례 417: 레트로풍 인도네시아 개박하 광고
 
-![复古印尼猫薄荷广告](../data/images/case417.jpg)
+![레트로풍 인도네시아 개박하 광고](../data/images/case417.jpg)
 
-**来源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
+**출처:** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
@@ -8193,13 +8195,13 @@ Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s pape
 
 <a name="case-418"></a>
 
-### 例 418：中世纪城市旅行海报
+### 사례 418: 중세 도시 여행 포스터
 
-![中世纪城市旅行海报](../data/images/case418.jpg)
+![중세 도시 여행 포스터](../data/images/case418.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+**출처:** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
@@ -8212,13 +8214,13 @@ Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language nam
 
 <a name="case-419"></a>
 
-### 例 419：可颂烘焙流程 Storyboard
+### 사례 419: 크루아상 굽는 과정 스토리보드
 
-![可颂烘焙流程 Storyboard](../data/images/case419.jpg)
+![크루아상 굽는 과정 스토리보드](../data/images/case419.jpg)
 
-**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
+**출처:** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.
@@ -8254,13 +8256,13 @@ BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamina
 
 <a name="case-420"></a>
 
-### 例 420：红跑道低角度夏日人像
+### 사례 420: 붉은 트랙 로우 앵글 여름 인물 사진
 
-![红跑道低角度夏日人像](../data/images/case420.jpg)
+![붉은 트랙 로우 앵글 여름 인물 사진](../data/images/case420.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
+**출처:** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use the uploaded portrait photo as the appearance reference for the person. Create a bright photorealistic outdoor portrait of a young woman lying on a red running track on a modern white arch pedestrian bridge. Ultra-wide low-angle selfie perspective, her arm reaching toward the camera in the foreground, relaxed pose, wired headphones around her neck, white sleeveless top, loose gray pants, black hair spread on the ground. Clean blue sky with soft white clouds, strong midday sunlight, crisp shadows, high clarity, fresh youthful mood, architectural symmetry, realistic skin texture, cinematic composition, 3:4 vertical image
@@ -8274,13 +8276,13 @@ watermark, logo, text, caption, signature, AI label, extra fingers, deformed han
 
 <a name="case-421"></a>
 
-### 例 421：iPhone 屏幕遮脸创意人像
+### 사례 421: 아이폰 화면으로 얼굴이 가려진 크리에이티브 인물 사진
 
-![iPhone 屏幕遮脸创意人像](../data/images/case421.jpg)
+![아이폰 화면으로 얼굴이 가려진 크리에이티브 인물 사진](../data/images/case421.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
@@ -8290,13 +8292,13 @@ Ultra-realistic creative portrait taken with an iPhone, identity accurately pres
 
 <a name="case-422"></a>
 
-### 例 422：冬季生存惊悚 Storyboard
+### 사례 422: 겨울 생존 스릴러 스토리보드
 
-![冬季生存惊悚 Storyboard](../data/images/case422.jpg)
+![겨울 생존 스릴러 스토리보드](../data/images/case422.jpg)
 
-**来源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
+**출처:** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Cinematic Survival Thriller Storyboard Prompt
@@ -8474,13 +8476,13 @@ Cinematography notes:
 
 <a name="case-423"></a>
 
-### 例 423：日系手绘涂鸦半身插画
+### 사례 423: 일본식 수작업 그래피티 반신 일러스트
 
-![日系手绘涂鸦半身插画](../data/images/case423.jpg)
+![일본식 수작업 그래피티 반신 일러스트](../data/images/case423.jpg)
 
-**来源：** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
+**출처:** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
@@ -8490,13 +8492,13 @@ Generate an illustration of "me" as you imagine it. Features include a Japanese 
 
 <a name="case-424"></a>
 
-### 例 424：FMCG 棒棒糖霓虹广告
+### 사례 424: FMCG 롤리팝 네온 광고
 
-![FMCG 棒棒糖霓虹广告](../data/images/case424.jpg)
+![FMCG 롤리팝 네온 광고](../data/images/case424.jpg)
 
-**来源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
+**출처:** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture.
@@ -8537,13 +8539,13 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 <a name="case-425"></a>
 
-### 例 425：黑白时尚人像拼贴海报
+### 사례 425: 흑백 패션 인물 사진 콜라주 포스터
 
-![黑白时尚人像拼贴海报](../data/images/case425.jpg)
+![흑백 패션 인물 사진 콜라주 포스터](../data/images/case425.jpg)
 
-**来源：** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
+**출처:** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 {
@@ -8556,13 +8558,13 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 <a name="case-426"></a>
 
-### 例 426：日韩咖啡馆情侣写真
+### 사례 426: 일본과 한국 카페 커플 사진
 
-![日韩咖啡馆情侣写真](../data/images/case426.jpg)
+![일본과 한국 카페 커플 사진](../data/images/case426.jpg)
 
-**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
+**출처:** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
@@ -8580,13 +8582,13 @@ Color palette should focus on [color theme] tones. Style inspired by viral Pinte
 
 <a name="case-427"></a>
 
-### 例 427：9-frame 时尚人像拼贴
+### 사례 427: 9컷 패션 인물 사진 콜라주
 
-![9-frame 时尚人像拼贴](../data/images/case427.jpg)
+![9컷 패션 인물 사진 콜라주](../data/images/case427.jpg)
 
-**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
+**출처:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Edit this photo and don't change the face, portrait 9:16. A 9-frame fashion portrait collage featuring a stylish young woman with playful expressions and sporty streetwear aesthetics. The concept combines modern model test photography, casual Gen-Z energy, and clean editorial studio vibes. Each frame captures different candid facial expressions and subtle attitude poses, creating a cool, confident, and slightly mischievous mood. Minimalist composition with strong focus on facial expressions, cap styling, and soft fashion portrait lighting.
@@ -8612,13 +8614,13 @@ Background minimal white studio backdrop. Photobooth-style collage layout with b
 
 <a name="case-428"></a>
 
-### 例 428：F1 直播转播围场截图
+### 사례 428: F1 생중계 패독 스크린샷
 
-![F1 直播转播围场截图](../data/images/case428.jpg)
+![F1 생중계 패독 스크린샷](../data/images/case428.jpg)
 
-**来源：** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
+**출처:** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.
@@ -8631,13 +8633,13 @@ Team staff (in generic kit), headsets, garage screens, and generic race equipmen
 
 <a name="case-429"></a>
 
-### 例 429：韩国便利店粉色 Hoodie 人像
+### 사례 429: 한국 편의점 핑크 후드티 초상화
 
-![韩国便利店粉色 Hoodie 人像](../data/images/case429.jpg)
+![한국 편의점 핑크 후드티 초상화](../data/images/case429.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
+**출처:** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.
@@ -8647,13 +8649,13 @@ Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean wom
 
 <a name="case-430"></a>
 
-### 例 430：铅笔素描时尚编辑插画
+### 사례 430: 동양적인 금박 입힌 광저우 타워의 판타지 포스터
 
-![铅笔素描时尚编辑插画](../data/images/case430.jpg)
+![동양적인 금박 입힌 광저우 타워의 판타지 포스터](../data/images/case430.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
+**출처:** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A high-detail digital illustration of a stylish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed. She is wearing vintage-inspired round sunglasses, a white blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange circle creates a bold geometric contrast against a clean, light grey backdrop. The overall composition is minimalist, editorial, and features a clean "indie-magazine" aesthetic with sharp linework and soft shading.
@@ -8665,13 +8667,13 @@ Aspect ratio is 9:16
 
 <a name="case-431"></a>
 
-### 例 431：城市文字旅行海报
+### 사례 431: 도시 텍스트 여행 포스터
 
-![城市文字旅行海报](../data/images/case431.jpg)
+![도시 텍스트 여행 포스터](../data/images/case431.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio.
@@ -8715,13 +8717,13 @@ QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typo
 
 <a name="case-432"></a>
 
-### 例 432：大堡礁复古旅行海报
+### 사례 432: 그레이트 배리어 리프 레트로 여행 포스터
 
-![大堡礁复古旅行海报](../data/images/case432.jpg)
+![그레이트 배리어 리프 레트로 여행 포스터](../data/images/case432.jpg)
 
-**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
+**출처:** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.
@@ -8744,13 +8746,13 @@ Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. 
 
 <a name="case-433"></a>
 
-### 例 433：韩国城市水彩旅行插画
+### 사례 433: 한국 도시 수채화 여행 일러스트
 
-![韩国城市水彩旅行插画](../data/images/case433.jpg)
+![한국 도시 수채화 여행 일러스트](../data/images/case433.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
@@ -8760,13 +8762,13 @@ Dreamy watercolor travel illustration of a peaceful Korean city street, hand-pai
 
 <a name="case-434"></a>
 
-### 例 434：东京街头胶片人像
+### 사례 434: 도쿄 거리 필름 인물 사진
 
-![东京街头胶片人像](../data/images/case434.jpg)
+![도쿄 거리 필름 인물 사진](../data/images/case434.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
+**출처:** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16
@@ -8776,13 +8778,13 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 <a name="case-435"></a>
 
-### 例 435：层叠纸雕情侣插画
+### 사례 435: 레이어드 종이 조각 커플 일러스트
 
-![层叠纸雕情侣插画](../data/images/case435.jpg)
+![레이어드 종이 조각 커플 일러스트](../data/images/case435.jpg)
 
-**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
+**출처:** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 {
@@ -8830,13 +8832,13 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 <a name="case-436"></a>
 
-### 例 436：数码相机屏幕怀旧人像
+### 사례 436: 디지털 카메라 화면 향수 어린 초상화
 
-![数码相机屏幕怀旧人像](../data/images/case436.jpg)
+![디지털 카메라 화면 향수 어린 초상화](../data/images/case436.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
@@ -8856,13 +8858,13 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 <a name="case-437"></a>
 
-### 例 437：面部美学分析报告
+### 사례 437: 얼굴 미학 분석 보고서
 
-![面部美学分析报告](../data/images/case437.jpg)
+![얼굴 미학 분석 보고서](../data/images/case437.jpg)
 
-**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
+**출처:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo.
@@ -8894,13 +8896,13 @@ Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated ed
 
 <a name="case-438"></a>
 
-### 例 438：珠宝微缩城市广告海报
+### 사례 438: 보석 미니어처 도시 광고 포스터
 
-![珠宝微缩城市广告海报](../data/images/case438.jpg)
+![보석 미니어처 도시 광고 포스터](../data/images/case438.jpg)
 
-**来源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
+**출처:** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
@@ -8910,13 +8912,13 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 
 <a name="case-439"></a>
 
-### 例 439：赛博黑客角色设定表
+### 사례 439: 사이버 해커 캐릭터 설정 테이블
 
-![赛博黑客角色设定表](../data/images/case439.jpg)
+![사이버 해커 캐릭터 설정 테이블](../data/images/case439.jpg)
 
-**来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
+**출처:** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic.
@@ -8930,13 +8932,13 @@ Highly polished cel shading, crisp lineart, soft glow effects, intricate clothin
 
 <a name="case-440"></a>
 
-### 例 440：手机拍摄 FaceTime 工作屏幕
+### 사례 440: 휴대폰 촬영 페이스타임 업무 화면
 
-![手机拍摄 FaceTime 工作屏幕](../data/images/case440.jpg)
+![휴대폰 촬영 페이스타임 업무 화면](../data/images/case440.jpg)
 
-**来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+**출처:** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
@@ -8946,13 +8948,13 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 
 <a name="case-441"></a>
 
-### 例 441：WILDCAMP 巨型帐篷广告海报
+### 사례 441: 와일드캠프 대형 텐트 광고 포스터
 
-![WILDCAMP 巨型帐篷广告海报](../data/images/case441.jpg)
+![와일드캠프 대형 텐트 광고 포스터](../data/images/case441.jpg)
 
-**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
+**출처:** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
@@ -8962,13 +8964,13 @@ An outdoor adventure advertisement poster featuring a rugged bearded man in full
 
 <a name="case-442"></a>
 
-### 例 442：舒适发廊插画
+### 사례 442: 편안한 헤어 살롱 일러스트
 
-![舒适发廊插画](../data/images/case442.jpg)
+![편안한 헤어 살롱 일러스트](../data/images/case442.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
@@ -8978,13 +8980,13 @@ A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a
 
 <a name="case-443"></a>
 
-### 例 443：塔可爆炸拆解信息图
+### 사례 443: 타코 폭발 분해 인포그래픽
 
-![塔可爆炸拆解信息图](../data/images/case443.jpg)
+![타코 폭발 분해 인포그래픽](../data/images/case443.jpg)
 
-**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
+**출처:** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a hyper-realistic exploded vertical infographic composition of tacos.
@@ -9010,13 +9012,13 @@ Ultra-detailed food textures, premium commercial aesthetic, 8K.
 
 <a name="case-444"></a>
 
-### 例 444：迪斯科镜面 3D App 图标
+### 사례 444: 디스코 미러 3D 앱 아이콘
 
-![迪斯科镜面 3D App 图标](../data/images/case444.jpg)
+![디스코 미러 3D 앱 아이콘](../data/images/case444.jpg)
 
-**来源：** [@vista8](https://x.com/vista8/status/2056308962778296715)
+**출처:** [@vista8](https://x.com/vista8/status/2056308962778296715)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 为【品牌名】生成一个高级 3D App 图标，圆角方形底板，玻璃与金属铬材质，迪斯科球镜面马赛克小方块质感，闪亮高光，柔和工作室灯光，干净极简背景，高端产品图标风格，Blender 3D 渲染，超精细
@@ -9030,13 +9032,13 @@ A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass 
 
 <a name="case-445"></a>
 
-### 例 445：旅游照水墨明信片
+### 사례 445: 여행 사진 수묵 엽서
 
-![旅游照水墨明信片](../data/images/case445.jpg)
+![여행 사진 수묵 엽서](../data/images/case445.jpg)
 
-**来源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
+**출처:** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
@@ -9046,13 +9048,13 @@ Create a dreamy watercolor travel illustration style from the attached photo. Us
 
 <a name="case-446"></a>
 
-### 例 446：低多边形纸艺男士肖像
+### 사례 446: 로우폴리 종이 예술 남성 초상화
 
-![低多边形纸艺男士肖像](../data/images/case446.jpg)
+![로우폴리 종이 예술 남성 초상화](../data/images/case446.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
+**출처:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
@@ -9062,13 +9064,13 @@ Create a highly detailed low-poly papercraft portrait of a stylish young man, de
 
 <a name="case-447"></a>
 
-### 例 447：现代地铁工程信息图
+### 사례 447: 현대 지하철 공학 정보도
 
-![现代地铁工程信息图](../data/images/case447.jpg)
+![현대 지하철 공학 정보도](../data/images/case447.jpg)
 
-**来源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+**출처:** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
@@ -9164,13 +9166,13 @@ The final result should resemble a professionally published railway infrastructu
 
 <a name="case-448"></a>
 
-### 例 448：1942 空战街机电影城
+### 사례 448: 1942년 공중전 아케이드 게임
 
-![1942 空战街机电影城](../data/images/case448.jpg)
+![1942년 공중전 아케이드 게임](../data/images/case448.jpg)
 
-**来源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
+**출처:** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
@@ -9215,13 +9217,13 @@ cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion bl
 
 <a name="case-449"></a>
 
-### 例 449：奢华机械腕表技术图鉴
+### 사례 449: 고급 기계식 시계 기술 가이드
 
-![奢华机械腕表技术图鉴](../data/images/case449.jpg)
+![고급 기계식 시계 기술 가이드](../data/images/case449.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
@@ -9262,13 +9264,13 @@ class Haute_Horlogerie_DNA:
 
 <a name="case-450"></a>
 
-### 例 450：烛光侧室写实摄影
+### 사례 450: 촛불이 켜진 협탁의 사실적인 사진 촬영
 
-![烛光侧室写实摄影](../data/images/case450.jpg)
+![촛불이 켜진 협탁의 사실적인 사진 촬영](../data/images/case450.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
+**출처:** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
@@ -9284,13 +9286,13 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 
 <a name="case-451"></a>
 
-### 例 451：韩国海滩日落时尚人像
+### 사례 451: 한국 해변 일몰 패션 초상화
 
-![韩国海滩日落时尚人像](../data/images/case451.jpg)
+![한국 해변 일몰 패션 초상화](../data/images/case451.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
+**출처:** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。
@@ -9300,13 +9302,13 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 
 <a name="case-452"></a>
 
-### 例 452：极简童话手绘儿童插画
+### 사례 452: 미니멀리즘 동화 손그림 어린이 일러스트
 
-![极简童话手绘儿童插画](../data/images/case452.jpg)
+![미니멀리즘 동화 손그림 어린이 일러스트](../data/images/case452.jpg)
 
-**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
+**출처:** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.
@@ -9318,13 +9320,13 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 
 <a name="case-453"></a>
 
-### 例 453：企业级商用画册视觉系统
+### 사례 453: 기업용 광고 브로셔 비주얼 시스템
 
-![企业级商用画册视觉系统](../data/images/case453.jpg)
+![기업용 광고 브로셔 비주얼 시스템](../data/images/case453.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 请生成一套企业级商用画册视觉方案，主题为【品牌名称】的【行业 / 产品 / 解决方案】宣传画册。
@@ -9365,13 +9367,13 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 
 <a name="case-454"></a>
 
-### 例 454：旅行美食薯片广告海报
+### 사례 454: 여행 음식 감자칩 광고 포스터
 
-![旅行美食薯片广告海报](../data/images/case454.jpg)
+![여행 음식 감자칩 광고 포스터](../data/images/case454.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
@@ -9411,13 +9413,13 @@ Composition rules:
 
 <a name="case-455"></a>
 
-### 例 455：巨型舒适洞洞鞋 Campaign
+### 사례 455: 편안한 대형 크록스 캠페인
 
-![巨型舒适洞洞鞋 Campaign](../data/images/case455.jpg)
+![편안한 대형 크록스 캠페인](../data/images/case455.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
@@ -9437,13 +9439,13 @@ Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper
 
 <a name="case-456"></a>
 
-### 例 456：历史事件 2x2 可视化地图
+### 사례 456: 역사적 사건 2×2 시각화 지도
 
-![历史事件 2x2 可视化地图](../data/images/case456.jpg)
+![역사적 사건 2×2 시각화 지도](../data/images/case456.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 2x2 grid, 16:9, do this for 4 famous historical events:
@@ -9462,13 +9464,13 @@ Render_Target =
 
 <a name="case-457"></a>
 
-### 例 457：运动轨迹舞者光绘海报
+### 사례 457: 스포츠 궤적 댄서 라이트 페인팅 포스터
 
-![运动轨迹舞者光绘海报](../data/images/case457.jpg)
+![스포츠 궤적 댄서 라이트 페인팅 포스터](../data/images/case457.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
+**출처:** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 <instructions>
@@ -9500,13 +9502,13 @@ function render_kinesphere ($ dancer, $ movement)
 
 <a name="case-458"></a>
 
-### 例 458：巴黎秋季时装插画
+### 사례 458: 파리 가을 패션 일러스트
 
-![巴黎秋季时装插画](../data/images/case458.jpg)
+![파리 가을 패션 일러스트](../data/images/case458.jpg)
 
-**来源：** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
+**출처:** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
@@ -9516,13 +9518,13 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 
 <a name="case-459"></a>
 
-### 例 459：品牌奶茶 KV 概念海报
+### 사례 459: 브랜드 밀크티 KV 콘셉트 포스터
 
-![品牌奶茶 KV 概念海报](../data/images/case459.jpg)
+![브랜드 밀크티 KV 콘셉트 포스터](../data/images/case459.jpg)
 
-**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
+**출처:** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [프롬프트 답글](https://x.com/liyue_ai/status/2057739894261518670)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。
@@ -9654,7 +9656,7 @@ KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV
 - 不需要像正式企业公告
 - 更像概念广告的主标语
 
-中文广告语建议：
+한국어 광고 문구 제안:
 4到12个字
 
 英文广告语建议：
@@ -9791,13 +9793,13 @@ KV类型：{产品英雄KV}
 
 <a name="case-460"></a>
 
-### 例 460：棋盘低角度奢华男装 Campaign
+### 사례 460: 바둑판 로우 앵글 고급 남성복 캠페인
 
-![棋盘低角度奢华男装 Campaign](../data/images/case460.jpg)
+![바둑판 로우 앵글 고급 남성복 캠페인](../data/images/case460.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
+**출처:** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.
@@ -9807,13 +9809,13 @@ Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle pe
 
 <a name="case-461"></a>
 
-### 例 461：家庭旅行纸雕拼贴
+### 사례 461: 가족 여행 종이 조형 콜라주
 
-![家庭旅行纸雕拼贴](../data/images/case461.jpg)
+![가족 여행 종이 조형 콜라주](../data/images/case461.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition
@@ -9823,13 +9825,13 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 <a name="case-462"></a>
 
-### 例 462：复古日系迷你橡皮商品包装
+### 사례 462: 레트로풍 일본 미니 고무 제품 포장
 
-![复古日系迷你橡皮商品包装](../data/images/case462.jpg)
+![레트로풍 일본 미니 고무 제품 포장](../data/images/case462.jpg)
 
-**来源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
+**출처:** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
@@ -9865,13 +9867,13 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 <a name="case-463"></a>
 
-### 例 463：黑色吊带袜单款图鉴展示
+### 사례 463: 블랙 가터 스타킹 싱글 스타일 일러스트
 
-![黑色吊带袜单款图鉴展示](../data/images/case463.jpg)
+![블랙 가터 스타킹 싱글 스타일 일러스트](../data/images/case463.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [프롬프트 답글](https://x.com/MrLarus/status/2058175145328394441)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 《黑色丝袜图鉴款式单图》提示词：
@@ -9887,7 +9889,7 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 【每张单图的共同结构】
 1. 顶部标题区
 - 英文系列标题：BLACK GARTER GUIDE
-- 中文主标题：黑色丝袜 / 吊带袜单款展示
+- 한국어 주제목: 검은 스타킹 / 가터스타킹 단일 스타일 전시
 - 当前款式名称：__________
 - 一句简短副标题：突出该款式的核心特点
 
@@ -9950,13 +9952,13 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 <a name="case-464"></a>
 
-### 例 464：高雄水彩拼贴旅行海报
+### 사례 464: 가오슝 수채화 콜라주 여행 포스터
 
-![高雄水彩拼贴旅行海报](../data/images/case464.jpg)
+![가오슝 수채화 콜라주 여행 포스터](../data/images/case464.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
+**출처:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette.
@@ -9965,10 +9967,10 @@ Scene: Waterfront promenade at sunset with a modern light rail tram on the right
 
 Design elements:
 - Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City'
-- Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below
+- Top right: Vertical Korean characters, 'KAOHSIUNG TAIWAN' in small caps below
 - Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon
 - Bottom center: Handwritten script 'Kaohsiung'
-- Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text
+- Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Korean text
 - Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige
 
 Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
@@ -9978,13 +9980,13 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 
 <a name="case-465"></a>
 
-### 例 465：逆光美背女性情绪写真
+### 사례 465: 역광을 받은 아름다운 뒷모습 여성 감성 사진
 
-![逆光美背女性情绪写真](../data/images/case465.jpg)
+![역광을 받은 아름다운 뒷모습 여성 감성 사진](../data/images/case465.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [프롬프트 답글](https://x.com/MrLarus/status/2058132915150639425)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 逆光美背女性情绪写真提示词：
@@ -10029,13 +10031,13 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 
 <a name="case-466"></a>
 
-### 例 466：鱼市追猫 CCD 街拍
+### 사례 466: 어시장 CCD 거리에서 고양이 쫓기 사진
 
-![鱼市追猫 CCD 街拍](../data/images/case466.jpg)
+![어시장 CCD 거리에서 고양이 쫓기 사진](../data/images/case466.jpg)
 
-**来源：** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
+**출처:** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use the uploaded reference image as the exact identity base for the main subject. Preserve their authentic facial structure, recognizable appearance, hairstyle, body proportions, skin texture, and overall identity with high consistency. Completely ignore any unrelated background from the original image.
@@ -10075,13 +10077,13 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-467"></a>
 
-### 例 467：泳装杂志九宫格广告页
+### 사례 467: 수영복 잡지 나인 그리드 광고 페이지
 
-![泳装杂志九宫格广告页](../data/images/case467.jpg)
+![수영복 잡지 나인 그리드 광고 페이지](../data/images/case467.jpg)
 
-**来源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
+**출처:** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
@@ -10091,13 +10093,13 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-468"></a>
 
-### 例 468：霓虹涂鸦展会自拍
+### 사례 468: 네온 그래피티 전시 셀카
 
-![霓虹涂鸦展会自拍](../data/images/case468.jpg)
+![네온 그래피티 전시 셀카](../data/images/case468.jpg)
 
-**来源：** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
+**출처:** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 生成一张写实感合照，9:16构图，真实手机摄影质感。
@@ -10119,13 +10121,13 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-469"></a>
 
-### 例 469：导览式科普绘本
+### 사례 469: 안내형 과학 그림책
 
-![导览式科普绘本](../data/images/case469.jpg)
+![안내형 과학 그림책](../data/images/case469.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [프롬프트 답글](https://x.com/MrLarus/status/2058773784664920233)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 《导览式科普绘本》提示词：
@@ -10157,7 +10159,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 导览 IP 可以在画面中出现 2-3 次，但不要过度抢主视觉。角色应圆润、可爱、有表情、有动作，适合儿童科普绘本。
 
 【信息结构】
-画面中请设置 3-6 个“知识站点”，每个站点用简短中文标签和短说明表达。站点命名可以采用：
+画面中请设置 3-6 个“知识站点”，각 지점은 짧은 한국어 레이블과 간단한 설명으로 표현합니다.站点命名可以采用：
 - 第1站｜xxx
 - 第2站｜xxx
 - 重点观察｜xxx
@@ -10192,7 +10194,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 - 场景真实可信，但表达方式亲和
 
 【文字与标注】
-文字以中文为主，使用短标题、短标签、简短说明。不要生成大段复杂文字。信息框应像儿童科普书中的导览牌、知识卡片或小贴士。文字要尽量清晰、简洁、可读。
+텍스트는 한국어를 중심으로 사용하고 짧은 제목, 짧은 레이블, 간단한 설명을 사용합니다. 길고 복잡한 문단은 만들지 마세요. 정보 상자는 어린이 과학책의 안내판, 지식 카드 또는 팁처럼 구성하고 텍스트는 최대한 명확하고 간결하며 읽기 쉽게 만듭니다.
 
 【最终目标】
 让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
@@ -10202,13 +10204,13 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-470"></a>
 
-### 例 470：本地生活小店异形展架
+### 사례 470: 동네 생활용품 작은 가게의 독특한 모양 디스플레이 스탠드
 
-![本地生活小店异形展架](../data/images/case470.jpg)
+![동네 생활용품 작은 가게의 독특한 모양 디스플레이 스탠드](../data/images/case470.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
+**출처:** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [프롬프트 답글](https://x.com/MrLarus/status/2058431837534343283)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 《餐饮异形展架/立牌物料》提示词：
@@ -10344,13 +10346,13 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-471"></a>
 
-### 例 471：花簪和服动漫肖像
+### 사례 471: 꽃 머리핀 기모노 애니메이션 인물 사진
 
-![花簪和服动漫肖像](../data/images/case471.jpg)
+![꽃 머리핀 기모노 애니메이션 인물 사진](../data/images/case471.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+**출처:** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
@@ -10360,13 +10362,13 @@ Ultra-detailed anime-style portrait of a young girl with large expressive eyes, 
 
 <a name="case-472"></a>
 
-### 例 472：上海地铁站台晨光
+### 사례 472: 상하이 지하철역의 아침 햇살
 
-![上海地铁站台晨光](../data/images/case472.jpg)
+![상하이 지하철역의 아침 햇살](../data/images/case472.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
+**출처:** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
@@ -10379,13 +10381,13 @@ Cool overhead fluorescent lighting with a slight greenish cast, flat frontal ill
 
 <a name="case-473"></a>
 
-### 例 473：ROGUE VIPER 游戏概念设定板
+### 사례 473: 로그 바이퍼 게임 콘셉트 아트보드
 
-![ROGUE VIPER 游戏概念设定板](../data/images/case473.jpg)
+![로그 바이퍼 게임 콘셉트 아트보드](../data/images/case473.jpg)
 
-**来源：** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
+**출처:** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 **ROGUE VIPER — VIDEO GAME CONCEPT ART SHEET PROMPT**
@@ -10436,13 +10438,13 @@ Photorealistic only throughout the entire sheet. No anime, no cartoon, no styliz
 
 <a name="case-474"></a>
 
-### 例 474：四城极简旅行海报系列
+### 사례 474: 네 도시 미니멀리스트 여행 포스터 시리즈
 
-![四城极简旅行海报系列](../data/images/case474.jpg)
+![네 도시 미니멀리스트 여행 포스터 시리즈](../data/images/case474.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
@@ -10452,13 +10454,13 @@ Minimalist flat travel poster illustration series of iconic destinations around 
 
 <a name="case-475"></a>
 
-### 例 475：企鹅造型包装结构板
+### 사례 475: 펭귄 모양 포장 구조 보드
 
-![企鹅造型包装结构板](../data/images/case475.jpg)
+![펭귄 모양 포장 구조 보드](../data/images/case475.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
@@ -10468,13 +10470,13 @@ Using the attached image, create an illustration sheet of professional industria
 
 <a name="case-476"></a>
 
-### 例 476：早安拿铁微缩女孩
+### 사례 476: 굿모닝 라떼 미니어처 소녀
 
-![早安拿铁微缩女孩](../data/images/case476.jpg)
+![굿모닝 라떼 미니어처 소녀](../data/images/case476.jpg)
 
-**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
+**출처:** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
@@ -10484,13 +10486,13 @@ Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, w
 
 <a name="case-477"></a>
 
-### 例 477：Instagram 餐桌俯拍创意
+### 사례 477: 식탁 위에서 촬영한 인스타그램 크리에이티브 사진
 
-![Instagram 餐桌俯拍创意](../data/images/case477.jpg)
+![식탁 위에서 촬영한 인스타그램 크리에이티브 사진](../data/images/case477.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Top-down ultra-wide hyper-realistic shot of 4 real people seated at a square dining table. Pull the camera way back so a wide ring of empty floor surrounds the whole scene, giving a clean minimal composition. Scene [ATMOSPHERE + WARDROBE]: the four are styled in [OUTFIT STYLE]. Each one is doing something specific: [DESCRIBE EACH PERSON'S ACTION].
@@ -10507,13 +10509,13 @@ The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, d
 
 <a name="case-478"></a>
 
-### 例 478：夹层式品牌编辑海报
+### 사례 478: 레이어드 브랜드 편집 포스터
 
-![夹层式品牌编辑海报](../data/images/case478.jpg)
+![레이어드 브랜드 편집 포스터](../data/images/case478.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 [BRAND NAME]. You are a world-class editorial designer.
@@ -10545,13 +10547,13 @@ STEP 5, MINIMALIST BRANDING:
 
 <a name="case-479"></a>
 
-### 例 479：杂志纸艺拼贴重绘
+### 사례 479: 잡지 종이 아트 콜라주 리드로잉
 
-![杂志纸艺拼贴重绘](../data/images/case479.jpg)
+![잡지 종이 아트 콜라주 리드로잉](../data/images/case479.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
+**출처:** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.
@@ -10561,13 +10563,13 @@ Transform the uploaded image into a minimalist illustration in a magazine collag
 
 <a name="case-480"></a>
 
-### 例 480：粉丝速写本角色页
+### 사례 480: 팬 스케치북 캐릭터 페이지
 
-![粉丝速写本角色页](../data/images/case480.jpg)
+![팬 스케치북 캐릭터 페이지](../data/images/case480.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.
@@ -10578,13 +10580,13 @@ White background. No grid, no order. Pure chaos energy. With (any color) aesthet
 
 <a name="case-481"></a>
 
-### 例 481：韩系春日 scrapbook 海报
+### 사례 481: 한국 봄 스크랩북 포스터
 
-![韩系春日 scrapbook 海报](../data/images/case481.jpg)
+![한국 봄 스크랩북 포스터](../data/images/case481.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
@@ -10594,13 +10596,13 @@ Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft b
 
 <a name="case-482"></a>
 
-### 例 482：自我凝视超现实 Campaign
+### 사례 482: 자아 성찰 초현실주의 캠페인
 
-![自我凝视超现实 Campaign](../data/images/case482.jpg)
+![자아 성찰 초현실주의 캠페인](../data/images/case482.jpg)
 
-**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
+**출처:** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.
@@ -10626,13 +10628,13 @@ Mood: introspective, mental weight, identity, self-awareness.
 
 <a name="case-483"></a>
 
-### 例 483：都市飞鸟街头肖像
+### 사례 483: 도시 새 거리 초상화
 
-![都市飞鸟街头肖像](../data/images/case483.jpg)
+![도시 새 거리 초상화](../data/images/case483.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
+**출처:** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
@@ -10642,13 +10644,13 @@ A stylish cinematic portrait of a confident young woman leaning casually against
 
 <a name="case-484"></a>
 
-### 例 484：霓虹涂鸦黑白人像
+### 사례 484: 네온 그래피티 흑백 인물 사진
 
-![霓虹涂鸦黑白人像](../data/images/case484.jpg)
+![네온 그래피티 흑백 인물 사진](../data/images/case484.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
+**출처:** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
@@ -10658,13 +10660,13 @@ High-contrast black-and-white urban portrait of a curly-haired bearded man in a 
 
 <a name="case-485"></a>
 
-### 例 485：时尚目录电商拼贴
+### 사례 485: 패션 카탈로그 전자상거래 콜라주
 
-![时尚目录电商拼贴](../data/images/case485.jpg)
+![패션 카탈로그 전자상거래 콜라주](../data/images/case485.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
+**출처:** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
@@ -10674,13 +10676,13 @@ Stylish fashion catalog shoot blending streetwear and luxury branding. Female mo
 
 <a name="case-486"></a>
 
-### 例 486：RCB 冠军混合媒介海报
+### 사례 486: RCB 챔피언 혼합 미디어 포스터
 
-![RCB 冠军混合媒介海报](../data/images/case486.jpg)
+![RCB 챔피언 혼합 미디어 포스터](../data/images/case486.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
+**출처:** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.
@@ -10704,13 +10706,13 @@ Premium championship poster design, trending Behance artwork, sports magazine co
 
 <a name="case-487"></a>
 
-### 例 487：法式药妆商业分镜封面
+### 사례 487: 프랑스 약국 광고 스토리보드 표지
 
-![法式药妆商业分镜封面](../data/images/case487.jpg)
+![프랑스 약국 광고 스토리보드 표지](../data/images/case487.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
+**출처:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real.
@@ -10740,13 +10742,13 @@ Soft elegant premium skincare music throughout: gentle piano, airy ambient pads,
 
 <a name="case-488"></a>
 
-### 例 488：屋顶球场日落人像
+### 사례 488: 옥상 경기장 일몰 인물 사진
 
-![屋顶球场日落人像](../data/images/case488.jpg)
+![옥상 경기장 일몰 인물 사진](../data/images/case488.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
+**출처:** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
@@ -10756,13 +10758,13 @@ Ultra-realistic, high-quality portrait of a stylish young South Asian woman stan
 
 <a name="case-489"></a>
 
-### 例 489：城市地图微缩旅行海报
+### 사례 489: 도시 지도 미니어처 여행 포스터
 
-![城市地图微缩旅行海报](../data/images/case489.jpg)
+![도시 지도 미니어처 여행 포스터](../data/images/case489.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
+**출처:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
@@ -10778,13 +10780,13 @@ Aspect ratio 1:1.
 
 <a name="case-490"></a>
 
-### 例 490：双重曝光时尚肖像
+### 사례 490: 이중 노출 패션 인물 사진
 
-![双重曝光时尚肖像](../data/images/case490.jpg)
+![이중 노출 패션 인물 사진](../data/images/case490.jpg)
 
-**来源：** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
+**출처:** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
@@ -10798,13 +10800,13 @@ Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazi
 
 <a name="case-491"></a>
 
-### 例 491：Y2K 高楼浴室镜面自拍
+### 사례 491: Y2K 고층 건물 화장실 거울 셀카
 
-![Y2K 高楼浴室镜面自拍](../data/images/case491.jpg)
+![Y2K 고층 건물 화장실 거울 셀카](../data/images/case491.jpg)
 
-**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
+**출처:** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.
@@ -10820,13 +10822,13 @@ Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, s
 
 <a name="case-492"></a>
 
-### 例 492：黑色高定酒店套房写真
+### 사례 492: 블랙 오뜨 꾸뛰르 호텔 스위트룸 사진첩
 
-![黑色高定酒店套房写真](../data/images/case492.jpg)
+![블랙 오뜨 꾸뛰르 호텔 스위트룸 사진첩](../data/images/case492.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
+**출처:** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials.
@@ -10872,13 +10874,13 @@ Vertical 9:16.
 
 <a name="case-493"></a>
 
-### 例 493：东京旅行 13 格视频封面
+### 사례 493: 도쿄 여행 13컷 영상 표지
 
-![东京旅行 13 格视频封面](../data/images/case493.jpg)
+![도쿄 여행 13컷 영상 표지](../data/images/case493.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
+**출처:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Generate image of young female travel vlogger exploring Tokyo across multiple candid moments, extremely beautiful with long dark wavy hair, wearing stylish Japanese-inspired oversized streetwear, expressive and spontaneous personality, captured across a 13-frame grid collage (Row 1: 4 frames | Row 2: 5 frames | Row 3: 4 frames), each frame feels like a real casual phone capture with imperfect framing and natural inconsistencies.
@@ -10906,13 +10908,13 @@ Young female travel vlogger exploring Tokyo across 13 candid moments in a grid c
 
 <a name="case-494"></a>
 
-### 例 494：电动巴士工程信息图
+### 사례 494: 전기 버스 엔지니어링 정보 다이어그램
 
-![电动巴士工程信息图](../data/images/case494.jpg)
+![전기 버스 엔지니어링 정보 다이어그램](../data/images/case494.jpg)
 
-**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+**출처:** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
@@ -11022,13 +11024,13 @@ The final result should resemble a professionally published transportation-engin
 
 <a name="case-495"></a>
 
-### 例 495：巴黎街头故事书插画
+### 사례 495: 파리 거리 동화책 일러스트
 
-![巴黎街头故事书插画](../data/images/case495.jpg)
+![파리 거리 동화책 일러스트](../data/images/case495.jpg)
 
-**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+**출처:** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
@@ -11038,13 +11040,13 @@ Portrait illustration in a storybook style featuring a young adult woman explori
 
 <a name="case-496"></a>
 
-### 例 496：水雕品牌 Logo 六宫格
+### 사례 496: 수경 브랜드 로고 6분할 그리드
 
-![水雕品牌 Logo 六宫格](../data/images/case496.jpg)
+![수경 브랜드 로고 6분할 그리드](../data/images/case496.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
+**출처:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
@@ -11054,13 +11056,13 @@ Create a premium 3x2 grid collage of iconic global brand logos recreated entirel
 
 <a name="case-497"></a>
 
-### 例 497：单色水彩城市旅行海报
+### 사례 497: 흑백 수채화 도시 여행 포스터
 
-![单色水彩城市旅行海报](../data/images/case497.jpg)
+![흑백 수채화 도시 여행 포스터](../data/images/case497.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
+**출처:** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
@@ -11078,13 +11080,13 @@ Handcrafted watercolor illustration, architectural sketch aesthetic, serene urba
 
 <a name="case-498"></a>
 
-### 例 498：铅笔画背景 3D 分身
+### 사례 498: 연필 스케치 패션 에디터 일러스트
 
-![铅笔画背景 3D 分身](../data/images/case498.jpg)
+![연필 스케치 패션 에디터 일러스트](../data/images/case498.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+**출처:** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a handrawn pencil illustration of [image] yawning on paper, as background.
@@ -11096,13 +11098,13 @@ Add a 3D Pixar style render of [foto] standing casually infront of the giant han
 
 <a name="case-499"></a>
 
-### 例 499：极简精品店全身时尚写真
+### 사례 499: 미니멀리즘 부티크 전신 패션 화보 촬영
 
-![极简精品店全身时尚写真](../data/images/case499.jpg)
+![미니멀리즘 부티크 전신 패션 화보 촬영](../data/images/case499.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
+**출처:** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
@@ -11112,13 +11114,13 @@ A full-body editorial fashion photograph of a beautiful young woman with the sam
 
 <a name="case-500"></a>
 
-### 例 500：梦幻花冠仙境肖像
+### 사례 500: 몽환적인 꽃관 원더랜드 초상화
 
-![梦幻花冠仙境肖像](../data/images/case500.jpg)
+![몽환적인 꽃관 원더랜드 초상화](../data/images/case500.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
+**출처:** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
@@ -11130,13 +11132,13 @@ The scene is bathed in soft diffused morning light, creating a luminous glow aro
 
 <a name="case-501"></a>
 
-### 例 501：夏日牵手回眸电影肖像
+### 사례 501: 여름날 손을 잡고 뒤돌아보는 영화 속 인물 사진
 
-![夏日牵手回眸电影肖像](../data/images/case501.jpg)
+![여름날 손을 잡고 뒤돌아보는 영화 속 인물 사진](../data/images/case501.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
@@ -11160,13 +11162,13 @@ Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expres
 
 <a name="case-502"></a>
 
-### 例 502：黑桃国王递归扑克牌
+### 사례 502: 스페이드 킹 재귀적 트럼프 카드
 
-![黑桃国王递归扑克牌](../data/images/case502.jpg)
+![스페이드 킹 재귀적 트럼프 카드](../data/images/case502.jpg)
 
-**来源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
+**출처:** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.
@@ -11219,13 +11221,13 @@ The final image should feel like the cover of a legendary fantasy card game wher
 
 <a name="case-503"></a>
 
-### 例 503：霓虹设计师 3D 海报
+### 사례 503: 네온 디자이너 3D 포스터
 
-![霓虹设计师 3D 海报](../data/images/case503.jpg)
+![네온 디자이너 3D 포스터](../data/images/case503.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
+**출처:** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
@@ -11239,13 +11241,13 @@ Include a collectible chibi mini-figure version of the character standing beside
 
 <a name="case-504"></a>
 
-### 例 504：粗糙涂鸦人像改图
+### 사례 504: 거친 그래피티 초상화 재해석
 
-![粗糙涂鸦人像改图](../data/images/case504.jpg)
+![거친 그래피티 초상화 재해석](../data/images/case504.jpg)
 
-**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
+**출처:** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
@@ -11257,13 +11259,13 @@ Create exaggerated facial features with awkward proportions, uneven eyes, oversi
 
 <a name="case-505"></a>
 
-### 例 505：夜间手机光沙发肖像
+### 사례 505: 야간 휴대폰 라이트 소파 인물 사진
 
-![夜间手机光沙发肖像](../data/images/case505.jpg)
+![야간 휴대폰 라이트 소파 인물 사진](../data/images/case505.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.
@@ -11275,13 +11277,13 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 <a name="case-506"></a>
 
-### 例 506：可爱发卡图文人像海报
+### 사례 506: 귀여운 헤어 클립 그래픽 초상화 포스터
 
-![可爱发卡图文人像海报](../data/images/case506.jpg)
+![귀여운 헤어 클립 그래픽 초상화 포스터](../data/images/case506.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
+**출처:** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 围绕具体主题内容生成一张明亮清爽的图文合成视觉：画面以大面积高明度纯净色场承托主体，背景平整、通风、没有复杂景深，视觉重心由下方被大胆裁切的人像或真实主体建立，只露出最有记忆点的局部，使主体像从画面边缘进入。主体上方叠放一个极简图形符号或拟物角色，它要像轻轻坐在主体头顶或贴合轮廓生长出来，形体圆润、边缘干净、表情或结构由少量粗线完成，兼具标识感和亲近感。文字是画面的主动角色：顶部使用大号手写感标题，字距松、笔画柔软，像一句轻声招呼；中心用更强的竖向或轴向标题建立层级；边缘安放少量小字号信息，保持安静但精确，让空白继续占主导。色彩从主题自身的材质、情绪、地域或品牌语义中提取，映射为明亮底色、洁净主体亮面、清晰深色结构线与少量强调信息色，保留大面积轻快底场、小面积高对比文字线条、自然主体暗部的关系；整体保持高明度、清透、干净、饱和度清晰而不过度刺激，暗色只用于结构和阅读，不制造脏灰、烟雾或陈旧质感。摄影局部与扁平图形之间要形成真实与童趣的反差，边缘叠压准确，阴影极少，完成感像城市公共宣传与角色插画结合的轻松视觉系统。
@@ -11295,13 +11297,13 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 <a name="case-507"></a>
 
-### 例 507：暖调钩织角色玩偶
+### 사례 507: 따뜻한 색감의 손뜨개 캐릭터 인형
 
-![暖调钩织角色玩偶](../data/images/case507.jpg)
+![따뜻한 색감의 손뜨개 캐릭터 인형](../data/images/case507.jpg)
 
-**来源：** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
+**출처:** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
@@ -11311,13 +11313,13 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 <a name="case-508"></a>
 
-### 例 508：木漏日庭院俯拍猫咪人像
+### 사례 508: 나무 누수 정원 위에서 본 고양이 초상화
 
-![木漏日庭院俯拍猫咪人像](../data/images/case508.jpg)
+![나무 누수 정원 위에서 본 고양이 초상화](../data/images/case508.jpg)
 
-**来源：** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
+**출처:** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
@@ -11327,13 +11329,13 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 <a name="case-509"></a>
 
-### 例 509：涂鸦拉衣奔跑棚拍
+### 사례 509: 그래피티가 옷을 잡아당기며 달리는 스튜디오 촬영
 
-![涂鸦拉衣奔跑棚拍](../data/images/case509.jpg)
+![그래피티가 옷을 잡아당기며 달리는 스튜디오 촬영](../data/images/case509.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
@@ -11343,13 +11345,13 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 
 <a name="case-510"></a>
 
-### 例 510：Bichon Shop 拟物 App 图标
+### 사례 510: 비숑 샵 스큐어모픽 앱 아이콘
 
-![Bichon Shop 拟物 App 图标](../data/images/case510.jpg)
+![비숑 샵 스큐어모픽 앱 아이콘](../data/images/case510.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
+**출처:** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
@@ -11359,13 +11361,13 @@ A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smo
 
 <a name="case-511"></a>
 
-### 例 511：城市名地标排版旅行海报
+### 사례 511: 도시 유명 랜드마크 배치 여행 포스터
 
-![城市名地标排版旅行海报](../data/images/case511.jpg)
+![도시 유명 랜드마크 배치 여행 포스터](../data/images/case511.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
+**출처:** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.
@@ -11379,13 +11381,13 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 <a name="case-512"></a>
 
-### 例 512：Brutalist Freestyle 角色设定表
+### 사례 512: 브루탈리즘 프리스타일 캐릭터 설정 테이블
 
-![Brutalist Freestyle 角色设定表](../data/images/case512.jpg)
+![브루탈리즘 프리스타일 캐릭터 설정 테이블](../data/images/case512.jpg)
 
-**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
+**출처:** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.
@@ -11401,13 +11403,13 @@ Professional production sheet layout.  Extremely clean linework.  Cinematic conc
 
 <a name="case-513"></a>
 
-### 例 513：单色点缀旅行手账插画
+### 사례 513: 흑백 장식 여행 일지 일러스트
 
-![单色点缀旅行手账插画](../data/images/case513.jpg)
+![흑백 장식 여행 일지 일러스트](../data/images/case513.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
@@ -11417,13 +11419,13 @@ Create a charming editorial travel illustration of {DESTINATION} in a simple han
 
 <a name="case-514"></a>
 
-### 例 514：硬边现代艺术人像
+### 사례 514: 날카로운 현대 미술 초상화
 
-![硬边现代艺术人像](../data/images/case514.jpg)
+![날카로운 현대 미술 초상화](../data/images/case514.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
+**출처:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
@@ -11434,13 +11436,13 @@ dutch angle, stray cat tail --ar 9:16
 
 <a name="case-515"></a>
 
-### 例 515：Guadalajara 复古电影旅行海报
+### 사례 515: 과달라하라 레트로 영화 여행 포스터
 
-![Guadalajara 复古电影旅行海报](../data/images/case515.jpg)
+![과달라하라 레트로 영화 여행 포스터](../data/images/case515.jpg)
 
-**来源：** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
+**출처:** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 @Crea una imagen {
@@ -11455,13 +11457,13 @@ dutch angle, stray cat tail --ar 9:16
 
 <a name="case-516"></a>
 
-### 例 516：工业橡胶管品牌造型渲染
+### 사례 516: 산업용 고무 호스 브랜드 스타일링 렌더링
 
-![工业橡胶管品牌造型渲染](../data/images/case516.jpg)
+![산업용 고무 호스 브랜드 스타일링 렌더링](../data/images/case516.jpg)
 
-**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
+**출처:** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
@@ -11471,13 +11473,13 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 <a name="case-517"></a>
 
-### 例 517：杯内鱼眼夏日冰饮广告
+### 사례 517: 컵 속 물고기 눈 여름 아이스 음료 광고
 
-![杯内鱼眼夏日冰饮广告](../data/images/case517.jpg)
+![컵 속 물고기 눈 여름 아이스 음료 광고](../data/images/case517.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
+**출처:** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 主題：
@@ -11509,13 +11511,13 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 <a name="case-518"></a>
 
-### 例 518：花田风动夏日人像
+### 사례 518: 꽃밭 속 여름 인물 사진
 
-![花田风动夏日人像](../data/images/case518.jpg)
+![꽃밭 속 여름 인물 사진](../data/images/case518.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
+**출처:** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 主題：
@@ -11547,13 +11549,13 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 <a name="case-519"></a>
 
-### 例 519：薄荷玫瑰香水电商图
+### 사례 519: 민트 로즈 향수 온라인 판매 이미지
 
-![薄荷玫瑰香水电商图](../data/images/case519.jpg)
+![민트 로즈 향수 온라인 판매 이미지](../data/images/case519.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
+**출처:** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
@@ -11563,13 +11565,13 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 <a name="case-520"></a>
 
-### 例 520：月面宇航员 T 恤图形
+### 사례 520: 달 우주 비행사 티셔츠 그래픽
 
-![月面宇航员 T 恤图形](../data/images/case520.jpg)
+![달 우주 비행사 티셔츠 그래픽](../data/images/case520.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
+**출처:** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
@@ -11579,13 +11581,13 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 <a name="case-521"></a>
 
-### 例 521：青花敦煌刺绣四拼风格海报
+### 사례 521: 청백색 둔황 자수 4종 세트 포스터
 
-![青花敦煌刺绣四拼风格海报](../data/images/case521.jpg)
+![청백색 둔황 자수 4종 세트 포스터](../data/images/case521.jpg)
 
-**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
+**출처:** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
@@ -11605,13 +11607,13 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 <a name="case-522"></a>
 
-### 例 522：儿童故事书手绘头像
+### 사례 522: 어린이 동화책 손그림 초상
 
-![儿童故事书手绘头像](../data/images/case522.jpg)
+![어린이 동화책 손그림 초상](../data/images/case522.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
@@ -11649,13 +11651,13 @@ Final feeling: the same person lovingly redrawn as an extremely cute, warm, whol
 
 <a name="case-523"></a>
 
-### 例 523：曼哈顿公园水彩旅行插画
+### 사례 523: 맨해튼 공원 수채화 여행 일러스트
 
-![曼哈顿公园水彩旅行插画](../data/images/case523.jpg)
+![맨해튼 공원 수채화 여행 일러스트](../data/images/case523.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
@@ -11665,13 +11667,13 @@ Create a vertical editorial travel illustration inspired by vintage European tra
 
 <a name="case-524"></a>
 
-### 例 524：纸雕拼贴乡野人像
+### 사례 524: 종이 조각 콜라주 시골 풍경
 
-![纸雕拼贴乡野人像](../data/images/case524.jpg)
+![종이 조각 콜라주 시골 풍경](../data/images/case524.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
+**출처:** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
@@ -11761,13 +11763,13 @@ Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resol
 
 <a name="case-525"></a>
 
-### 例 525：酒红棚拍男士时尚肖像
+### 사례 525: 버건디 스튜디오 남성 패션 초상화
 
-![酒红棚拍男士时尚肖像](../data/images/case525.jpg)
+![버건디 스튜디오 남성 패션 초상화](../data/images/case525.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
+**출처:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.
@@ -11781,13 +11783,13 @@ Extremely detailed natural skin texture, individual beard hairs, realistic pores
 
 <a name="case-526"></a>
 
-### 例 526：体积激光黑场海报
+### 사례 526: 입체 레이저 블랙 스크린 포스터
 
-![体积激光黑场海报](../data/images/case526.jpg)
+![입체 레이저 블랙 스크린 포스터](../data/images/case526.jpg)
 
-**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
+**출처:** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
@@ -11797,13 +11799,13 @@ Extremely detailed natural skin texture, individual beard hairs, realistic pores
 
 <a name="case-527"></a>
 
-### 例 527：Rio 旅行票据纸雕立体海报
+### 사례 527: 리오 여행 티켓 종이 조각 3D 포스터
 
-![Rio 旅行票据纸雕立体海报](../data/images/case527.jpg)
+![리오 여행 티켓 종이 조각 3D 포스터](../data/images/case527.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
+**출처:** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
@@ -11823,13 +11825,13 @@ The final image should feel like a premium collectible Rio de Janeiro travel pos
 
 <a name="case-528"></a>
 
-### 例 528：圣诞街景 Chibi 真实背景人像
+### 사례 528: 크리스마스 거리 풍경 치비 실사 배경 인물 사진
 
-![圣诞街景 Chibi 真实背景人像](../data/images/case528.jpg)
+![크리스마스 거리 풍경 치비 실사 배경 인물 사진](../data/images/case528.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use the uploaded image as the primary reference. Transform the person into a cute, hand-drawn anime/chibi character while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.
@@ -11845,13 +11847,13 @@ Cinematic composition, natural perspective, soft evening lighting, warm Christma
 
 <a name="case-529"></a>
 
-### 例 529：云朵气球山脊旅行人像
+### 사례 529: 구름 풍선 산등성이 여행 인물 사진
 
-![云朵气球山脊旅行人像](../data/images/case529.jpg)
+![구름 풍선 산등성이 여행 인물 사진](../data/images/case529.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
+**출처:** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a dreamy ultra-photorealistic outdoor fashion photograph based on the person in @image1.
@@ -11912,13 +11914,13 @@ Preserve the exact identity from @image1. Do not change the person's recognizabl
 
 <a name="case-530"></a>
 
-### 例 530：实拍背景涂鸦人物替换
+### 사례 530: 실사 배경 그래피티 문자 교체
 
-![实拍背景涂鸦人物替换](../data/images/case530.jpg)
+![실사 배경 그래피티 문자 교체](../data/images/case530.jpg)
 
-**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
+**출처:** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.
@@ -11991,13 +11993,13 @@ Avoid full-image illustration, background doodling, realistic anatomy, anime, ma
 
 <a name="case-531"></a>
 
-### 例 531：水晶框国家旅行广告海报
+### 사례 531: 크리스탈 액자 국가 여행 광고 포스터
 
-![水晶框国家旅行广告海报](../data/images/case531.jpg)
+![크리스탈 액자 국가 여행 광고 포스터](../data/images/case531.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
+**출처:** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
@@ -12007,13 +12009,13 @@ Create a luxurious, dreamy country travel-art collection in the exact visual lan
 
 <a name="case-532"></a>
 
-### 例 532：六宫格柠檬饮料微缩广告
+### 사례 532: 6각형 레몬 음료 미니어처 광고
 
-![六宫格柠檬饮料微缩广告](../data/images/case532.jpg)
+![6각형 레몬 음료 미니어처 광고](../data/images/case532.jpg)
 
-**来源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
+**출처:** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a Cannes-level premium summer beverage campaign poster for a fictional lemon drink brand called "LIMORA", using a strict 2-column by 3-row grid layout with six perfectly aligned panels. Preserve the exact structural logic of the composition: each panel shows the same tiny ultra-realistic young woman on a bright sandy beach interacting with oversized lemons, lemon slices, lemon juice, or the final branded drink, while selected panels include a giant realistic human hand entering from above. The full poster must feel like one unified high-end advertising storyboard in motion, where the eye flows continuously from fresh citrus fruit to crafted beverage desire. The lemon product world must remain the absolute visual hero across all six panels.
@@ -12061,20 +12063,20 @@ Art direction:
 Hyper-real premium surreal advertising photography, luxury FMCG campaign, storyboard energy, elegant humor, cinematic micro-world illusion, high-end beverage styling, global summer launch poster, polished magazine-grade finish, sharp product realism, strong narrative rhythm, premium brand coherence.
 
 Negative prompt:
-copied text, Chinese text, existing brand names, cartoon style, toy-like figure, grotesque oversized head, deformed anatomy, extra fingers, missing fingers, fused fingers, twisted wrists, broken limbs, distorted feet, AI plastic skin, over-smoothed skin, fake citrus texture, unrealistic juice physics, muddy lemon pulp, cloudy glass, weak product focus, inconsistent lighting, inconsistent horizon, messy grid, cluttered props, meme aesthetic, cheap humor, childish illustration, low-resolution detail, oversaturated colors, dead black patches, distorted giant hand perspective
+copied text, unwanted text, existing brand names, cartoon style, toy-like figure, grotesque oversized head, deformed anatomy, extra fingers, missing fingers, fused fingers, twisted wrists, broken limbs, distorted feet, AI plastic skin, over-smoothed skin, fake citrus texture, unrealistic juice physics, muddy lemon pulp, cloudy glass, weak product focus, inconsistent lighting, inconsistent horizon, messy grid, cluttered props, meme aesthetic, cheap humor, childish illustration, low-resolution detail, oversaturated colors, dead black patches, distorted giant hand perspective
 ```
 
 ***
 
 <a name="case-533"></a>
 
-### 例 533：手绘涂鸦时尚人物插画
+### 사례 533: 손으로 그린 그래피티 패션 캐릭터 일러스트
 
-![手绘涂鸦时尚人物插画](../data/images/case533.jpg)
+![손으로 그린 그래피티 패션 캐릭터 일러스트](../data/images/case533.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
@@ -12109,13 +12111,13 @@ Preserve the important details of the reference image while converting everythin
 
 <a name="case-534"></a>
 
-### 例 534：红光干扰实验编辑人像海报
+### 사례 534: 적색광 간섭 실험 편집 인물 포스터
 
-![红光干扰实验编辑人像海报](../data/images/case534.jpg)
+![적색광 간섭 실험 편집 인물 포스터](../data/images/case534.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
+**출처:** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a medium-sized 9:16 experimental editorial portrait poster using the following customizable inputs:
@@ -12157,13 +12159,13 @@ Keep the overall treatment medium in scale, refined, adaptable, and universally 
 
 <a name="case-535"></a>
 
-### 例 535：同一人脸十二款发型 Lookbook
+### 사례 535: 같은 얼굴을 위한 12가지 헤어스타일 룩북
 
-![同一人脸十二款发型 Lookbook](../data/images/case535.jpg)
+![같은 얼굴을 위한 12가지 헤어스타일 룩북](../data/images/case535.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
+**출처:** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a 12-panel grid (3 columns × 4 rows, numbered 1 to 12) showing the SAME person from the reference photo with 12 different hairstyles. This is a hairstyle lookbook. Final image aspect ratio: 4:5 (vertical/portrait).
@@ -12201,13 +12203,13 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 <a name="case-536"></a>
 
-### 例 536：春日樱花回眸电影人像
+### 사례 536: 봄 벚꽃 아래 뒤돌아보는 영화풍 인물 사진
 
-![春日樱花回眸电影人像](../data/images/case536.jpg)
+![봄 벚꽃 아래 뒤돌아보는 영화풍 인물 사진](../data/images/case536.jpg)
 
-**来源：** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
+**출처:** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 {
@@ -12233,13 +12235,13 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 <a name="case-537"></a>
 
-### 例 537：地下档案馆暗黑概念海报
+### 사례 537: 지하 기록 보관소 다크 콘셉트 포스터
 
-![地下档案馆暗黑概念海报](../data/images/case537.jpg)
+![지하 기록 보관소 다크 콘셉트 포스터](../data/images/case537.jpg)
 
-**来源：** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
+**출처:** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Use case: stylized-concept
@@ -12260,13 +12262,13 @@ Avoid: visible letters or runes, portrait close-up, split face, black substance 
 
 <a name="case-538"></a>
 
-### 例 538：橡皮章旅行田野笔记海报
+### 사례 538: 고무 도장 여행 현장 노트 포스터
 
-![橡皮章旅行田野笔记海报](../data/images/case538.jpg)
+![고무 도장 여행 현장 노트 포스터](../data/images/case538.jpg)
 
-**来源：** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
+**출처:** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Rubber Stamp Travel Field Notes Poster — Natural Realism Version
@@ -12410,13 +12412,13 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 <a name="case-539"></a>
 
-### 例 539：粗粝手绘搭档肖像海报
+### 사례 539: 거친 손으로 그린 파트너 초상화 포스터
 
-![粗粝手绘搭档肖像海报](../data/images/case539.jpg)
+![거친 손으로 그린 파트너 초상화 포스터](../data/images/case539.jpg)
 
-**来源：** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
+**출처:** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, accompanied closely by [ANIMAL], with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5
@@ -12426,13 +12428,13 @@ Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and
 
 <a name="case-540"></a>
 
-### 例 540：梦幻未来城市编辑艺术海报
+### 사례 540: 몽환적인 미래 도시 편집 아트 포스터
 
-![梦幻未来城市编辑艺术海报](../data/images/case540.jpg)
+![몽환적인 미래 도시 편집 아트 포스터](../data/images/case540.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a visually unforgettable editorial art poster of a dreamlike futuristic world where familiar everyday life meets surreal architecture. Grand sculptural buildings, winding roads, oversized plants, tiny people, unexpected floating elements, dramatic perspective, cinematic atmosphere, and one iconic focal point. Blend vintage travel-poster design with modern luxury editorial aesthetics, sophisticated muted colors, soft natural light, subtle film grain, tactile paper texture, clean geometric shapes, minimal composition, nostalgic yet futuristic, whimsical but premium, highly detailed, instantly recognizable silhouette, Pinterest-worthy, Instagram-viral aesthetic, collectible art print, no clutter, no photorealism, vertical 4:5.
@@ -12442,13 +12444,13 @@ Create a visually unforgettable editorial art poster of a dreamlike futuristic w
 
 <a name="case-541"></a>
 
-### 例 541：50/50 混合媒介回忆卡
+### 사례 541: 50/50 혼합 매체 메모리 카드
 
-![50/50 混合媒介回忆卡](../data/images/case541.jpg)
+![50/50 혼합 매체 메모리 카드](../data/images/case541.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
+**출처:** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.
@@ -12464,13 +12466,13 @@ Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. 
 
 <a name="case-542"></a>
 
-### 例 542：黑白排版侧脸肖像海报
+### 사례 542: 흑백 레이아웃 측면 인물 사진 포스터
 
-![黑白排版侧脸肖像海报](../data/images/case542.jpg)
+![흑백 레이아웃 측면 인물 사진 포스터](../data/images/case542.jpg)
 
-**来源：** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
+**출처:** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette. Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.
@@ -12480,13 +12482,13 @@ High-contrast black and white typographic portrait poster of [HUMAN], shown in s
 
 <a name="case-543"></a>
 
-### 例 543：旅行纪念珐琅徽章
+### 사례 543: 여행 기념품 에나멜 배지
 
-![旅行纪念珐琅徽章](../data/images/case543.jpg)
+![여행 기념품 에나멜 배지](../data/images/case543.jpg)
 
-**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
+**출처:** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
@@ -12506,13 +12508,13 @@ Avoid: black silhouette figure, blacked-out face, dark featureless head, portrai
 
 <a name="case-544"></a>
 
-### 例 544：幼儿词汇拆解学习卡
+### 사례 544: 유아 어휘 분해 학습 카드
 
-![幼儿词汇拆解学习卡](../data/images/case544.jpg)
+![유아 어휘 분해 학습 카드](../data/images/case544.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
+**출처:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
 
-**提示词：**
+**프롬프트:**
 
 ```text
 Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.

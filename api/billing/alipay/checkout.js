@@ -82,7 +82,7 @@ export default async function handler(req, res) {
       bizContent: {
         out_trade_no: order.id,
         total_amount: formatAlipayAmount(order.amount_cents),
-        subject: normalizeAlipaySubject(product.name.zh || product.name.en),
+        subject: normalizeAlipaySubject(product.name.ko || product.name.en),
         product_code: 'FAST_INSTANT_TRADE_PAY',
         timeout_express: '30m'
       }

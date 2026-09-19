@@ -12,7 +12,7 @@ Generated from `data/style-library.json`. Use this file as the detailed index fo
 
 ## Template Index
 
-### UI Screenshot System / UI 截图系统
+### UI Screenshot System / UI 스크린샷 시스템
 
 - ID: `ui-screenshot-system`
 - Category: UI & Interfaces
@@ -25,21 +25,21 @@ Generated from `data/style-library.json`. Use this file as the detailed index fo
 
 Use when:
 - EN: Use for app screens, dashboards, social screenshots, and live interface mockups.
-- ZH: 用于 App 截图、仪表盘、社媒截图和直播界面。
+- KO: 앱 화면, 대시보드, 소셜 스크린샷, 실시간 인터페이스 목업에 사용합니다.
 
 Guidance:
   - Lock platform, aspect ratio, layout hierarchy, and exact visible text.
   - Specify UI chrome such as status bars, tabs, action rows, or comment layers.
-  - 锁定平台、比例、层级和画面文字。
-  - 明确状态栏、Tab、操作区、评论层等 UI 元素。
+  - 플랫폼, 비율, 레이아웃 위계, 화면 텍스트를 고정하세요.
+  - 상태 표시줄, 탭, 작업 행, 댓글 레이어 같은 UI 크롬을 명시하세요.
 
 Pitfalls:
   - Avoid vague platform names and generic app mockups.
   - Constrain text readability and platform-specific details.
-  - 避免平台描述过泛。
-  - 约束文字可读性和平台特征。
+  - 모호한 플랫폼 이름과 일반적인 앱 목업을 피하세요.
+  - 텍스트 가독성과 플랫폼별 세부 사항을 제약하세요.
 
-### Infographic Engine / 信息图引擎
+### Infographic Engine / 인포그래픽 엔진
 
 - ID: `infographic-engine`
 - Category: Charts & Infographics
@@ -52,21 +52,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for explainer graphics, technical diagrams, timelines, and knowledge cards.
-- ZH: 用于解释图、技术图解、时间线和知识卡片。
+- KO: 설명 그래픽, 기술 다이어그램, 타임라인, 지식 카드에 사용합니다.
 
 Guidance:
   - Define 3-5 modules, information flow, visual hierarchy, and short labels.
   - Use color groups, arrows, icons, and clean spacing to reduce clutter.
-  - 定义 3-5 个模块、信息流、层级和短标签。
-  - 用色块、箭头、图标和留白控制复杂度。
+  - 3~5개의 모듈, 정보 흐름, 시각 위계, 짧은 레이블을 정의하세요.
+  - 색상 그룹, 화살표, 아이콘, 여백으로 복잡도를 제어하세요.
 
 Pitfalls:
   - Avoid long paragraphs inside the image.
   - Limit module count before adding visual detail.
-  - 避免把长段正文塞进画面。
-  - 先限制模块数量，再补视觉细节。
+  - 이미지 안에 긴 문단을 넣지 마세요.
+  - 시각적 세부 요소를 추가하기 전에 모듈 수를 제한하세요.
 
-### Scientific Scale Diagram / 科学尺度缩放图
+### Scientific Scale Diagram / 과학적 크기 비교 다이어그램
 
 - ID: `scientific-scale-diagram`
 - Category: Charts & Infographics
@@ -79,21 +79,21 @@ Pitfalls:
 
 Use when:
 - EN: Use when the topic needs micro-to-macro scale comparison and labeled detail windows.
-- ZH: 用于需要从微观到宏观展示尺度变化的科普主题。
+- KO: 미시에서 거시까지의 크기 변화를 보여줘야 하는 과학 주제에 사용합니다.
 
 Guidance:
   - Use 6-8 scale frames and keep each label short.
   - Show units, magnification, and distinct scale detail.
-  - 使用 6-8 个尺度框，每个标签保持短句。
-  - 展示单位、倍率和不同尺度的细节。
+  - 6~8개의 크기 프레임을 사용하고 각 레이블은 짧게 유지하세요.
+  - 단위, 배율, 각 크기별 고유한 세부 사항을 보여 주세요.
 
 Pitfalls:
   - Avoid making every scale frame visually identical.
   - Avoid generic magnifying glass icon layouts.
-  - 避免所有尺度框长得一样。
-  - 避免通用放大镜式布局。
+  - 모든 크기 프레임을 똑같이 보이게 만들지 마세요.
+  - 일반적인 돋보기 아이콘 레이아웃을 피하세요.
 
-### Poster Layout System / 海报排版系统
+### Poster Layout System / 포스터 레이아웃 시스템
 
 - ID: `poster-layout-system`
 - Category: Posters & Typography
@@ -106,21 +106,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for event posters, movie posters, covers, and social campaign visuals.
-- ZH: 用于活动海报、电影海报、封面和社媒传播视觉。
+- KO: 행사 포스터, 영화 포스터, 표지, 소셜 캠페인 비주얼에 사용합니다.
 
 Guidance:
   - Lock subject, headline, layout, palette, and aspect ratio.
   - Make the title hierarchy and primary visual clear.
-  - 锁定主体、标题、版式、配色和比例。
-  - 突出标题层级和主视觉。
+  - 주제, 헤드라인, 레이아웃, 색상 팔레트, 종횡비를 고정하세요.
+  - 제목 위계와 핵심 비주얼이 뚜렷하게 보이게 하세요.
 
 Pitfalls:
   - Avoid mixed moodboards or process sheets when asking for one finished poster.
   - Constrain extra text and decorative symbols.
-  - 需要成品海报时，避免生成拼贴展示板。
-  - 约束多余文字和装饰符号。
+  - 완성 포스터를 요청할 때는 무드보드나 작업 과정 시트를 피하세요.
+  - 불필요한 텍스트와 장식 기호를 제약하세요.
 
-### Sports Campaign Poster / 运动商业 Campaign
+### Sports Campaign Poster / 스포츠 캠페인 포스터
 
 - ID: `sports-campaign-poster`
 - Category: Posters & Typography
@@ -133,21 +133,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for sports brand campaigns, athlete posters, and product-led sport visuals.
-- ZH: 用于运动品牌 Campaign、运动员海报和运动产品视觉。
+- KO: 스포츠 브랜드 캠페인, 선수 포스터, 제품 중심 스포츠 비주얼에 사용합니다.
 
 Guidance:
   - Define sport, athlete pose, hero prop, title, and brand palette.
   - Use dramatic light, clean composition, and readable data overlays.
-  - 定义运动项目、姿态、核心道具、标题和品牌色。
-  - 使用强光影、干净构图和可读数据层。
+  - 스포츠 종목, 선수 포즈, 핵심 소품, 제목, 브랜드 색상을 정의하세요.
+  - 드라마틱한 조명, 깔끔한 구성, 읽기 쉬운 데이터 오버레이를 사용하세요.
 
 Pitfalls:
   - Avoid wrong equipment and noisy collage.
   - Keep the athlete and hero prop visually dominant.
-  - 避免错误运动器材和杂乱拼贴。
-  - 让运动员和核心道具占据主导。
+  - 잘못된 장비와 산만한 콜라주를 피하세요.
+  - 선수와 핵심 소품이 시각적으로 우세하게 하세요.
 
-### Conceptual Typography Poster / 概念字体海报
+### Conceptual Typography Poster / 콘셉추얼 타이포그래피 포스터
 
 - ID: `conceptual-typography-poster`
 - Category: Posters & Typography
@@ -160,21 +160,21 @@ Pitfalls:
 
 Use when:
 - EN: Use when the exact title must become the main visual structure.
-- ZH: 用于标题文字需要成为主视觉结构的海报。
+- KO: 정확한 제목이 주된 시각 구조가 되어야 하는 포스터에 사용합니다.
 
 Guidance:
   - Make typography the hero and spell the title exactly.
   - Tie human figures, objects, or landscapes to the title meaning.
-  - 让字体成为画面主角，并保证标题拼写准确。
-  - 人物、物体或风景需要服务标题含义。
+  - 타이포그래피를 주인공으로 두고 제목 철자를 정확히 유지하세요.
+  - 인물, 사물, 풍경은 제목의 의미를 뒷받침해야 합니다.
 
 Pitfalls:
   - Avoid default word art, unrelated icons, and misspelled title text.
   - Limit the color system to a restrained palette.
-  - 避免默认字效、无关图标和标题错字。
-  - 控制配色数量，保持克制。
+  - 기본 워드아트, 관련 없는 아이콘, 오탈자를 피하세요.
+  - 절제된 색상 팔레트로 제한하세요.
 
-### Ink Double Exposure Poster / 水墨双重曝光海报
+### Ink Double Exposure Poster / 수묵 이중 노출 포스터
 
 - ID: `ink-double-exposure-poster`
 - Category: Posters & Typography
@@ -187,21 +187,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for poetic portrait posters, ink atmospheres, and layered cultural visuals.
-- ZH: 用于诗意人像海报、水墨氛围和文化主题视觉。
+- KO: 시적인 인물 포스터, 수묵 분위기, 문화 주제 비주얼에 사용합니다.
 
 Guidance:
   - Blend portrait silhouette, ink texture, atmosphere, and negative space.
   - Keep composition quiet, premium, and readable.
-  - 融合人像剪影、水墨质感、氛围和留白。
-  - 保持构图克制、高级、可读。
+  - 인물 실루엣, 수묵 질감, 분위기, 여백을 조합하세요.
+  - 절제되고 고급스러우며 읽기 쉬운 구성을 유지하세요.
 
 Pitfalls:
   - Avoid cheap fantasy collage and overloaded scenery.
   - Use subtle text or no text unless required.
-  - 避免廉价奇幻拼贴和景物堆叠。
-  - 非必要时减少文字。
+  - 저렴해 보이는 판타지 콜라주와 과도한 풍경 쌓기를 피하세요.
+  - 필요하지 않다면 텍스트를 최소화하세요.
 
-### Nature Science Poster / 自然科普海报
+### Nature Science Poster / 자연 과학 포스터
 
 - ID: `nature-science-poster`
 - Category: Posters & Typography
@@ -214,21 +214,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for natural subjects that need a premium, clean science poster feel.
-- ZH: 用于自然主题的高级、干净科普海报。
+- KO: 고급스럽고 깔끔한 과학 포스터 느낌이 필요한 자연 주제에 사용합니다.
 
 Guidance:
   - Use a clear subject, minimal copy, soft shadows, and disciplined whitespace.
   - Keep the scientific label short and visible.
-  - 使用清晰主体、少量文案、柔和阴影和充足留白。
-  - 让科普标签短而清楚。
+  - 명확한 주제, 적은 카피, 부드러운 그림자, 충분한 여백을 사용하세요.
+  - 과학 레이블은 짧고 잘 보이게 하세요.
 
 Pitfalls:
   - Avoid heavy advertising language.
   - Avoid dense encyclopedia blocks.
-  - 避免广告感太重。
-  - 避免密集百科正文。
+  - 광고 문구가 지나치게 강해지지 않도록 하세요.
+  - 빽빽한 백과사전식 본문을 피하세요.
 
-### Product Commerce Visual / 商品商业视觉
+### Product Commerce Visual / 제품 커머스 비주얼
 
 - ID: `product-commerce-visual`
 - Category: Products & E-commerce
@@ -241,21 +241,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for product hero shots, packaging visuals, detail pages, and sales layouts.
-- ZH: 用于商品主图、包装视觉、详情页和销售卖点排版。
+- KO: 제품 히어로 사진, 패키징 비주얼, 상세 페이지, 판매 레이아웃에 사용합니다.
 
 Guidance:
   - Define product, selling points, material, scene, lighting, and layout blocks.
   - Separate hero product, benefit labels, and supporting props.
-  - 定义商品、卖点、材质、场景、光线和版块。
-  - 区分主商品、卖点标签和辅助道具。
+  - 제품, 판매 포인트, 재질, 장면, 조명, 레이아웃 블록을 정의하세요.
+  - 주요 제품, 혜택 레이블, 보조 소품을 구분하세요.
 
 Pitfalls:
   - Avoid random props that weaken product recognition.
   - Constrain packaging text and claim wording.
-  - 避免无关道具削弱商品识别。
-  - 约束包装文字和卖点表达。
+  - 제품 인지도를 약화시키는 무작위 소품을 피하세요.
+  - 패키지 텍스트와 판매 문구를 제약하세요.
 
-### Personalized Beauty Report / 个性化美妆报告
+### Personalized Beauty Report / 개인화 뷰티 리포트
 
 - ID: `personalized-beauty-report`
 - Category: Products & E-commerce
@@ -268,21 +268,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for beauty recommendations, skin reports, shopping assistants, and lifestyle product cards.
-- ZH: 用于美妆推荐、肤质报告、导购助手和生活方式商品卡片。
+- KO: 뷰티 추천, 피부 리포트, 쇼핑 도우미, 라이프스타일 제품 카드에 사용합니다.
 
 Guidance:
   - Use a report-like hierarchy with diagnosis, recommendation, and product cards.
   - Keep product images, labels, and ratings aligned.
-  - 使用诊断、推荐和商品卡片的报告层级。
-  - 对齐商品图、标签和评分。
+  - 진단, 추천, 제품 카드로 된 리포트 위계를 사용하세요.
+  - 제품 이미지, 레이블, 평점을 정렬하세요.
 
 Pitfalls:
   - Avoid medical claims and unreadable dense notes.
   - Keep recommendation logic simple.
-  - 避免医疗化结论和难读小字。
-  - 保持推荐逻辑清楚。
+  - 의학적 주장과 읽기 어려운 작은 글자를 피하세요.
+  - 추천 논리를 명확하게 유지하세요.
 
-### Brand Identity Package / 品牌身份包
+### Brand Identity Package / 브랜드 아이덴티티 패키지
 
 - ID: `brand-identity-package`
 - Category: Brand & Logos
@@ -295,21 +295,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for logo systems, brand boards, visual identity kits, and application mockups.
-- ZH: 用于 Logo 系统、品牌板、VI 套件和应用样机。
+- KO: 로고 시스템, 브랜드 보드, 비주얼 아이덴티티 키트, 적용 목업에 사용합니다.
 
 Guidance:
   - Define brand name, positioning, palette, typography, logo usage, and touchpoints.
   - Ask for a coherent board with aligned applications.
-  - 定义品牌名、定位、配色、字体、Logo 用法和触点。
-  - 要求视觉板中的应用统一对齐。
+  - 브랜드명, 포지셔닝, 팔레트, 타이포그래피, 로고 사용법, 접점을 정의하세요.
+  - 적용 예시가 정렬된 일관된 보드를 요청하세요.
 
 Pitfalls:
   - Avoid unrelated logo variants and inconsistent palettes.
   - Keep brand text accurate.
-  - 避免无关 Logo 变体和混乱配色。
-  - 保持品牌文字准确。
+  - 관련 없는 로고 변형과 일관성 없는 팔레트를 피하세요.
+  - 브랜드 텍스트를 정확하게 유지하세요.
 
-### Brand Touchpoint Board / 品牌触点视觉板
+### Brand Touchpoint Board / 브랜드 접점 보드
 
 - ID: `brand-touchpoint-board`
 - Category: Brand & Logos
@@ -322,21 +322,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for multi-touchpoint campaign boards and brand rollout previews.
-- ZH: 用于多触点 Campaign 展示和品牌落地预览。
+- KO: 다중 접점 캠페인 보드와 브랜드 적용 미리보기에 사용합니다.
 
 Guidance:
   - Specify touchpoint list, shared visual rules, and mockup arrangement.
   - Use one palette and one typography logic across all panels.
-  - 指定触点清单、统一视觉规则和样机排列。
-  - 让所有面板共享配色和字体逻辑。
+  - 접점 목록, 공통 시각 규칙, 목업 배열을 지정하세요.
+  - 모든 패널에서 하나의 팔레트와 타이포그래피 논리를 공유하세요.
 
 Pitfalls:
   - Avoid mixing many unrelated campaign styles.
   - Limit touchpoints if readability drops.
-  - 避免混入多个无关 Campaign 风格。
-  - 可读性下降时减少触点数量。
+  - 관련 없는 여러 캠페인 스타일을 섞지 마세요.
+  - 가독성이 떨어지면 접점 수를 줄이세요.
 
-### Architecture & Space / 建筑与空间
+### Architecture & Space / 건축과 공간
 
 - ID: `architecture-space`
 - Category: Architecture & Spaces
@@ -349,21 +349,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for interiors, architecture renders, city maps, spatial plans, and environment concepts.
-- ZH: 用于室内、建筑表现、城市地图、空间规划和环境概念图。
+- KO: 실내, 건축 렌더링, 도시 지도, 공간 계획, 환경 콘셉트에 사용합니다.
 
 Guidance:
   - Define viewpoint, scale, material, lighting, and spatial function.
   - For maps, specify landmarks, labels, border decoration, and visual accuracy level.
-  - 定义视角、尺度、材质、光线和空间功能。
-  - 地图需要指定地标、标签、边框装饰和准确度。
+  - 시점, 크기, 재질, 조명, 공간 기능을 정의하세요.
+  - 지도에는 랜드마크, 레이블, 테두리 장식, 정확도 수준을 지정하세요.
 
 Pitfalls:
   - Avoid impossible perspectives unless the output is conceptual.
   - Lock map label language and relative placement.
-  - 概念图之外要避免不合理透视。
-  - 锁定地图标签语言和相对位置。
+  - 콘셉트 출력이 아니라면 불가능한 원근법을 피하세요.
+  - 지도 레이블의 언어와 상대 위치를 고정하세요.
 
-### Realistic Photography / 写实摄影
+### Realistic Photography / 사실적 사진
 
 - ID: `realistic-photography`
 - Category: Photography & Realism
@@ -376,21 +376,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for portraits, street photos, product photography, and cinematic realism.
-- ZH: 用于人像、街拍、商品摄影和电影感写实。
+- KO: 인물 사진, 거리 사진, 제품 사진, 영화 같은 사실적 표현에 사용합니다.
 
 Guidance:
   - Specify camera distance, lens, light source, texture, background, and motion.
   - Use believable imperfections for documentary realism.
-  - 指定机位、镜头、光源、质感、背景和动作。
-  - 加入可信的小瑕疵增强纪实感。
+  - 카메라 거리, 렌즈, 광원, 질감, 배경, 움직임을 지정하세요.
+  - 다큐멘터리 사실성을 위해 그럴듯한 작은 결함을 사용하세요.
 
 Pitfalls:
   - Avoid over-polished plastic skin unless commercial beauty is required.
   - Add negative constraints for hands, text, and anatomy when needed.
-  - 商业美妆之外，避免过度磨皮。
-  - 需要时加入手部、文字、结构类负面约束。
+  - 상업 뷰티가 아니라면 과도하게 매끈한 플라스틱 피부를 피하세요.
+  - 필요할 때는 손, 텍스트, 해부 구조에 대한 네거티브 제약을 추가하세요.
 
-### Street Accident Moment / 街头意外瞬间摄影
+### Street Accident Moment / 거리의 우연한 순간 사진
 
 - ID: `street-accident-moment`
 - Category: Photography & Realism
@@ -403,21 +403,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for candid street moments, accidental spills, documentary phone shots, and fast action.
-- ZH: 用于街头抓拍、意外泼洒、手机纪实和快速动作。
+- KO: 자연스러운 거리 순간, 우연한 쏟음, 휴대폰 다큐멘터리 사진, 빠른 동작에 사용합니다.
 
 Guidance:
   - Describe the exact moment, camera height, motion blur, and street context.
   - Add negative constraints for staged poses and fake ad lighting.
-  - 描述具体瞬间、机位高度、运动模糊和街景。
-  - 加入避免摆拍和广告棚拍感的限制。
+  - 정확한 순간, 카메라 높이, 움직임 흐림, 거리 맥락을 설명하세요.
+  - 연출된 포즈와 광고 스튜디오 조명을 피하는 제약을 추가하세요.
 
 Pitfalls:
   - Avoid too-clean compositions.
   - Keep the event plausible and grounded.
-  - 避免画面过于干净。
-  - 让事件看起来可信。
+  - 구성이 지나치게 깨끗해지지 않도록 하세요.
+  - 사건이 그럴듯하고 현실감 있게 보이게 하세요.
 
-### Illustration & Art Style / 插画与艺术风格
+### Illustration & Art Style / 일러스트레이션과 예술 스타일
 
 - ID: `illustration-art-style`
 - Category: Illustration & Art
@@ -430,21 +430,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for anime, watercolor, ink, decorative art, and style experiments.
-- ZH: 用于动漫、水彩、水墨、装饰画和风格实验。
+- KO: 애니메이션, 수채화, 수묵, 장식 예술, 스타일 실험에 사용합니다.
 
 Guidance:
   - Define composition, subject, palette, brush material, mood, and rendering depth.
   - For reference images, state what must be preserved.
-  - 定义构图、主体、配色、笔触材质、情绪和完成度。
-  - 参考图任务需要说明保留哪些特征。
+  - 구성, 주제, 팔레트, 붓 재질, 분위기, 렌더링 완성도를 정의하세요.
+  - 참조 이미지를 쓸 때는 유지할 특성을 명시하세요.
 
 Pitfalls:
   - Avoid style-only prompts without composition.
   - Lock character identity when using references.
-  - 避免只写风格，不写构图。
-  - 使用参考图时锁定角色识别。
+  - 구성 없이 스타일만 적는 프롬프트를 피하세요.
+  - 참조 이미지를 쓸 때 캐릭터 정체성을 고정하세요.
 
-### Character Design Sheet / 角色设定表
+### Character Design Sheet / 캐릭터 디자인 시트
 
 - ID: `character-design-sheet`
 - Category: Characters & People
@@ -457,21 +457,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for character sheets, pose grids, action breakdowns, and identity references.
-- ZH: 用于角色设定表、动作网格、动作拆解和一致性参考。
+- KO: 캐릭터 시트, 포즈 그리드, 동작 분석, 정체성 참조에 사용합니다.
 
 Guidance:
   - Define identity anchors, outfit, proportions, pose count, and sheet layout.
   - Keep face, hairstyle, and costume details consistent.
-  - 定义身份锚点、服装、比例、动作数量和版式。
-  - 保持脸、发型和服装细节一致。
+  - 정체성 앵커, 의상, 비율, 포즈 수, 시트 레이아웃을 정의하세요.
+  - 얼굴, 헤어스타일, 의상 세부 정보를 일관되게 유지하세요.
 
 Pitfalls:
   - Avoid changing costume details between poses.
   - Limit pose count if the sheet becomes crowded.
-  - 避免不同动作里服装细节变化。
-  - 画面拥挤时减少动作数量。
+  - 포즈별로 의상 세부 정보가 바뀌는 것을 피하세요.
+  - 시트가 혼잡해지면 포즈 수를 줄이세요.
 
-### 3D Collectible Toy / 3D 收藏玩具
+### 3D Collectible Toy / 3D 컬렉터블 토이
 
 - ID: `3d-collectible-toy`
 - Category: Characters & People
@@ -484,21 +484,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for premium collectible figures, avatar toys, blind-box characters, and 3D display renders.
-- ZH: 用于高级收藏玩具、头像公仔、潮玩角色和 3D 展示图。
+- KO: 프리미엄 컬렉터블 피규어, 아바타 토이, 블라인드 박스 캐릭터, 3D 전시 렌더에 사용합니다.
 
 Guidance:
   - Preserve face and outfit anchors from the reference.
   - Specify material, packaging, base, lighting, and collectible scale.
-  - 保留参考图中的脸和服装锚点。
-  - 指定材质、包装、底座、光线和收藏比例。
+  - 참조 이미지의 얼굴과 의상 앵커를 유지하세요.
+  - 재질, 패키징, 받침, 조명, 컬렉터블 비율을 지정하세요.
 
 Pitfalls:
   - Avoid generic toy bodies without identity details.
   - Keep packaging text minimal and accurate.
-  - 避免没有身份细节的通用玩具。
-  - 包装文字保持少量且准确。
+  - 정체성 세부 사항이 없는 일반적인 장난감 몸체를 피하세요.
+  - 패키지 텍스트는 적고 정확하게 유지하세요.
 
-### Scene Storytelling / 场景叙事
+### Scene Storytelling / 장면 스토리텔링
 
 - ID: `scene-storytelling`
 - Category: Scenes & Storytelling
@@ -511,21 +511,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for storyboards, worldbuilding, live scenes, and emotional narrative frames.
-- ZH: 用于分镜、世界观、直播场景和情绪叙事画面。
+- KO: 스토리보드, 세계관, 라이브 장면, 감정 서사 프레임에 사용합니다.
 
 Guidance:
   - Define who, where, when, conflict, emotion, and camera framing.
   - Use scene details to support narrative rather than decoration.
-  - 定义人物、地点、时间、冲突、情绪和机位。
-  - 让场景细节服务故事。
+  - 누가, 어디서, 언제, 갈등, 감정, 카메라 프레이밍을 정의하세요.
+  - 장면 세부 요소는 장식이 아니라 서사를 지원하게 하세요.
 
 Pitfalls:
   - Avoid generic fantasy backgrounds.
   - Keep narrative cues visible in the frame.
-  - 避免通用幻想背景。
-  - 让故事线索在画面里可见。
+  - 일반적인 판타지 배경을 피하세요.
+  - 프레임 안에서 서사 단서가 보이게 하세요.
 
-### History & Classical Themes / 历史与古风题材
+### History & Classical Themes / 역사와 고전 주제
 
 - ID: `history-classical-themes`
 - Category: History & Classical Themes
@@ -538,21 +538,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for ancient Chinese themes, scrolls, dynasty clothing, poetry visuals, and historical scenes.
-- ZH: 用于古风题材、长卷、朝代服饰、诗词视觉和历史场景。
+- KO: 중국 고전 주제, 두루마리, 왕조 의상, 시 비주얼, 역사 장면에 사용합니다.
 
 Guidance:
   - Specify dynasty, clothing system, object references, layout format, and cultural mood.
   - Use scroll, album page, or poster format deliberately.
-  - 指定朝代、服饰制度、器物参考、版式和文化气质。
-  - 明确长卷、册页或海报形式。
+  - 왕조, 의상 체계, 소품 참조, 레이아웃 형식, 문화적 분위기를 지정하세요.
+  - 두루마리, 화첩 페이지, 포스터 형식을 의도적으로 선택하세요.
 
 Pitfalls:
   - Avoid mixing dynasties when historical accuracy matters.
   - Constrain random modern props.
-  - 需要历史准确时，避免朝代混搭。
-  - 约束随机现代物件。
+  - 역사적 정확성이 중요하다면 왕조를 섞지 마세요.
+  - 무작위 현대 소품을 제약하세요.
 
-### Document & Publishing / 文档与出版物
+### Document & Publishing / 문서와 출판
 
 - ID: `document-publishing`
 - Category: Documents & Publishing
@@ -565,21 +565,21 @@ Pitfalls:
 
 Use when:
 - EN: Use for white papers, manuals, encyclopedic plates, report pages, and publication systems.
-- ZH: 用于白皮书、手册、百科图鉴、报告页面和出版系统。
+- KO: 백서, 매뉴얼, 백과 도판, 보고서 페이지, 출판 시스템에 사용합니다.
 
 Guidance:
   - Define page size, columns, table of contents, figure system, and typography hierarchy.
   - Use readable headings, tables, labels, and page rhythm.
-  - 定义页面尺寸、分栏、目录、图表系统和字体层级。
-  - 使用可读标题、表格、标签和页面节奏。
+  - 페이지 크기, 열, 목차, 도표 체계, 타이포그래피 위계를 정의하세요.
+  - 읽기 쉬운 제목, 표, 레이블, 페이지 리듬을 사용하세요.
 
 Pitfalls:
   - Avoid tiny dense text.
   - Keep charts and captions aligned to the page grid.
-  - 避免密集小字。
-  - 让图表和说明对齐页面网格。
+  - 작고 빽빽한 텍스트를 피하세요.
+  - 차트와 캡션을 페이지 그리드에 맞추세요.
 
-### Concept Product Breakdown / 概念产品研发拆解
+### Concept Product Breakdown / 콘셉트 제품 분해
 
 - ID: `concept-product-breakdown`
 - Category: Other Use Cases
@@ -592,68 +592,68 @@ Pitfalls:
 
 Use when:
 - EN: Use for experimental prompt tasks, R&D boards, exploded diagrams, and unusual visual systems.
-- ZH: 用于实验型任务、研发视觉板、拆解图和特殊视觉系统。
+- KO: 실험적 프롬프트 작업, 연구·개발 보드, 분해 다이어그램, 독특한 시각 시스템에 사용합니다.
 
 Guidance:
   - Define the artifact type, components, labels, material logic, and final presentation format.
   - Use clear callouts and a controlled technical style.
-  - 定义产物类型、组件、标签、材质逻辑和展示格式。
-  - 使用清晰标注和受控技术风格。
+  - 결과물 유형, 구성 요소, 레이블, 재질 논리, 최종 표현 형식을 정의하세요.
+  - 명확한 콜아웃과 절제된 기술 스타일을 사용하세요.
 
 Pitfalls:
   - Avoid unspecified mixed tasks.
   - Keep labels short and component relationships visible.
-  - 避免任务边界过泛。
-  - 标签要短，组件关系要清楚。
+  - 정의되지 않은 혼합 작업을 피하세요.
+  - 레이블은 짧게 하고 구성 요소 관계를 명확히 보이게 하세요.
 
 ## Categories
 
-- UI & Interfaces: UI 与界面 | Apps, websites, dashboards, social screenshots, and product interfaces.
-- Charts & Infographics: 图表与信息可视化 | Infographics, knowledge maps, technical explainers, and structured diagrams.
-- Posters & Typography: 海报与排版 | Event posters, covers, type-driven visuals, and strong layout compositions.
-- Products & E-commerce: 商品与电商 | Product shots, detail pages, packaging, selling points, and ads.
-- Brand & Logos: 品牌与标志 | Logos, identity systems, brand touchpoints, and campaign visuals.
-- Architecture & Spaces: 建筑与空间 | Architecture renders, interiors, city maps, and spatial concepts.
-- Photography & Realism: 摄影与写实 | Portraits, phone photography, film texture, and commercial photography.
-- Illustration & Art: 插画与艺术 | Illustration, art styles, material experiments, and decorative images.
-- Characters & People: 人物与角色 | Character design, pose references, cards, and 3D toys.
-- Scenes & Storytelling: 场景与叙事 | Storyboards, narrative scenes, livestream frames, and worldbuilding.
-- History & Classical Themes: 历史与古风题材 | Classical scrolls, historical figures, traditional themes, and poetry visuals.
-- Documents & Publishing: 文档与出版物 | White papers, manuals, encyclopedic plates, and publishing layouts.
-- Other Use Cases: 其他应用场景 | Creative experiments, special tasks, mixed workflows, and practical cases.
+- UI & Interfaces: UI와 인터페이스 | Apps, websites, dashboards, social screenshots, and product interfaces.
+- Charts & Infographics: 차트와 인포그래픽 | Infographics, knowledge maps, technical explainers, and structured diagrams.
+- Posters & Typography: 포스터와 타이포그래피 | Event posters, covers, type-driven visuals, and strong layout compositions.
+- Products & E-commerce: 제품과 이커머스 | Product shots, detail pages, packaging, selling points, and ads.
+- Brand & Logos: 브랜드와 로고 | Logos, identity systems, brand touchpoints, and campaign visuals.
+- Architecture & Spaces: 건축과 공간 | Architecture renders, interiors, city maps, and spatial concepts.
+- Photography & Realism: 사진과 사실성 | Portraits, phone photography, film texture, and commercial photography.
+- Illustration & Art: 일러스트레이션과 예술 | Illustration, art styles, material experiments, and decorative images.
+- Characters & People: 인물과 캐릭터 | Character design, pose references, cards, and 3D toys.
+- Scenes & Storytelling: 장면과 스토리텔링 | Storyboards, narrative scenes, livestream frames, and worldbuilding.
+- History & Classical Themes: 역사와 고전 주제 | Classical scrolls, historical figures, traditional themes, and poetry visuals.
+- Documents & Publishing: 문서와 출판 | White papers, manuals, encyclopedic plates, and publishing layouts.
+- Other Use Cases: 기타 활용 사례 | Creative experiments, special tasks, mixed workflows, and practical cases.
 
 ## Styles
 
 - 3D: 3D | Keywords: 3d, toy, render, 玩具
-- Architecture: 建筑 | Keywords: None
-- Brand: 品牌 | Keywords: brand, logo, identity, 品牌, 标志
-- Character: 角色 | Keywords: character, avatar, pose, 角色, 人物
-- Characters: 人物 | Keywords: None
-- Charts: 图表 | Keywords: None
-- Classical: 古典 | Keywords: classical, dynasty, history, 古风, 历史
-- Documents: 文档 | Keywords: None
-- History: 历史 | Keywords: None
-- Illustration: 插画 | Keywords: illustration, painting, watercolor, 插画, 绘画
-- Infographic: 信息图 | Keywords: infographic, diagram, 信息图, 图解
-- Other Use Cases: 其他应用场景 | Keywords: None
-- Photography: 摄影 | Keywords: None
-- Poster: 海报 | Keywords: poster, cover, typography, 海报, 封面
-- Product: 商品 | Keywords: product, packaging, 商品, 包装
-- Products: 商品 | Keywords: None
-- Realistic: 写实 | Keywords: photo, realistic, camera, 写真, 写实
-- Scenes: 场景 | Keywords: None
-- UI: 界面 | Keywords: ui, interface, dashboard, 界面, 截图
+- Architecture: 건축 | Keywords: None
+- Brand: 브랜드 | Keywords: brand, logo, identity, 品牌, 标志
+- Character: 캐릭터 | Keywords: character, avatar, pose, 角色, 人物
+- Characters: 인물 | Keywords: None
+- Charts: 차트 | Keywords: None
+- Classical: 고전 | Keywords: classical, dynasty, history, 古风, 历史
+- Documents: 문서 | Keywords: None
+- History: 역사 | Keywords: None
+- Illustration: 일러스트레이션 | Keywords: illustration, painting, watercolor, 插画, 绘画
+- Infographic: 인포그래픽 | Keywords: infographic, diagram, 信息图, 图解
+- Other Use Cases: 기타 활용 사례 | Keywords: None
+- Photography: 사진 | Keywords: None
+- Poster: 포스터 | Keywords: poster, cover, typography, 海报, 封面
+- Product: 제품 | Keywords: product, packaging, 商品, 包装
+- Products: 제품 | Keywords: None
+- Realistic: 사실적 | Keywords: photo, realistic, camera, 写真, 写实
+- Scenes: 장면 | Keywords: None
+- UI: UI | Keywords: ui, interface, dashboard, 界面, 截图
 
 ## Scenes
 
-- Creative: 创意 | Keywords: None
-- Tech: 科技 | Keywords: ai, rag, tech, data, 技术, 数据
-- Commerce: 商业 | Keywords: product, brand, ad, campaign, 商品, 商业, 广告
-- Education: 教育 | Keywords: guide, atlas, science, learning, 学习, 科普
-- Social: 社媒 | Keywords: social, x , wechat, 朋友圈, 社媒
-- Fashion: 时尚 | Keywords: fashion, clothing, portrait, 服饰, 写真
-- Food: 食品饮品 | Keywords: food, drink, coffee, tea, 餐厅, 咖啡, 茶
-- Travel: 旅行 | Keywords: city, map, street, 城市, 地图, 街头
-- Story: 叙事 | Keywords: story, scene, world, 故事, 场景
-- History: 历史 | Keywords: history, dynasty, ancient, 历史, 古希腊, 唐
+- Creative: 창의 | Keywords: None
+- Tech: 기술 | Keywords: ai, rag, tech, data, 技术, 数据
+- Commerce: 커머스 | Keywords: product, brand, ad, campaign, 商品, 商业, 广告
+- Education: 교육 | Keywords: guide, atlas, science, learning, 学习, 科普
+- Social: 소셜 | Keywords: social, x , wechat, 朋友圈, 社媒
+- Fashion: 패션 | Keywords: fashion, clothing, portrait, 服饰, 写真
+- Food: 음식과 음료 | Keywords: food, drink, coffee, tea, 餐厅, 咖啡, 茶
+- Travel: 여행 | Keywords: city, map, street, 城市, 地图, 街头
+- Story: 이야기 | Keywords: story, scene, world, 故事, 场景
+- History: 역사 | Keywords: history, dynasty, ancient, 历史, 古希腊, 唐
 

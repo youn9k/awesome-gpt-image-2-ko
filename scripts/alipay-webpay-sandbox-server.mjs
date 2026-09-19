@@ -35,13 +35,13 @@ function send(res, status, body, contentType = 'text/html; charset=utf-8') {
 
 function layout(title, content, script = '') {
   return `<!doctype html>
-<html lang="zh-CN">
+<html lang="ko">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>${escapeHtml(title)}</title>
   <style>
-    :root { color-scheme: light; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    :root { color-scheme: light; font-family: Pretendard, "Noto Sans KR", "Malgun Gothic", Inter, ui-sans-serif, system-ui, sans-serif; }
     * { box-sizing: border-box; }
     body { margin: 0; min-height: 100vh; display: grid; place-items: center; color: #18211d; background: radial-gradient(circle at top, #e8fff3, #f7f5ee 55%); }
     main { width: min(92vw, 680px); padding: 38px; border: 1px solid #d9ded9; border-radius: 28px; background: rgba(255,255,255,.94); box-shadow: 0 24px 70px rgba(28,50,38,.12); }
@@ -61,16 +61,16 @@ function layout(title, content, script = '') {
 }
 
 function paymentPage() {
-  return layout('支付宝网站支付沙箱体验', `
-    <div class="eyebrow">Local sandbox only</div>
-    <h1>支付宝网站支付</h1>
-    <p>这是项目本地沙箱体验入口。点击后会生成支付宝沙箱收银台表单，不会产生真实资金扣款，也不会写入线上 Supabase。</p>
-    <div class="price">¥9.90 <small>一次性沙箱订单</small></div>
+  return layout('알리페이 웹 결제 샌드박스 체험', `
+    <div class="eyebrow">로컬 샌드박스 전용</div>
+    <h1>알리페이 웹 결제</h1>
+    <p>프로젝트의 로컬 샌드박스 체험 진입점입니다. 클릭하면 알리페이 샌드박스 결제 양식을 만들며, 실제 자금이 청구되거나 운영 Supabase에 기록되지 않습니다.</p>
+    <div class="price">¥9.90 <small>일회성 샌드박스 주문</small></div>
     <form method="post" action="/checkout">
       <input type="hidden" name="checkout_token" value="${escapeHtml(checkoutToken)}">
-      <button type="submit">进入支付宝沙箱收银台</button>
+      <button type="submit">알리페이 샌드박스 결제로 이동</button>
     </form>
-    <div class="notice">仅用于网站支付联调。生产环境仍使用项目现有的登录、订单、异步通知和资格交付链路。</div>
+    <div class="notice">웹 결제 연동 확인 전용입니다. 운영 환경에서는 기존 로그인, 주문, 비동기 알림, 이용권 부여 흐름을 계속 사용합니다.</div>
   `);
 }
 
@@ -87,13 +87,13 @@ async function readForm(req) {
 
 function resultPage(orderId) {
   const safeId = escapeHtml(orderId);
-  return layout('正在确认支付结果', `
-    <div class="eyebrow">Server-side query</div>
-    <h1>正在确认支付结果</h1>
-    <p>页面不会根据回跳参数直接判定成功，而是使用本地保存的订单并由服务端向支付宝查询。</p>
-    <div id="status" class="status">正在查询支付宝订单状态…</div>
+  return layout('결제 결과 확인 중', `
+    <div class="eyebrow">서버 측 조회</div>
+    <h1>결제 결과 확인 중</h1>
+    <p>이 페이지는 리디렉션 매개변수만으로 성공을 판정하지 않습니다. 로컬에 보관한 주문을 사용해 서버가 알리페이에 직접 조회합니다.</p>
+    <div id="status" class="status">알리페이 주문 상태를 조회하고 있습니다…</div>
     <p><code>${safeId}</code></p>
-    <a class="button" href="/">返回沙箱付款页</a>
+    <a class="button" href="/">샌드박스 결제 페이지로 돌아가기</a>
   `, `<script>
     const statusNode = document.getElementById('status');
     const orderId = ${JSON.stringify(orderId)};
@@ -105,7 +105,7 @@ function resultPage(orderId) {
         statusNode.textContent = payload.message;
         if (payload.state === 'PENDING') setTimeout(refresh, 2500);
       } catch {
-        statusNode.textContent = '暂时无法确认，请稍后刷新页面重试。';
+        statusNode.textContent = '지금은 확인할 수 없습니다. 잠시 후 페이지를 새로고침해 다시 시도하세요.';
       }
     }
     refresh();
@@ -114,7 +114,7 @@ function resultPage(orderId) {
 
 async function queryOrder(order) {
   if (order.status === 'PAID') {
-    return { state: 'PAID', message: '支付宝已确认付款成功（沙箱）。' };
+    return { state: 'PAID', message: '알리페이가 결제 성공을 확인했습니다(샌드박스).' };
   }
 
   const { sdk } = getAlipayClient();
@@ -125,7 +125,7 @@ async function queryOrder(order) {
   if (String(result?.code || '') !== '10000') {
     const code = String(result?.sub_code || result?.code || '');
     if (code.includes('TRADE_NOT_EXIST')) {
-      return { state: 'PENDING', message: '订单尚未创建或支付宝仍在处理，请稍候…' };
+      return { state: 'PENDING', message: '주문이 아직 생성되지 않았거나 알리페이가 처리 중입니다. 잠시 기다려 주세요…' };
     }
     throw new Error('ALIPAY_SANDBOX_QUERY_FAILED');
   }
@@ -134,13 +134,13 @@ async function queryOrder(order) {
   }
   if (isAlipayTradePaid(result.trade_status)) {
     order.status = 'PAID';
-    return { state: 'PAID', message: '支付宝已确认付款成功（沙箱）。' };
+    return { state: 'PAID', message: '알리페이가 결제 성공을 확인했습니다(샌드박스).' };
   }
   if (result.trade_status === 'TRADE_CLOSED') {
     order.status = 'CLOSED';
-    return { state: 'CLOSED', message: '订单已关闭。' };
+    return { state: 'CLOSED', message: '주문이 종료되었습니다.' };
   }
-  return { state: 'PENDING', message: '订单待支付，请在沙箱收银台完成付款…' };
+  return { state: 'PENDING', message: '결제를 기다리는 주문입니다. 샌드박스 결제창에서 결제를 완료하세요…' };
 }
 
 const server = createServer(async (req, res) => {
@@ -180,7 +180,7 @@ const server = createServer(async (req, res) => {
         bizContent: {
           out_trade_no: id,
           total_amount: formatAlipayAmount(amountCents),
-          subject: 'GPT-Image2 付费交流群沙箱体验',
+          subject: 'GPT-Image2 유료 커뮤니티 샌드박스 체험',
           product_code: 'FAST_INSTANT_TRADE_PAY',
           timeout_express: '30m'
         }
@@ -194,11 +194,11 @@ const server = createServer(async (req, res) => {
     if (req.method === 'GET' && url.pathname === '/result') {
       const orderId = String(url.searchParams.get('order_id') || '');
       if (!orders.has(orderId)) {
-        return send(res, 200, layout('未找到本地订单', `
-          <div class="eyebrow">Safe fallback</div>
-          <h1>未找到本地订单</h1>
-          <p>该页面不会仅凭回跳参数展示付款成功。请返回付款页重新创建沙箱订单。</p>
-          <a class="button" href="/">返回沙箱付款页</a>
+        return send(res, 200, layout('로컬 주문을 찾을 수 없음', `
+          <div class="eyebrow">안전한 대체 화면</div>
+          <h1>로컬 주문을 찾을 수 없습니다</h1>
+          <p>이 페이지는 리디렉션 매개변수만으로 결제 성공을 표시하지 않습니다. 결제 페이지로 돌아가 샌드박스 주문을 다시 만들어 주세요.</p>
+          <a class="button" href="/">샌드박스 결제 페이지로 돌아가기</a>
         `));
       }
       return send(res, 200, resultPage(orderId));
@@ -220,11 +220,11 @@ const server = createServer(async (req, res) => {
       path: url.pathname,
       message: String(error?.message || 'unknown').slice(0, 160)
     });
-    return send(res, 500, layout('沙箱请求失败', `
-      <div class="eyebrow">Request failed</div>
-      <h1>沙箱请求失败</h1>
-      <p>请回到付款页重试；终端日志只记录脱敏错误类别。</p>
-      <a class="button" href="/">返回沙箱付款页</a>
+    return send(res, 500, layout('샌드박스 요청 실패', `
+      <div class="eyebrow">요청 실패</div>
+      <h1>샌드박스 요청에 실패했습니다</h1>
+      <p>결제 페이지로 돌아가 다시 시도하세요. 터미널 로그에는 민감정보를 제거한 오류 유형만 기록됩니다.</p>
+      <a class="button" href="/">샌드박스 결제 페이지로 돌아가기</a>
     `));
   }
 });

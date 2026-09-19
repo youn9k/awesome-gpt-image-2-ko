@@ -57,12 +57,12 @@ function parseCategoryMap() {
 
 function extractPrompt(block) {
   const normalized = block.replace(/\r/g, '');
-  const match = normalized.match(/\*\*提示词：\*\*[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
+  const match = normalized.match(/\*\*(?:프롬프트|提示词)[：:]\*\*[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
   return cleanText(match?.[1] || '');
 }
 
 function extractSource(block) {
-  const line = block.match(/\*\*来源：\*\*\s*([^\n]+)/)?.[1] || '';
+  const line = block.match(/\*\*(?:출처|来源)[：:]\*\*\s*([^\n]+)/)?.[1] || '';
   const link = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
   if (link) {
     return {
@@ -71,7 +71,7 @@ function extractSource(block) {
     };
   }
   return {
-    label: stripMarkdown(line) || 'Community',
+    label: stripMarkdown(line) || '커뮤니티',
     url: ''
   };
 }
@@ -80,18 +80,18 @@ function inferCategory(caseItem) {
   if (caseItem.category) return caseItem.category;
   const text = `${caseItem.title} ${caseItem.prompt}`.toLowerCase();
   const rules = [
-    ['UI & Interfaces', ['ui', 'app', 'interface', 'dashboard', 'screenshot', '网页', '界面', '截图']],
-    ['Charts & Infographics', ['infographic', 'diagram', 'chart', 'atlas', '图谱', '信息图', '图解']],
-    ['Posters & Typography', ['poster', 'cover', 'typography', '海报', '封面', '字体']],
-    ['Products & E-commerce', ['product', 'packaging', 'e-commerce', '商品', '电商', '包装']],
-    ['Brand & Logos', ['logo', 'brand', 'identity', '品牌', '标志']],
-    ['Architecture & Spaces', ['architecture', 'interior', 'map', '建筑', '室内', '地图']],
-    ['Photography & Realism', ['photo', 'portrait', 'camera', 'realistic', '写真', '摄影', '写实']],
-    ['Illustration & Art', ['illustration', 'painting', 'watercolor', '插画', '艺术', '水墨']],
-    ['Characters & People', ['character', 'pose', 'avatar', '角色', '人物', '头像']],
-    ['Scenes & Storytelling', ['storyboard', 'scene', 'narrative', '场景', '叙事', '分镜']],
-    ['History & Classical Themes', ['history', 'dynasty', 'classical', '历史', '古风', '唐朝', '宋']],
-    ['Documents & Publishing', ['document', 'manual', 'prescription', '文档', '手册', '处方']]
+    ['UI & Interfaces', ['ui', 'app', 'interface', 'dashboard', 'screenshot', '웹', '인터페이스', '스크린샷', '网页', '界面', '截图']],
+    ['Charts & Infographics', ['infographic', 'diagram', 'chart', 'atlas', '인포그래픽', '도표', '다이어그램', '图谱', '信息图', '图解']],
+    ['Posters & Typography', ['poster', 'cover', 'typography', '포스터', '표지', '타이포그래피', '海报', '封面', '字体']],
+    ['Products & E-commerce', ['product', 'packaging', 'e-commerce', '제품', '이커머스', '패키징', '상품', '商品', '电商', '包装']],
+    ['Brand & Logos', ['logo', 'brand', 'identity', '브랜드', '로고', '아이덴티티', '品牌', '标志']],
+    ['Architecture & Spaces', ['architecture', 'interior', 'map', '건축', '실내', '지도', '建筑', '室内', '地图']],
+    ['Photography & Realism', ['photo', 'portrait', 'camera', 'realistic', '사진', '인물', '사실적', '写真', '摄影', '写实']],
+    ['Illustration & Art', ['illustration', 'painting', 'watercolor', '일러스트', '예술', '수묵', '插画', '艺术', '水墨']],
+    ['Characters & People', ['character', 'pose', 'avatar', '캐릭터', '포즈', '인물', '角色', '人物', '头像']],
+    ['Scenes & Storytelling', ['storyboard', 'scene', 'narrative', '스토리보드', '장면', '서사', '场景', '叙事', '分镜']],
+    ['History & Classical Themes', ['history', 'dynasty', 'classical', '역사', '왕조', '고전', '历史', '古风', '唐朝', '宋']],
+    ['Documents & Publishing', ['document', 'manual', 'prescription', '문서', '매뉴얼', '처방', '文档', '手册', '处方']]
   ];
   return rules.find(([, keys]) => keys.some((key) => text.includes(key)))?.[0] || 'Other Use Cases';
 }
@@ -135,7 +135,7 @@ function parseCases() {
     for (let i = 1; i < chunks.length; i += 2) {
       const id = Number(chunks[i]);
       const block = chunks[i + 1] || '';
-      const title = stripMarkdown(block.match(/###\s*例\s*\d+：([^\n]+)/)?.[1] || `Case ${id}`);
+      const title = stripMarkdown(block.match(/###\s*(?:사례|例)\s*\d+\s*[：:]\s*([^\n]+)/)?.[1] || `사례 ${id}`);
       const imageMatch = block.match(/!\[([^\]]*)\]\(([^)]+)\)/);
       const prompt = extractPrompt(block);
       const source = extractSource(block);

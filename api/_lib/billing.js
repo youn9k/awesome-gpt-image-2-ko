@@ -5,6 +5,56 @@ const DEFAULT_APP_URL = 'https://gpt-image2.canghe.ai';
 
 let stripeClient;
 
+// Keep Korean product copy available during the rolling migration from *_zh to
+// *_ko. Once the database migration has run, each row's *_ko value wins.
+// Unknown legacy products deliberately fall back to English rather than
+// exposing their old Chinese copy in the Korean product and payment UI.
+const LEGACY_KOREAN_PRODUCT_COPY = Object.freeze({
+  starter: {
+    name: '입문 멤버십',
+    description: '매월 700 크레딧으로 가벼운 프롬프트 테스트와 일상 이미지 실험에 적합합니다.'
+  },
+  creator: {
+    name: '크리에이터 멤버십',
+    description: '매월 1,800 크레딧으로 사례 재활용, 콘텐츠 제작, 프롬프트 테스트를 자주 하는 데 적합합니다.'
+  },
+  studio: {
+    name: '스튜디오 멤버십',
+    description: '매월 5,200 크레딧으로 고빈도 GPT-Image2 워크플로와 소규모 팀에 적합합니다.'
+  },
+  pack_30: {
+    name: '30 크레딧 팩',
+    description: '더 많은 사례를 계속 시도하기에 적합합니다.'
+  },
+  pack_120: {
+    name: '120 크레딧 팩',
+    description: '정기적인 프롬프트 테스트에 적합합니다.'
+  },
+  pack_360: {
+    name: '360 크레딧 팩',
+    description: '대량 콘텐츠 제작과 소규모 팀에 적합합니다.'
+  },
+  pack_300: {
+    name: '300 크레딧 팩',
+    description: '더 많은 GPT-Image2 사례를 테스트하기 위한 입문 팩입니다.'
+  },
+  pack_1000: {
+    name: '1,000 크레딧 팩',
+    description: '정기적인 프롬프트 테스트와 시각적 반복을 위한 크리에이터 팩입니다.'
+  },
+  pack_3000: {
+    name: '3,000 크레딧 팩',
+    description: '대량 콘텐츠 제작과 소규모 팀을 위한 고빈도 팩입니다.'
+  }
+});
+
+function koreanProductCopy(row, field) {
+  return row[`${field}_ko`]
+    || LEGACY_KOREAN_PRODUCT_COPY[row.id]?.[field]
+    || row[`${field}_en`]
+    || '';
+}
+
 export function isStripeConfigured() {
   return Boolean(process.env.STRIPE_SECRET_KEY);
 }
@@ -67,11 +117,11 @@ export function formatPlan(row) {
     type: 'membership',
     name: {
       en: row.name_en,
-      zh: row.name_zh
+      ko: koreanProductCopy(row, 'name')
     },
     description: {
       en: row.description_en,
-      zh: row.description_zh
+      ko: koreanProductCopy(row, 'description')
     },
     monthlyCredits: Number(row.monthly_credits || 0),
     amountCents: Number(row.amount_cents || 0),
@@ -89,11 +139,11 @@ export function formatPack(row) {
     type: 'credit_pack',
     name: {
       en: row.name_en,
-      zh: row.name_zh
+      ko: koreanProductCopy(row, 'name')
     },
     description: {
       en: row.description_en,
-      zh: row.description_zh
+      ko: koreanProductCopy(row, 'description')
     },
     credits: Number(row.credits || 0),
     amountCents: Number(row.amount_cents || 0),

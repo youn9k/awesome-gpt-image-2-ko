@@ -41,10 +41,13 @@ test('platform submission sends the fixed schema and callback base', async () =>
 });
 
 test('platform status parsing carries result URL, expiry and actual cost', async () => {
+  let requestedUrl = '';
   const task = await getApimartTask({
     apiKey: 'platform-key',
     taskId: 'task_abcdefgh',
-    fetchImpl: async () => jsonResponse(200, {
+    fetchImpl: async (url) => {
+      requestedUrl = String(url);
+      return jsonResponse(200, {
       data: {
         id: 'task_abcdefgh',
         status: 'completed',
@@ -52,8 +55,10 @@ test('platform status parsing carries result URL, expiry and actual cost', async
         cost: 0.010625,
         result: { images: [{ url: 'https://cdn.example/result.png', expires_at: 1787961600 }] }
       }
-    })
+      });
+    }
   });
+  assert.match(requestedUrl, /language=ko/);
   assert.equal(task.image, 'https://cdn.example/result.png');
   assert.equal(task.expiresAt, 1787961600);
   assert.equal(task.cost, 0.010625);

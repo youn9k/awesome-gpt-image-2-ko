@@ -15,7 +15,7 @@ import {
 
 test('generation payload locks GPT-Image-2 to one 1K square image', () => {
   assert.deepEqual(buildApimartGenerationPayload('  draw a fox  ', {
-    language: 'zh',
+    language: 'ko',
     webhook: 'https://example.com/api/generation',
     n: 9,
     size: '16:9',
@@ -27,7 +27,7 @@ test('generation payload locks GPT-Image-2 to one 1K square image', () => {
     size: '1:1',
     resolution: '1k',
     webhook: 'https://example.com/api/generation',
-    language: 'zh'
+    language: 'ko'
   });
 });
 

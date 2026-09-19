@@ -25,56 +25,56 @@ import './community.css';
 const TERMS_VERSION = '2026-07-22';
 
 const communityCopy = {
-  zh: {
-    brand: 'GPT-Image2 付费交流群',
-    back: '返回案例库',
-    admin: '管理后台',
-    signIn: '登录',
-    signOut: '退出登录',
-    eyebrow: '一次付费 · 长期资格',
-    title: '和真正做图的人，一起拆 Prompt、案例与工作流。',
-    subtitle: '支付宝一次性支付 ¥9.90。付款资格绑定当前账号，换设备登录后仍可重新查看入群二维码。',
-    priceSuffix: '一次性',
-    benefitsTitle: '群里主要交流什么',
-    benefits: ['GPT-Image2 Prompt 与案例拆解', '生图工具、模型表现与实用工作流', '创作者之间的实战问题与经验交流'],
-    audienceTitle: '更适合这些人',
-    audience: ['正在用 AI 做图或内容生产', '希望把零散 Prompt 变成稳定流程', '愿意分享真实尝试，也尊重他人交流'],
-    boundaryTitle: '服务边界',
-    boundaries: ['不承诺一对一服务或固定答疑次数', '不承诺独家资料、收益结果或永久群活跃度', '违法违规、广告骚扰或破坏交流秩序的账号可被撤销资格'],
-    checking: '正在核对账号与付款资格…',
-    loginTitle: '登录后才能购买和恢复资格',
-    loginText: '资格绑定现有 Supabase 账号，避免二维码公开传播，也方便跨设备恢复。',
-    availableTitle: '准备好后即可支付',
-    availableText: '金额由服务端固定为 ¥9.90，浏览器无法修改。支付完成后由服务器向支付宝查单确认。',
-    terms: '我已阅读并同意：本群以实战交流为主，不包含一对一服务、固定答疑、独家资料或收益承诺；退款需联系管理员人工审核。',
-    pay: '支付宝支付 ¥9.90',
-    redirecting: '正在打开支付宝收银台…',
-    pendingTitle: '订单待支付或待确认',
-    pendingText: '请勿重复付款。若已完成支付，可重新查询同一订单；支付宝通知和主动查单任一确认后都会恢复资格。',
-    query: '重新查询支付结果',
-    closeOrder: '关闭待支付订单',
-    paidTitle: '付款资格已确认',
-    paidText: '请使用微信扫描下方二维码入群。二维码仅对当前已付款账号显示。',
-    qrUpdatingTitle: '付款已确认，群码正在更新',
-    qrUpdatingText: '管理员尚未上传当前群二维码，或刚完成换码。请稍后刷新；你的付款资格不会丢失。',
-    pausedTitle: '当前暂停新订单',
-    pausedText: '已付款用户仍可查看群码，退款和管理员操作也不受影响。',
-    refundedTitle: '该订单已退款',
-    refundedText: '支付宝已确认退款成功，因此该订单的群码访问资格已失效。',
-    revokedTitle: '该资格已被撤销',
-    revokedText: '如有疑问，请通过页面底部的人工支持渠道联系管理员。',
-    failedTitle: '暂时无法完成操作',
-    retry: '重试',
-    support: '公众号与人工支持',
-    supportText: '关注公众号「苍何」，或在微信搜索「苍何」。支付、入群、退款或使用问题都可以通过公众号留言联系；退款经人工审核后原路退回。',
-    supportQrAlt: '苍何微信公众号二维码与微信搜索提示',
-    resultEyebrow: '支付宝支付结果',
-    resultTitle: '正在由服务器确认这笔订单。',
-    resultText: '本页不会信任网址参数判定付款成功，只展示服务端查单或验签通知确认后的状态。',
-    qrAlt: 'GPT-Image2 付费交流群二维码',
-    noOrder: '当前账号没有可查询的付费群订单。',
+  ko: {
+    brand: 'GPT-Image2 유료 커뮤니티',
+    back: '사례 라이브러리로 돌아가기',
+    admin: '관리자',
+    signIn: '로그인',
+    signOut: '로그아웃',
+    eyebrow: '한 번 결제 · 장기 이용',
+    title: '실제로 이미지를 만드는 사람들과 프롬프트, 사례, 워크플로를 함께 분석하세요.',
+    subtitle: '알리페이로 ¥9.90을 한 번 결제합니다. 이용권은 현재 계정에 연결되며, 다른 기기에서도 로그인해 입장 QR 코드를 다시 볼 수 있습니다.',
+    priceSuffix: '일회성',
+    benefitsTitle: '커뮤니티에서 다루는 내용',
+    benefits: ['GPT-Image2 프롬프트와 사례 분석', '이미지 도구, 모델 특성, 실전 워크플로', '창작자 간의 실제 문제와 경험 공유'],
+    audienceTitle: '이런 분께 잘 맞습니다',
+    audience: ['AI로 이미지나 콘텐츠를 만드는 분', '흩어진 프롬프트를 안정적인 흐름으로 만들고 싶은 분', '실제 시도를 공유하고 서로의 대화를 존중하는 분'],
+    boundaryTitle: '서비스 범위',
+    boundaries: ['1:1 서비스나 정해진 답변 횟수를 약속하지 않습니다', '독점 자료, 수익 결과, 영구적인 커뮤니티 활동을 약속하지 않습니다', '불법 행위, 광고성 방해, 대화 질서 훼손 계정은 이용권이 취소될 수 있습니다'],
+    checking: '계정과 결제 이용권을 확인하고 있습니다…',
+    loginTitle: '구매하거나 이용권을 복구하려면 로그인하세요',
+    loginText: 'QR 코드가 공개적으로 퍼지는 것을 막고 기기 간 복구를 지원하기 위해 이용권은 현재 Supabase 계정에 연결됩니다.',
+    availableTitle: '준비되면 결제할 수 있습니다',
+    availableText: '금액은 서버에서 ¥9.90으로 고정하며 브라우저에서 바꿀 수 없습니다. 결제 후 서버가 알리페이에 주문을 조회해 확인합니다.',
+    terms: '읽고 동의합니다. 이 커뮤니티는 실전 교류를 위한 곳이며, 1:1 서비스, 정기 답변, 독점 자료, 수익을 약속하지 않습니다. 환불은 관리자 검토가 필요합니다.',
+    pay: '알리페이로 ¥9.90 결제',
+    redirecting: '알리페이 결제창을 여는 중…',
+    pendingTitle: '결제를 기다리거나 확인 중인 주문',
+    pendingText: '중복 결제하지 마세요. 이미 결제했다면 같은 주문을 다시 조회할 수 있으며, 알리페이 알림 또는 서버 조회 중 하나가 확인되면 이용권이 복구됩니다.',
+    query: '결제 결과 다시 조회',
+    closeOrder: '대기 중인 주문 닫기',
+    paidTitle: '결제 이용권이 확인되었습니다',
+    paidText: '아래 QR 코드를 위챗(WeChat)으로 스캔해 입장하세요. QR 코드는 결제한 현재 계정에만 표시됩니다.',
+    qrUpdatingTitle: '결제는 확인되었고, 커뮤니티 QR 코드를 갱신 중입니다',
+    qrUpdatingText: '관리자가 현재 QR 코드를 아직 올리지 않았거나 방금 교체했습니다. 잠시 후 새로고침하세요. 결제 이용권은 유지됩니다.',
+    pausedTitle: '현재 신규 주문을 일시 중지했습니다',
+    pausedText: '결제한 사용자는 계속 QR 코드를 볼 수 있으며 환불과 관리자 작업도 계속 이용할 수 있습니다.',
+    refundedTitle: '이 주문은 환불되었습니다',
+    refundedText: '알리페이가 환불 성공을 확인하여 이 주문의 QR 코드 이용권이 더 이상 유효하지 않습니다.',
+    revokedTitle: '이 이용권은 취소되었습니다',
+    revokedText: '문의가 있으면 페이지 아래의 지원 채널로 관리자에게 연락하세요.',
+    failedTitle: '지금은 작업을 완료할 수 없습니다',
+    retry: '다시 시도',
+    support: '공식 계정 및 지원',
+    supportText: '창허(苍何) 공식 위챗(WeChat) 계정을 팔로우하거나 위챗에서 「창허(苍何)」를 검색하세요. 결제, 입장, 환불, 사용 문의는 공식 계정 메시지로 남길 수 있으며, 환불은 관리자 검토 후 원래 결제 수단으로 처리됩니다.',
+    supportQrAlt: '창허(苍何) 공식 위챗 계정 QR 코드와 검색 안내',
+    resultEyebrow: '알리페이 결제 결과',
+    resultTitle: '서버가 이 주문을 확인하고 있습니다.',
+    resultText: '이 페이지는 URL 매개변수만으로 결제 성공을 신뢰하지 않습니다. 서버 조회 또는 서명 검증 알림으로 확인된 상태만 표시합니다.',
+    qrAlt: 'GPT-Image2 유료 커뮤니티 QR 코드',
+    noOrder: '현재 계정에는 조회할 유료 커뮤니티 주문이 없습니다.',
     statusLabels: {
-      PENDING: '待支付', PAID: '已付款', CLOSED: '已关闭', REFUNDED: '已退款', REVOKED: '已撤销'
+      PENDING: '결제 대기', PAID: '결제 완료', CLOSED: '종료됨', REFUNDED: '환불됨', REVOKED: '취소됨'
     }
   },
   en: {
@@ -188,8 +188,8 @@ export function CommunityPage({
 
   useEffect(() => {
     const previousTitle = document.title;
-    document.title = language === 'zh'
-      ? 'GPT-Image2 付费交流群'
+    document.title = language === 'ko'
+      ? 'GPT-Image2 유료 커뮤니티'
       : 'GPT-Image2 Paid Community';
     return () => { document.title = previousTitle; };
   }, [language]);
@@ -417,9 +417,9 @@ export function CommunityPage({
         <a className="communityBrand" href="/community"><Users size={20} />{t.brand}</a>
         <nav>
           <a href="/"><ArrowLeft size={16} />{t.back}</a>
-          <div className="communityLanguage" aria-label="Language">
+          <div className="communityLanguage" aria-label={language === 'ko' ? '언어' : 'Language'}>
+            <button className={language === 'ko' ? 'active' : ''} type="button" onClick={() => setLanguage('ko')}>KO</button>
             <button className={language === 'en' ? 'active' : ''} type="button" onClick={() => setLanguage('en')}>EN</button>
-            <button className={language === 'zh' ? 'active' : ''} type="button" onClick={() => setLanguage('zh')}>中文</button>
           </div>
           {profile?.isSuperAdmin ? <button type="button" onClick={onOpenAdmin}><Wrench size={16} />{t.admin}</button> : null}
           {session?.access_token
@@ -536,7 +536,7 @@ export function CommunityPage({
 }
 
 export function CommunityAdminSection({ language, session }) {
-  const zh = language === 'zh';
+  const isKorean = language === 'ko';
   const [orders, setOrders] = useState([]);
   const [qrMeta, setQrMeta] = useState(null);
   const [qrUrl, setQrUrl] = useState('');
@@ -596,7 +596,7 @@ export function CommunityAdminSection({ language, session }) {
     event.target.value = '';
     if (!file) return;
     if (!['image/png', 'image/jpeg', 'image/webp'].includes(file.type) || file.size > 2 * 1024 * 1024) {
-      setMessage(zh ? '仅支持 2 MB 内的 PNG、JPEG 或 WebP。' : 'Use a PNG, JPEG, or WebP file under 2 MB.');
+      setMessage(isKorean ? '2MB 이하의 PNG, JPEG 또는 WebP 파일만 지원합니다.' : 'Use a PNG, JPEG, or WebP file under 2 MB.');
       return;
     }
     setStatus('loading');
@@ -609,7 +609,7 @@ export function CommunityAdminSection({ language, session }) {
       const payload = await response.json().catch(() => ({}));
       if (!response.ok || !payload.ok) throw new Error(payload.error || 'COMMUNITY_QR_UPLOAD_FAILED');
       await loadData();
-      setMessage(zh ? '群二维码已原子替换。' : 'The group QR was replaced atomically.');
+      setMessage(isKorean ? '커뮤니티 QR 코드를 안전하게 교체했습니다.' : 'The group QR was replaced atomically.');
     } catch (error) {
       setMessage(String(error?.message || 'COMMUNITY_QR_UPLOAD_FAILED'));
       setStatus('error');
@@ -618,7 +618,7 @@ export function CommunityAdminSection({ language, session }) {
 
   async function orderAction(order, action) {
     const destructive = action === 'refund' || action === 'revoke';
-    if (destructive && !window.confirm(zh ? '确认对这笔订单执行该操作？' : 'Confirm this order action?')) return;
+    if (destructive && !window.confirm(isKorean ? '이 주문에 이 작업을 수행하시겠습니까?' : 'Confirm this order action?')) return;
     setBusyId(`${action}:${order.id}`);
     setMessage('');
     try {
@@ -634,7 +634,7 @@ export function CommunityAdminSection({ language, session }) {
       const payload = await response.json().catch(() => ({}));
       if (!response.ok || !payload.ok) throw new Error(payload.error || 'COMMUNITY_ADMIN_ACTION_FAILED');
       await loadData();
-      setMessage(zh ? '订单状态已更新。' : 'Order status updated.');
+      setMessage(isKorean ? '주문 상태를 업데이트했습니다.' : 'Order status updated.');
     } catch (error) {
       setMessage(String(error?.message || 'COMMUNITY_ADMIN_ACTION_FAILED'));
     } finally {
@@ -645,36 +645,36 @@ export function CommunityAdminSection({ language, session }) {
   return (
     <section className="communityAdminBlock">
       <div className="communityAdminHeader">
-        <div><span><Users size={17} />{zh ? '付费交流群' : 'Paid community'}</span><h3>{zh ? '订单、群码与退款' : 'Orders, QR, and refunds'}</h3></div>
-        <button type="button" onClick={loadData} disabled={status === 'loading'}><RefreshCw size={16} />{zh ? '刷新' : 'Refresh'}</button>
+        <div><span><Users size={17} />{isKorean ? '유료 커뮤니티' : 'Paid community'}</span><h3>{isKorean ? '주문, QR 코드, 환불' : 'Orders, QR, and refunds'}</h3></div>
+        <button type="button" onClick={loadData} disabled={status === 'loading'}><RefreshCw size={16} />{isKorean ? '새로고침' : 'Refresh'}</button>
       </div>
       <div className="communityAdminQr">
-        {qrUrl ? <img src={qrUrl} alt={zh ? '当前付费群二维码' : 'Current paid group QR'} /> : <div><ImageUp size={28} /><span>{zh ? '尚未上传受保护群码' : 'No protected QR uploaded'}</span></div>}
-        <label><ImageUp size={16} />{qrMeta ? (zh ? '替换群二维码' : 'Replace QR') : (zh ? '上传群二维码' : 'Upload QR')}<input type="file" accept="image/png,image/jpeg,image/webp" onChange={uploadQr} /></label>
+        {qrUrl ? <img src={qrUrl} alt={isKorean ? '현재 유료 커뮤니티 QR 코드' : 'Current paid group QR'} /> : <div><ImageUp size={28} /><span>{isKorean ? '보호된 커뮤니티 QR 코드가 아직 업로드되지 않았습니다' : 'No protected QR uploaded'}</span></div>}
+        <label><ImageUp size={16} />{qrMeta ? (isKorean ? '커뮤니티 QR 코드 교체' : 'Replace QR') : (isKorean ? '커뮤니티 QR 코드 업로드' : 'Upload QR')}<input type="file" accept="image/png,image/jpeg,image/webp" onChange={uploadQr} /></label>
         {qrMeta ? <small>{qrMeta.mediaType} · {Math.ceil(qrMeta.sizeBytes / 1024)} KB</small> : null}
       </div>
       {message ? <p className="communityAdminMessage">{message}</p> : null}
       <div className="communityAdminTableWrap">
         <table>
-          <thead><tr><th>{zh ? '账号' : 'Account'}</th><th>{zh ? '状态' : 'Status'}</th><th>{zh ? '金额' : 'Amount'}</th><th>{zh ? '付款时间' : 'Paid at'}</th><th>{zh ? '退款状态' : 'Refund'}</th><th>{zh ? '操作' : 'Actions'}</th></tr></thead>
+          <thead><tr><th>{isKorean ? '계정' : 'Account'}</th><th>{isKorean ? '상태' : 'Status'}</th><th>{isKorean ? '금액' : 'Amount'}</th><th>{isKorean ? '결제 시각' : 'Paid at'}</th><th>{isKorean ? '환불 상태' : 'Refund'}</th><th>{isKorean ? '작업' : 'Actions'}</th></tr></thead>
           <tbody>
             {orders.map((order) => (
               <tr key={order.id}>
                 <td><strong>{order.email || order.userId}</strong><small>{order.id}</small></td>
                 <td><span className={`communityOrderStatus ${order.status.toLowerCase()}`}>{order.status}</span></td>
                 <td>¥{(order.amountCents / 100).toFixed(2)}</td>
-                <td>{order.paidAt ? new Date(order.paidAt).toLocaleString() : '—'}</td>
+                <td>{order.paidAt ? new Date(order.paidAt).toLocaleString(isKorean ? 'ko-KR' : 'en-US') : '—'}</td>
                 <td>{order.refundStatus}</td>
                 <td><div className="communityAdminActions">
-                  {order.status === 'PAID' && order.refundStatus !== 'PROCESSING' ? <button type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'refund')}>{zh ? '退款' : 'Refund'}</button> : null}
-                  {order.status === 'PAID' && order.refundStatus === 'PROCESSING' ? <button type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'refund-query')}>{zh ? '查询退款' : 'Query refund'}</button> : null}
-                  {order.status === 'PAID' && order.refundStatus !== 'PROCESSING' ? <button className="danger" type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'revoke')}>{zh ? '撤销资格' : 'Revoke'}</button> : null}
+                  {order.status === 'PAID' && order.refundStatus !== 'PROCESSING' ? <button type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'refund')}>{isKorean ? '환불' : 'Refund'}</button> : null}
+                  {order.status === 'PAID' && order.refundStatus === 'PROCESSING' ? <button type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'refund-query')}>{isKorean ? '환불 조회' : 'Query refund'}</button> : null}
+                  {order.status === 'PAID' && order.refundStatus !== 'PROCESSING' ? <button className="danger" type="button" disabled={Boolean(busyId)} onClick={() => orderAction(order, 'revoke')}>{isKorean ? '이용권 취소' : 'Revoke'}</button> : null}
                 </div></td>
               </tr>
             ))}
           </tbody>
         </table>
-        {!orders.length && status !== 'loading' ? <p>{zh ? '暂无付费群订单。' : 'No paid-community orders yet.'}</p> : null}
+        {!orders.length && status !== 'loading' ? <p>{isKorean ? '유료 커뮤니티 주문이 없습니다.' : 'No paid-community orders yet.'}</p> : null}
       </div>
     </section>
   );

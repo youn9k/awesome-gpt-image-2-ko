@@ -14,7 +14,7 @@ export function buildApimartGenerationPayload(prompt, options = {}) {
   };
 
   if (options.webhook) payload.webhook = options.webhook;
-  if (options.language) payload.language = options.language === 'zh' ? 'zh' : 'en';
+  if (options.language) payload.language = options.language === 'ko' ? 'ko' : 'en';
   return payload;
 }
 

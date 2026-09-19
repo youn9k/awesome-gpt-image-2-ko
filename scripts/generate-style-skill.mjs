@@ -76,7 +76,7 @@ function validateLibrary(library) {
 function label(value, language = 'en') {
   if (!value) return '';
   if (typeof value === 'string') return value;
-  return value[language] || value.en || value.zh || '';
+  return value[language] || value.en || value.ko || '';
 }
 
 function linkForTemplate(library, template) {
@@ -110,7 +110,7 @@ function renderReference(library) {
   ];
 
   for (const template of library.templates) {
-    lines.push(`### ${label(template.title, 'en')} / ${label(template.title, 'zh')}`);
+    lines.push(`### ${label(template.title, 'en')} / ${label(template.title, 'ko')}`);
     lines.push('');
     lines.push(`- ID: \`${template.id}\``);
     lines.push(`- Category: ${template.category}`);
@@ -123,36 +123,36 @@ function renderReference(library) {
     lines.push('');
     lines.push('Use when:');
     lines.push(`- EN: ${label(template.useWhen, 'en')}`);
-    lines.push(`- ZH: ${label(template.useWhen, 'zh')}`);
+    lines.push(`- KO: ${label(template.useWhen, 'ko')}`);
     lines.push('');
     lines.push('Guidance:');
     lines.push(bulletList(template.guidance?.en, 'en'));
-    lines.push(bulletList(template.guidance?.zh, 'zh'));
+    lines.push(bulletList(template.guidance?.ko, 'ko'));
     lines.push('');
     lines.push('Pitfalls:');
     lines.push(bulletList(template.pitfalls?.en, 'en'));
-    lines.push(bulletList(template.pitfalls?.zh, 'zh'));
+    lines.push(bulletList(template.pitfalls?.ko, 'ko'));
     lines.push('');
   }
 
   lines.push('## Categories');
   lines.push('');
   for (const category of library.categories) {
-    lines.push(`- ${category.value}: ${label(category.title, 'zh')} | ${label(category.description, 'en')}`);
+    lines.push(`- ${category.value}: ${label(category.title, 'ko')} | ${label(category.description, 'en')}`);
   }
   lines.push('');
 
   lines.push('## Styles');
   lines.push('');
   for (const style of library.styles) {
-    lines.push(`- ${style.value}: ${label(style.title, 'zh')} | Keywords: ${list(style.keywords)}`);
+    lines.push(`- ${style.value}: ${label(style.title, 'ko')} | Keywords: ${list(style.keywords)}`);
   }
   lines.push('');
 
   lines.push('## Scenes');
   lines.push('');
   for (const scene of library.scenes) {
-    lines.push(`- ${scene.value}: ${label(scene.title, 'zh')} | Keywords: ${list(scene.keywords)}`);
+    lines.push(`- ${scene.value}: ${label(scene.title, 'ko')} | Keywords: ${list(scene.keywords)}`);
   }
   lines.push('');
 

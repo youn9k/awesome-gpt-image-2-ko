@@ -33,7 +33,7 @@ async function jsonResponse(response) {
 export async function submitApimartGeneration({
   apiKey,
   prompt,
-  language = 'en',
+  language = 'ko',
   webhook = '',
   fetchImpl = fetch
 }) {
@@ -59,7 +59,7 @@ export async function submitApimartGeneration({
   return { taskId, status: 'submitted' };
 }
 
-export async function getApimartTask({ apiKey, taskId, language = 'en', fetchImpl = fetch }) {
+export async function getApimartTask({ apiKey, taskId, language = 'ko', fetchImpl = fetch }) {
   if (!isValidApimartTaskId(taskId)) {
     const error = new Error('APIMART_INVALID_TASK');
     error.code = error.message;
@@ -67,7 +67,7 @@ export async function getApimartTask({ apiKey, taskId, language = 'en', fetchImp
     throw error;
   }
   const { baseUrl } = getApimartConfig();
-  const query = new URLSearchParams({ language: language === 'zh' ? 'zh' : 'en' });
+  const query = new URLSearchParams({ language: language === 'ko' ? 'ko' : 'en' });
   const response = await fetchImpl(`${baseUrl}/v1/tasks/${encodeURIComponent(taskId)}?${query}`, {
     method: 'GET',
     headers: {
